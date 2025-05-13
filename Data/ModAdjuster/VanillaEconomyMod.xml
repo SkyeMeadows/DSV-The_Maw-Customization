@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Definition xsi:type="MyObjectBuilder_BankingSystemDefinition">
+        <Id Type="MyObjectBuilder_BankingSystemDefinition" Subtype="BankingSystem" />
+        
+        <StartingBalance>0</StartingBalance>
+
+        <PhysicalItemId Type="MyObjectBuilder_PhysicalObject" Subtype="SpaceCredit" />
+    </Definition>
+    
+    <PhysicalItems>
+        <PhysicalItem xsi:type="MyObjectBuilder_PhysicalItemDefinition">
+            <Id>
+                <TypeId>PhysicalObject</TypeId>
+                <SubtypeId>SpaceCredit</SubtypeId>
+            </Id>
+            <Mass>0.0001</Mass>
+            <Volume>0.00001</Volume>
+            <MaxStackAmount>1000000000</MaxStackAmount>
+        </PhysicalItem>
+    </PhysicalItems>
+</Definitions>

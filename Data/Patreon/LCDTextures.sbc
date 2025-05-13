@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LCDTextures>
+   
+   <LCDTextureDefinition>
+     <Id>
+       <TypeId>LCDTextureDefinition</TypeId>
+       <SubtypeId>DSV Logo</SubtypeId>
+     </Id>
+    <TexturePath>Data\Patreon Images\Textures\Models\DSVLogo.dds</TexturePath>
+   </LCDTextureDefinition>
+   <LCDTextureDefinition>
+     <Id>
+       <TypeId>LCDTextureDefinition</TypeId>
+       <SubtypeId>BERTI Logo</SubtypeId>
+     </Id>
+    <TexturePath>Data\Patreon Images\Textures\Models\BERTI_Logo.dds</TexturePath>
+   </LCDTextureDefinition>
+   <LCDTextureDefinition>
+     <Id>
+       <TypeId>LCDTextureDefinition</TypeId>
+       <SubtypeId>FORGE Logo</SubtypeId>
+     </Id>
+    <TexturePath>Data\Patreon Images\Textures\Models\FORGE_Logo.dds</TexturePath>
+   </LCDTextureDefinition>
+   <LCDTextureDefinition>
+     <Id>
+       <TypeId>LCDTextureDefinition</TypeId>
+       <SubtypeId>UNITE Logo</SubtypeId>
+     </Id>
+    <TexturePath>Data\Patreon Images\Textures\Models\UNITE_Logo.dds</TexturePath>
+   </LCDTextureDefinition>
+
+  </LCDTextures>
+</Definitions>
