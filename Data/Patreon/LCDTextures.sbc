@@ -7,28 +7,7 @@
        <TypeId>LCDTextureDefinition</TypeId>
        <SubtypeId>DSV Logo</SubtypeId>
      </Id>
-    <TexturePath>Data\Patreon Images\Textures\Models\DSVLogo.dds</TexturePath>
-   </LCDTextureDefinition>
-   <LCDTextureDefinition>
-     <Id>
-       <TypeId>LCDTextureDefinition</TypeId>
-       <SubtypeId>BERTI Logo</SubtypeId>
-     </Id>
-    <TexturePath>Data\Patreon Images\Textures\Models\BERTI_Logo.dds</TexturePath>
-   </LCDTextureDefinition>
-   <LCDTextureDefinition>
-     <Id>
-       <TypeId>LCDTextureDefinition</TypeId>
-       <SubtypeId>FORGE Logo</SubtypeId>
-     </Id>
-    <TexturePath>Data\Patreon Images\Textures\Models\FORGE_Logo.dds</TexturePath>
-   </LCDTextureDefinition>
-   <LCDTextureDefinition>
-     <Id>
-       <TypeId>LCDTextureDefinition</TypeId>
-       <SubtypeId>UNITE Logo</SubtypeId>
-     </Id>
-    <TexturePath>Data\Patreon Images\Textures\Models\UNITE_Logo.dds</TexturePath>
+    <TexturePath>Data\Patreon\Textures\Models\DSVLogo.dds</TexturePath>
    </LCDTextureDefinition>
 
   </LCDTextures>
