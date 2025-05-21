@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CubeBlocks>
+    <!-- All Build times are currently vanilla -->
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXCycloneCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>90</BuildTimeSeconds>
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXHurricaneCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>120</BuildTimeSeconds>
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXTyphoonCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>150</BuildTimeSeconds>    
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXTsunamiCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>100</BuildTimeSeconds>      
+    </Definition>
+
+	<Definition xsi:type="MyObjectBuilder_WeaponBlockDefinition">
+      <Id>
+        <TypeId>SmallMissileLauncher</TypeId>
+        <SubtypeId>ARYXTempestCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>60</BuildTimeSeconds>
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXBurstTurret</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>60</BuildTimeSeconds>     
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+      <Id>
+        <TypeId>ConveyorSorter</TypeId>
+        <SubtypeId>ARYXBurstTurretSlanted</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>65</BuildTimeSeconds>     
+    </Definition>	
+
+	<Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+      <Id>
+        <TypeId>ConveyorSorter</TypeId>
+        <SubtypeId>ARYXHydraTurret</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>50</BuildTimeSeconds>    
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXHeavyFlakTurret</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>60</BuildTimeSeconds>    
+    </Definition>	
+
+	<Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+      <Id>
+        <TypeId>ConveyorSorter</TypeId>
+        <SubtypeId>ARYXMissileBattery</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>85</BuildTimeSeconds>     
+    </Definition>
+
+	<Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+      <Id>
+        <TypeId>ConveyorSorter</TypeId>
+        <SubtypeId>ARYXRocketArtillery</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>85</BuildTimeSeconds>    
+    </Definition>	
+
+	<Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXPlasmaBeamCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>90</BuildTimeSeconds>     
+    </Definition>
+	
+	<Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXPhaseRepeaterCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>90</BuildTimeSeconds>     
+    </Definition>	
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXVariableLaser</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>40</BuildTimeSeconds>   
+    </Definition>	
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXSiegeMortarCannon</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>120</BuildTimeSeconds>     
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+		<Id>
+			<TypeId>LargeMissileTurret</TypeId>
+			<SubtypeId>ARYX_EchoAutocannon</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>45</BuildTimeSeconds>    
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXGladiatorMissileLauncher</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>100</BuildTimeSeconds>
+    </Definition>
+    
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXTorpLauncher</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>80</BuildTimeSeconds>
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXInlineTorpLauncher</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>80</BuildTimeSeconds>  
+    </Definition>	
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXHeavyMissileSalvoLauncher</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>240</BuildTimeSeconds>
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXGaussCannon</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>240</BuildTimeSeconds>     
+    </Definition>
+
+	<Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXGaussTurret</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>240</BuildTimeSeconds>     
+    </Definition>
+	
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXRailgun</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>80</BuildTimeSeconds>     
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXLightCoilgun</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>140</BuildTimeSeconds>    
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+		<Id>
+			<TypeId>ConveyorSorter</TypeId>
+			<SubtypeId>ARYXHeavyCoilgun</SubtypeId>
+		</Id>
+		<BuildTimeSeconds>180</BuildTimeSeconds>   
+    </Definition>	
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXRailgunTurret</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>120</BuildTimeSeconds>      
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXReaperPulseCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>80</BuildTimeSeconds>     
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_ConveyorSorterDefinition">
+      <Id>
+        <TypeId>ConveyorSorter</TypeId>
+        <SubtypeId>AWE_MarkV_SuperLaser_Large_CB</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>160</BuildTimeSeconds>      
+    </Definition>
+
+    <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXMagnetarCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>120</BuildTimeSeconds>      
+    </Definition>
+
+	<Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXQuasarCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>60</BuildTimeSeconds>     
+    </Definition>
+
+	<Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+      <Id>
+        <TypeId>LargeMissileTurret</TypeId>
+        <SubtypeId>ARYXPulsarCannon</SubtypeId>
+      </Id>
+      <BuildTimeSeconds>30</BuildTimeSeconds>    
+    </Definition>
+
+    </CubeBlocks>
+</Definitions>

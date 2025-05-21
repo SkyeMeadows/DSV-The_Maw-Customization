@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <CubeBlocks>
+    <!-- All blocks are set to default build time currently -->
+        <Definition xsi:type="MyObjectBuilder_GyroDefinition">
+            <Id>
+                <TypeId>Gyro</TypeId>
+                <SubtypeId>LargeBlockGyro</SubtypeId>
+            </Id>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_GyroDefinition">
+            <Id>
+                <TypeId>Gyro</TypeId>
+                <SubtypeId>SmallBlockGyro</SubtypeId>
+            </Id>
+            <BuildTimeSeconds>14</BuildTimeSeconds>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
+            <Id>
+                <TypeId>JumpDrive</TypeId>
+                <SubtypeId>LargeJumpDrive</SubtypeId>
+            </Id>
+            <BuildTimeSeconds>120</BuildTimeSeconds>
+        </Definition>
+    
+    </CubeBlocks>
+</Definitions>
