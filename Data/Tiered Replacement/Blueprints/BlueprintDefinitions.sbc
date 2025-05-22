@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blueprints>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV_Gear</SubtypeId>
+            </Id>
+            <DisplayName>Gear</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV_Gear" />
+            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+    
+  </Blueprints>
+</Definitions>
