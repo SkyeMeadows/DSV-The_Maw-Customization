@@ -13,6 +13,8 @@
                 <string>OxygenTank/DSV_LG_OxygenTank_Armored</string>
                 <string>JumpDrive/DSV_LG_EfficientJumpDrive</string>
                 <string>JumpDrive/DSV_LG_LongRangeJumpDrive</string>
+                <string>JumpDrive/DSV_LG_HighMassJumpDrive</string>
+                <string>JumpDrive/DSV_LG_StarterJumpDrive</string>
                 <string>Gyro/DSV_LG_UpgradedGyro</string>
                 <string>CargoContainer/DSV_LG_SmallContainer_Armored</string>
                 <string>CargoContainer/DSV_LG_SmallContainer_Expanded</string>
