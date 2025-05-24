@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <!-- Prototech Blocks-->
+        <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
+            <Id>
+                <TypeId>JumpDrive</TypeId>
+                <SubtypeId>LargePrototechJumpDrive</SubtypeId>
+            </Id>
+            <RequiredPowerInput>64</RequiredPowerInput>
+            <PowerNeededForJump>5</PowerNeededForJump>
+            <PowerEfficiency>0.9</PowerEfficiency>
+
+            <MaxJumpDistance>6000000</MaxJumpDistance>
+            <MaxJumpMass>2500000</MaxJumpMass>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
+            <Id>
+                <TypeId>JumpDrive</TypeId>
+                <SubtypeId>SmallPrototechJumpDrive</SubtypeId>
+            </Id>
+            <RequiredPowerInput>24</RequiredPowerInput>
+            <PowerNeededForJump>1.5</PowerNeededForJump>
+            <PowerEfficiency>0.9</PowerEfficiency>
+
+            <MaxJumpDistance>500000</MaxJumpDistance>
+            <MaxJumpMass>120000</MaxJumpMass>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
+            <Id>
+                <TypeId>Thrust</TypeId>
+                <SubtypeId>LargeBlockPrototechThruster</SubtypeId>
+            </Id>
+            <ForceMagnitude>14040000</ForceMagnitude>
+            <MaxPowerConsumption>67.2</MaxPowerConsumption>
+            <MinPowerConsumption>0.000002</MinPowerConsumption>
+            <SlowdownFactor>1</SlowdownFactor>
+
+            <MinPlanetaryInfluence>0</MinPlanetaryInfluence>
+            <MaxPlanetaryInfluence>1</MaxPlanetaryInfluence>
+            <EffectivenessAtMinInfluence>1</EffectivenessAtMinInfluence>
+            <EffectivenessAtMaxInfluence>0.3</EffectivenessAtMaxInfluence>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
+            <Id>
+                <TypeId>Thrust</TypeId>
+                <SubtypeId>SmallBlockPrototechThruster</SubtypeId>
+            </Id>
+            <ForceMagnitude>561600</ForceMagnitude>
+            <MaxPowerConsumption>4.8</MaxPowerConsumption>
+            <MinPowerConsumption>0.000002</MinPowerConsumption>
+            <SlowdownFactor>1</SlowdownFactor>
+
+            <MinPlanetaryInfluence>0</MinPlanetaryInfluence>
+            <MaxPlanetaryInfluence>1</MaxPlanetaryInfluence>
+            <EffectivenessAtMinInfluence>1</EffectivenessAtMinInfluence>
+            <EffectivenessAtMaxInfluence>0.3</EffectivenessAtMaxInfluence>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
+            <Id>
+                <TypeId>Refinery</TypeId>
+                <SubtypeId>LargePrototechRefinery</SubtypeId>
+            </Id>
+            <InventoryMaxVolume>7.5</InventoryMaxVolume>
+            <InventorySize>
+                <X>2.5</X>
+                <Y>2.5</Y>
+                <Z>2.5</Z>
+            </InventorySize>
+
+            <InventoryFillFactorMin>0.3</InventoryFillFactorMin>
+            <InventoryFillFactorMax>0.6</InventoryFillFactorMax>
+
+            <StandbyPowerConsumption>0.001</StandbyPowerConsumption>
+            <OperationalPowerConsumption>1.12</OperationalPowerConsumption>
+            <BlueprintClasses>
+                <Class>Ingots</Class>
+            </BlueprintClasses>
+            <RefineSpeed>5.5</RefineSpeed>
+            <MaterialEfficiency>2.0</MaterialEfficiency>
+            <IngotAmountPerPullRequest>2000</IngotAmountPerPullRequest>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
+            <Id>
+                <TypeId>Refinery</TypeId>
+                <SubtypeId>SmallPrototechRefinery</SubtypeId>
+            </Id>
+            <InventoryMaxVolume>3.5</InventoryMaxVolume>
+            <InventorySize>
+                <X>1</X>
+                <Y>1</Y>
+                <Z>1</Z>
+            </InventorySize>
+
+            <InventoryFillFactorMin>0.3</InventoryFillFactorMin>
+            <InventoryFillFactorMax>0.6</InventoryFillFactorMax>
+
+            <StandbyPowerConsumption>0.001</StandbyPowerConsumption>
+            <OperationalPowerConsumption>0.425</OperationalPowerConsumption>
+            <BlueprintClasses>
+                <Class>Ingots</Class>
+            </BlueprintClasses>
+            <RefineSpeed>1.5</RefineSpeed>
+            <MaterialEfficiency>1.25</MaterialEfficiency>
+            <IngotAmountPerPullRequest>2000</IngotAmountPerPullRequest>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_AssemblerDefinition">
+            <Id>
+                <TypeId>Assembler</TypeId>
+                <SubtypeId>LargePrototechAssembler</SubtypeId>
+            </Id>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_GyroDefinition">
+            <Id>
+                <TypeId>Gyro</TypeId>
+                <SubtypeId>LargeBlockPrototechGyro</SubtypeId>
+            </Id>
+            <ResourceSinkGroup>Gyro</ResourceSinkGroup>
+            <ForceMagnitude>201600000</ForceMagnitude>
+            <RequiredPowerInput>0.01</RequiredPowerInput>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_GyroDefinition">
+            <Id>
+                <TypeId>Gyro</TypeId>
+                <SubtypeId>SmallBlockPrototechGyro</SubtypeId>
+            </Id>
+            <ResourceSinkGroup>Gyro</ResourceSinkGroup>
+            <ForceMagnitude>4480000</ForceMagnitude>
+            <RequiredPowerInput>0.002</RequiredPowerInput>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_BatteryBlockDefinition">
+            <Id>
+                <TypeId>BatteryBlock</TypeId>
+                <SubtypeId>LargeBlockPrototechBattery</SubtypeId>
+            </Id>
+            <MaxPowerOutput>48</MaxPowerOutput>
+            <RequiredPowerInput>24</RequiredPowerInput>
+            <AdaptibleInput>true</AdaptibleInput>
+            <MaxStoredPower>18</MaxStoredPower>
+            <InitialStoreddPowerRatio>0.3</InitialStoreddPowerRatio>
+            <RechargeMultiplier>0.9</RechargeMultiplier>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_BatteryBlockDefinition">
+            <Id>
+                <TypeId>BatteryBlock</TypeId>
+                <SubtypeId>SmallBlockPrototechBattery</SubtypeId>
+            </Id>
+            <MaxStoredPower>2</MaxStoredPower>
+            <MaxPowerOutput>2.8</MaxPowerOutput>
+            <RequiredPowerInput>8</RequiredPowerInput>
+            <InitialStoreddPowerRatio>0.3</InitialStoreddPowerRatio>
+            <RechargeMultiplier>0.9</RechargeMultiplier>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_ShipDrillDefinition">
+            <Id>
+                <TypeId>Drill</TypeId>
+                <SubtypeId>LargeBlockPrototechDrill</SubtypeId>
+            </Id>
+            <SensorRadius>4</SensorRadius>
+            <SensorOffset>3</SensorOffset>
+            <CutOutRadius>6</CutOutRadius>
+            <CutOutOffset>3</CutOutOffset>  
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_HydrogenEngineDefinition">
+            <Id>
+                <TypeId>HydrogenEngine</TypeId>
+                <SubtypeId>LargePrototechReactor</SubtypeId>
+            </Id>
+            <MaxPowerOutput>8000</MaxPowerOutput>
+            <FuelCapacity>3000000</FuelCapacity>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>GasProperties</TypeId>
+                        <SubtypeId>Hydrogen</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
+            <FuelProductionToCapacityMultiplier>0.4</FuelProductionToCapacityMultiplier>
+        </Definition>
+    </CubeBlocks>
+</Definitions>
