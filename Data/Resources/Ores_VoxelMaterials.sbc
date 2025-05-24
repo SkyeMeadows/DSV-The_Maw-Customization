@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <VoxelMaterials>
+
+        <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+            <Id>
+                <TypeId>VoxelMaterialDefinition</TypeId>
+                <SubtypeId>Karnyxium</SubtypeId>
+            </Id>
+            <MaterialTypeName>Rock</MaterialTypeName>
+            <MinedOre>Karnyxium</MinedOre>
+            <MinedOreRatio>1</MinedOreRatio>
+            <CanBeHarvested>true</CanBeHarvested>
+            <!-- Wether it spawns in asteroids, default true (even if undefined) -->
+            <SpawnsInAsteroids>true</SpawnsInAsteroids>
+            <!-- True = generated in ore pockets and gets detected by ore detector, false = used as asteroids shell -->
+            <IsRare>true</IsRare>
+            <!-- Wether it can spawn from meteorite impacts, default true (even if undefined); NOTE: requires IsRare to be true. -->
+            <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+
+            <VoxelHandPreview>Textures\Voxels\OreKarnyxium_Thumbnail.dds</VoxelHandPreview>
+
+            <ColorMetalXZnY>Textures\Voxels\AlienRockyTerrain_cm.dds</ColorMetalXZnY>
+
+            <NormalGlossXZnY>Textures\Voxels\AlienRockyTerrain_ng.dds</NormalGlossXZnY>
+
+            <SimpleTilingSetup>
+            </SimpleTilingSetup>
+
+            <InitialScale>2</InitialScale>
+            <ScaleMultiplier>4</ScaleMultiplier>
+            <InitialDistance>5</InitialDistance>
+            <DistanceMultiplier>4</DistanceMultiplier>
+            <TilingScale>32</TilingScale>
+
+            <ColorKey Hex="#DD9B28"/>
+            <LandingEffect>Landing_Jet_Ground_Dust</LandingEffect>
+
+        </VoxelMaterial>
+
+    </VoxelMaterials>
+</Definitions>
