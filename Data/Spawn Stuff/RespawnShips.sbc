@@ -7,7 +7,7 @@
         <SubtypeId>Planet Respawn Pod</SubtypeId>
       </Id>
       <DisplayName>DisplayName_PlanetaryLander</DisplayName>
-      <Icon>Data\Game Tweaks\Spawn Stuff\Icons\rover.png</Icon>
+      <Icon>Data\Game Tweaks\Icons\rover.png</Icon>
       <CooldownSeconds>900</CooldownSeconds>
       <Prefab>Planet Respawn Pod</Prefab>
       
@@ -24,7 +24,7 @@
         <SubtypeId>Space Respawn Pod</SubtypeId>
       </Id>
       <DisplayName>DisplayName_RespawnPodSpace</DisplayName>
-      <Icon>Data\Game Tweaks\Spawn Stuff\Icons\space.png</Icon>
+      <Icon>Data\Game Tweaks\Icons\space.png</Icon>
       <CooldownSeconds>900</CooldownSeconds>
       <Prefab>Space Respawn Pod</Prefab>
       
