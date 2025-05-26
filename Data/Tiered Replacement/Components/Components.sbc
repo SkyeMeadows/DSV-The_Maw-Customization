@@ -5,7 +5,7 @@
         <Component>
             <Id>
                 <TypeId>Component</TypeId>
-                <SubtypeId>DSV_Gear</SubtypeId>
+                <SubtypeId>DSV-Gear</SubtypeId>
             </Id>
             <DisplayName>Gear</DisplayName>
             <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
@@ -21,6 +21,35 @@
             <MaxIntegrity>25</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
             <Health>25</Health>
+            <MinimumOfferAmount>250</MinimumOfferAmount>
+            <MaximumOfferAmount>2500</MaximumOfferAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>1000</MaximumOrderAmount>
+            <CanPlayerOrder>true</CanPlayerOrder>
+
+            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>DSV-Karnyxium-JumpCatalyst</SubtypeId>
+            </Id>
+            <DisplayName>Karnyxium Jump Catalyst</DisplayName>
+            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Size>
+                <X>0.5</X>
+                <Y>0.5</Y>
+                <Z>0.01</Z>
+            </Size>
+            <Mass>1200</Mass>
+            <Volume>250</Volume>
+            <Model>Models\Components\gravity_generator_components_component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>750</MaxIntegrity>
+            <DropProbability>0.9</DropProbability>
+            <Health>20</Health>
             <MinimumOfferAmount>250</MinimumOfferAmount>
             <MaximumOfferAmount>2500</MaximumOfferAmount>
             <MinimumOrderAmount>100</MinimumOrderAmount>

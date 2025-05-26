@@ -1,43 +1,43 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <PhysicalItems>
-    
+
         <PhysicalItem>
             <Id>
-                <TypeId>Ingot</TypeId>
-                <SubtypeId>Karnyxium</SubtypeId>
+                <TypeId>Component</TypeId>
+                <SubtypeId>DSV-Gear</SubtypeId>
             </Id>
-            <DisplayName>Karnyxium Ingot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
+            <DisplayName>Gear</DisplayName>
+            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
                 <Z>0.07</Z>
             </Size>
-            <Mass>1</Mass>
-            <Volume>0.37</Volume>
-            <Model>Models\Ingots\iron_ingot.mwm</Model>
+            <Mass>8</Mass>
+            <Volume>1</Volume>
+            <Model>Models\Components\steel_plate_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <IconSymbol></IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
-
+    
         <PhysicalItem>
             <Id>
-                <TypeId>Ingot</TypeId>
-                <SubtypeId>Cyrite</SubtypeId>
+                <TypeId>Component</TypeId>
+                <SubtypeId>DSV-Karnyxium-JumpCatalyst</SubtypeId>
             </Id>
-            <DisplayName>Cyrite Ingot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\nickel_ingot.dds</Icon>
+            <DisplayName>Karnyxium Jump Catalyst</DisplayName>
+            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
                 <Z>0.07</Z>
             </Size>
-            <Mass>1</Mass>
-            <Volume>0.37</Volume>
-            <Model>Models\Ingots\nickel_ingot.mwm</Model>
+            <Mass>1200</Mass>
+            <Volume>250</Volume>
+            <Model>Models\Components\gravity_generator_components_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <IconSymbol></IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>

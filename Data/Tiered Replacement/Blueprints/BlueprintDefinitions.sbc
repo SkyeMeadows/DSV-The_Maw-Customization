@@ -5,15 +5,30 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV_Gear</SubtypeId>
+                <SubtypeId>DSV-Gear</SubtypeId>
             </Id>
             <DisplayName>Gear</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="5" TypeId="Ingot" SubtypeId="Iron" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV_Gear" />
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-Gear" />
             <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-Karnyxium-JumpCatalyst</SubtypeId>
+            </Id>
+            <DisplayName>Karnyxium Jump Catalyst</DisplayName>
+            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Karnyxium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-Karnyxium-JumpCatalyst" />
+            <BaseProductionTimeInSeconds>10</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
     
