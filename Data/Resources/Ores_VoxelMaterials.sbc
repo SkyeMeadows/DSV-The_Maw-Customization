@@ -56,9 +56,9 @@
 
             <VoxelHandPreview>Textures\Voxels\OreCyrite_Thumbnail.dds</VoxelHandPreview>
 
-            <ColorMetalXZnY>Textures\Voxels\TritonIce_1_cm.dds</ColorMetalXZnY>
+            <ColorMetalXZnY>Textures\Voxels\Triton\TritonIce_1_cm.dds</ColorMetalXZnY>
 
-            <NormalGlossXZnY>Textures\Voxels\TritonIce_1_ng.dds</NormalGlossXZnY>
+            <NormalGlossXZnY>Textures\Voxels\Triton\TritonIce_1_ng.dds</NormalGlossXZnY>
 
             <SimpleTilingSetup>
             </SimpleTilingSetup>
