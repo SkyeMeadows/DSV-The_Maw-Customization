@@ -2784,7 +2784,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>SmallThrustSciFi</BlockPairName>
+            <BlockPairName>SmallIonSciFi_EfficientThruster</BlockPairName>
             <Center x="0" y="0" z="1" />
             <MirroringX>Z</MirroringX>
             <MirroringZ>X</MirroringZ>
