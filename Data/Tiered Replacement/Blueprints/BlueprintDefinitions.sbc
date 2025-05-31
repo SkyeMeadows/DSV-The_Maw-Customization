@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Blueprints>
-
+        <!-- If Pre-reqs and results and prod-time are set to 1, the BP has not been configured -->
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV-Karnyxium-JumpCatalyst</SubtypeId>
+                <SubtypeId>DSV-JumpCatalyst</SubtypeId>
             </Id>
-            <DisplayName>Karnyxium Jump Catalyst</DisplayName>
+            <DisplayName>Jump Catalyst</DisplayName>
             <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="5" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV-Karnyxium-JumpCatalyst" />
-            <BaseProductionTimeInSeconds>10</BaseProductionTimeInSeconds>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-JumpCatalyst" />
+            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
     
