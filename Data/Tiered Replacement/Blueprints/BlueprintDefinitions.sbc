@@ -5,21 +5,6 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV-Gear</SubtypeId>
-            </Id>
-            <DisplayName>Gear</DisplayName>
-            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
-            <Prerequisites>
-                <Item Amount="5" TypeId="Ingot" SubtypeId="Iron" />
-            </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV-Gear" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
-            <IsPrimary>true</IsPrimary>
-        </Blueprint>
-
-        <Blueprint>
-            <Id>
-                <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>DSV-Karnyxium-JumpCatalyst</SubtypeId>
             </Id>
             <DisplayName>Karnyxium Jump Catalyst</DisplayName>
