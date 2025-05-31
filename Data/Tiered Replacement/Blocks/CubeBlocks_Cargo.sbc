@@ -6,7 +6,7 @@
         <Definition xsi:type="MyObjectBuilder_CargoContainerDefinition">
             <Id>
                 <TypeId>CargoContainer</TypeId>
-                <SubtypeId>DSV_LG_SmallContainer_Armored</SubtypeId>
+                <SubtypeId>DSV-LG_SmallContainer_Armored</SubtypeId>
             </Id>
             <DisplayName>Armored Small Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
@@ -64,7 +64,7 @@
         <Definition xsi:type="MyObjectBuilder_CargoContainerDefinition">
             <Id>
                 <TypeId>CargoContainer</TypeId>
-                <SubtypeId>DSV_LG_SmallContainer_Expanded</SubtypeId>
+                <SubtypeId>DSV-LG_SmallContainer_Expanded</SubtypeId>
             </Id>
             <DisplayName>Expanded Small Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
@@ -121,7 +121,7 @@
         <Definition xsi:type="MyObjectBuilder_CargoContainerDefinition">
             <Id>
                 <TypeId>CargoContainer</TypeId>
-                <SubtypeId>DSV_LG_LargeContainer_Armored</SubtypeId>
+                <SubtypeId>DSV-LG_LargeContainer_Armored</SubtypeId>
             </Id>
             <DisplayName>Armored Large Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
@@ -179,7 +179,7 @@
         <Definition xsi:type="MyObjectBuilder_CargoContainerDefinition">
             <Id>
                 <TypeId>CargoContainer</TypeId>
-                <SubtypeId>DSV_LG_LargeContainer_Expanded</SubtypeId>
+                <SubtypeId>DSV-LG_LargeContainer_Expanded</SubtypeId>
             </Id>
             <DisplayName>Expanded Large Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>

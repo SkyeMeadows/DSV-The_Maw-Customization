@@ -5,7 +5,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallHydro_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallHydro_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Hydrogen Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
@@ -110,7 +110,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallHydro_EfficentThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallHydro_EfficentThruster</SubtypeId>
             </Id>
             <DisplayName>Small Hydrogen Efficient Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
@@ -215,7 +215,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeHydro_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeHydro_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Hydrogen Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
@@ -321,7 +321,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeHydro_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeHydro_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Hydrogen Efficient Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
@@ -427,7 +427,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallIon_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallIon_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Ion Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
@@ -531,7 +531,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallIon_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallIon_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
@@ -635,7 +635,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeIon_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeIon_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Ion Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
@@ -740,7 +740,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeIon_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeIon_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
@@ -845,7 +845,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmo_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmo_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Atmospheric Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
@@ -958,7 +958,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmo_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmo_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Efficient Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
@@ -1071,7 +1071,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmo_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmo_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Atmospheric Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
@@ -1182,7 +1182,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmo_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmo_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
@@ -1293,7 +1293,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmoFlat_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoFlat_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Flat Atmospheric Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterLarge.dds</Icon>
@@ -1409,7 +1409,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmoFlat_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoFlat_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterLarge.dds</Icon>
@@ -1525,7 +1525,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmoFlatDShape_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoFlatDShape_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Flat Atmospheric D-Shape Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeLarge.dds</Icon>
@@ -1641,7 +1641,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmoFlatDShape_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoFlatDShape_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Flat Atmospheric D-Shape Efficent Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeLarge.dds</Icon>
@@ -1757,7 +1757,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmoFlat_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmoFlat_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Flat Atmospheric Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
@@ -1874,7 +1874,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmoFlat_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmoFlat_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Flat Atmospheric Efficient Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
@@ -1991,7 +1991,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmosFlatDShape_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmosFlatDShape_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Flat Atmospheric D-Shape Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeSmall.dds</Icon>
@@ -2108,7 +2108,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmoFlatDShape_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmoFlatDShape_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Flat D-Shape Atmospheric Efficient Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeSmall.dds</Icon>
@@ -2225,7 +2225,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeHydroIndustrial_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeHydroIndustrial_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Industrial Hydrogen Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
@@ -2330,7 +2330,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeHydroIndustrial_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeHydroIndustrial_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
@@ -2435,7 +2435,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallHydroIndustrial_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallHydroIndustrial_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Industrial Hydrogen Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
@@ -2537,7 +2537,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallHydroIndustrial_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallHydroIndustrial_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Industrial Efficient Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
@@ -2639,7 +2639,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallIonSciFi_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallIonSciFi_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Sci-Fi Ion Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterSmall_SciFi.dds</Icon>
@@ -2738,7 +2738,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallIonSciFi_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallIonSciFi_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Sci-Fi Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterSmall_SciFi.dds</Icon>
@@ -2837,7 +2837,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeIonSciFi_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeIonSciFi_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Sci-Fi Ion Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterLarge_SciFi.dds</Icon>
@@ -2937,7 +2937,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeIonSciFi_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeIonSciFi_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Sci-Fi Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterLarge_SciFi.dds</Icon>
@@ -3037,7 +3037,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmoSciFi_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoSciFi_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Sci-Fi Atmopsheric Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterLarge_SciFi.dds</Icon>
@@ -3143,7 +3143,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeAtmoSciFi_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoSciFi_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Sci-Fi Efficient Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterLarge_SciFi.dds</Icon>
@@ -3249,7 +3249,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmoSciFi_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmoSciFi_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Sci-Fi Atmospheric Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterSmall_SciFi.dds</Icon>
@@ -3357,7 +3357,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallAtmoSciFi_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallAtmoSciFi_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Sci-Fi Efficient Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterSmall_SciFi.dds</Icon>
@@ -3465,7 +3465,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallIonWarfare_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_SmallIonWarfare_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Small Warfare Ion Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterSmall.dds</Icon>
@@ -3564,7 +3564,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_SmallIonWarfare_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_SmallIonWarfare_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Small Warfare Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterSmall.dds</Icon>
@@ -3663,7 +3663,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeIonWarfare_Afterburner</SubtypeId>
+                <SubtypeId>DSV-LG_LargeIonWarfare_Afterburner</SubtypeId>
             </Id>
             <DisplayName>Large Warfare Ion Afterburner</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterLarge.dds</Icon>
@@ -3765,7 +3765,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV_LG_LargeIonWarfare_EfficientThruster</SubtypeId>
+                <SubtypeId>DSV-LG_LargeIonWarfare_EfficientThruster</SubtypeId>
             </Id>
             <DisplayName>Large Warfare Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterLarge.dds</Icon>

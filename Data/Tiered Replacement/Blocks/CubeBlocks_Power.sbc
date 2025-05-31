@@ -4,9 +4,9 @@
         <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
             <Id>
                 <TypeId>Reactor</TypeId>
-                <SubtypeId>DSV-KarnyxiumTestReactor</SubtypeId>
+                <SubtypeId>DSV-LG_KarnyxiumSmallReactor</SubtypeId>
             </Id>
-            <DisplayName>Karnyxium TEST Reactor</DisplayName>
+            <DisplayName>Karnyxium Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
             <Description>TBA</Description>
             <CubeSize>Large</CubeSize>
@@ -100,7 +100,7 @@
         <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
             <Id>
                 <TypeId>Reactor</TypeId>
-                <SubtypeId>DSV-KarnyxiumLargeReactor</SubtypeId>
+                <SubtypeId>DSV-LG_KarnyxiumLargeReactor</SubtypeId>
             </Id>
             <DisplayName>Karnyxium Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>

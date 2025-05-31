@@ -4,7 +4,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV_LG_EfficientJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_EfficientJumpDrive</SubtypeId>
             </Id>
             <DisplayName>Efficient Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
@@ -67,7 +67,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV_LG_LongRangeJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_LongRangeJumpDrive</SubtypeId>
             </Id>
             <DisplayName>Long Range Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
@@ -130,7 +130,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV_LG_HighMassJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_HighMassJumpDrive</SubtypeId>
             </Id>
             <DisplayName>High Mass Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
@@ -193,7 +193,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV_LG_StarterJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_StarterJumpDrive</SubtypeId>
             </Id>
             <DisplayName>Proprietary Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>

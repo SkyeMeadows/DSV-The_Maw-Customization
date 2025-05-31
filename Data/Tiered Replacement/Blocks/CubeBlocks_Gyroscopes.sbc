@@ -4,9 +4,9 @@
         <Definition xsi:type="MyObjectBuilder_GyroDefinition">
             <Id>
                 <TypeId>Gyro</TypeId>
-                <SubtypeId>DSV_LG_UpgradedGyro</SubtypeId>
+                <SubtypeId>DSV-LG_UpgradedGyro</SubtypeId>
             </Id>
-            <DisplayName>Upgraded Gyroscope</DisplayName>
+            <DisplayName>Karnyxium Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
             <Description>TBA</Description>
             <CubeSize>Large</CubeSize>
