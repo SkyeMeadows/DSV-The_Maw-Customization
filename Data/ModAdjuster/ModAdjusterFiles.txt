@@ -4,5 +4,4 @@ CubeBlocks_Gyroscope.xml
 CubeBlocks_Prototech.xml
 CubeBlocks_Weapons_BuildTime.xml
 CubeBlocks_Weapons.xml
-MA_Plasma.xml
 VanillaEconomyMod.xml
