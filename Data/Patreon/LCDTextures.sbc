@@ -5,9 +5,17 @@
    <LCDTextureDefinition>
      <Id>
        <TypeId>LCDTextureDefinition</TypeId>
-       <SubtypeId>DSV Logo</SubtypeId>
+       <SubtypeId>DSV-Logo</SubtypeId>
      </Id>
     <TexturePath>Data\Patreon\Textures\Models\DSVLogo.dds</TexturePath>
+   </LCDTextureDefinition>
+
+   <LCDTextureDefinition>
+     <Id>
+       <TypeId>LCDTextureDefinition</TypeId>
+       <SubtypeId>TCOTM-Logo</SubtypeId>
+     </Id>
+    <TexturePath>Data\Patreon\Textures\Models\TCOTMLogo.dds</TexturePath>
    </LCDTextureDefinition>
 
   </LCDTextures>
