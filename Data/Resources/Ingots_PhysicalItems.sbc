@@ -44,5 +44,26 @@
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
 
+        <PhysicalItem>
+            <Id>
+                <TypeId>Ingot</TypeId>
+                <SubtypeId>Void-Scarred_Metal</SubtypeId>
+            </Id>
+            <DisplayName>Void-Scarred Metal Ingot</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\cobalt_ingot.dds</Icon>
+            <Size>
+                <X>0.07</X>
+                <Y>0.07</Y>
+                <Z>0.07</Z>
+            </Size>
+            <Mass>1</Mass>
+            <Volume>0.37</Volume>
+            <Model>Models\Ingots\cobalt_ingot.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <IconSymbol></IconSymbol>
+            <MinimalPricePerUnit>10</MinimalPricePerUnit>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </PhysicalItem>
+
     </PhysicalItems>
 </Definitions>

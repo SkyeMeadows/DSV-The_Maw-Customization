@@ -3,6 +3,15 @@
     <BlueprintClassEntries>
 
         <Entry Class="Components" BlueprintSubtypeId="DSV-JumpCatalyst" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-EchoSeal" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-HardenedPlate" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-GravityConduit" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-ElectrifiedCrystal" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-CatalystCapactior" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-EntropyMatrix" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-SpaceTimeDisruptorComponent" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-HeatingCoil" />
+        <Entry Class="Components" BlueprintSubtypeId="DSV-HardenedMechanisms" />
 
     </BlueprintClassEntries>
 </Definitions>
