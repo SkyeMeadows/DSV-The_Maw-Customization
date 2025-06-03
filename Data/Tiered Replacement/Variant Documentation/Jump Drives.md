@@ -1,0 +1,12 @@
+All relative to vanilla
+
+# Vanilla
+## Range
+Range: 1.25x
+???: 0.75x
+
+## ???
+Range: 0.75x
+???: 1.25x
+
+# Upgraded
