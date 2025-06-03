@@ -37,7 +37,7 @@
             </Size>
             <Mass>1</Mass>
             <Volume>0.37</Volume>
-            <Model>Models\Ingots\nickel_ingot.mwm</Model>
+            <Model>Models\Ingots\iron_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <IconSymbol>Cr</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
