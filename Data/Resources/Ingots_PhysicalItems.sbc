@@ -8,7 +8,7 @@
                 <SubtypeId>Karnyxium</SubtypeId>
             </Id>
             <DisplayName>Karnyxium Ingot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
+            <Icon>Textures\GUI\Icons\ingot\karnyxium_ingot.dds</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
@@ -18,7 +18,7 @@
             <Volume>0.37</Volume>
             <Model>Models\Ingots\iron_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <IconSymbol></IconSymbol>
+            <IconSymbol>Kn</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
@@ -29,7 +29,7 @@
                 <SubtypeId>Cyrite</SubtypeId>
             </Id>
             <DisplayName>Cyrite Ingot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\nickel_ingot.dds</Icon>
+            <Icon>Textures\GUI\Icons\ingot\cyrite_ingot.dds</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
@@ -39,7 +39,7 @@
             <Volume>0.37</Volume>
             <Model>Models\Ingots\nickel_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <IconSymbol></IconSymbol>
+            <IconSymbol>Cr</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
@@ -60,7 +60,7 @@
             <Volume>0.37</Volume>
             <Model>Models\Ingots\cobalt_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <IconSymbol></IconSymbol>
+            <IconSymbol>Vs</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>

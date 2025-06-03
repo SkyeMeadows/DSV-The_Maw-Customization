@@ -8,7 +8,7 @@
                 <SubtypeId>Karnyxium</SubtypeId>
             </Id>
             <DisplayName>Karnyxium</DisplayName>
-            <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
+            <Icon>Textures\GUI\Icons\karnyxium_ore.dds</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
@@ -18,7 +18,7 @@
             <Volume>0.37</Volume>
             <Model>Models\Components\Sphere.mwm</Model>
             <PhysicalMaterial>Stone</PhysicalMaterial>
-            <IconSymbol></IconSymbol>
+            <IconSymbol>Kn</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
@@ -29,7 +29,7 @@
                 <SubtypeId>Cyrite</SubtypeId>
             </Id>
             <DisplayName>Cyrite</DisplayName>
-            <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
+            <Icon>Textures\GUI\Icons\cyrite_ore.dds</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
@@ -39,7 +39,7 @@
             <Volume>0.37</Volume>
             <Model>Models\Components\Sphere.mwm</Model>
             <PhysicalMaterial>Stone</PhysicalMaterial>
-            <IconSymbol></IconSymbol>
+            <IconSymbol>Cr</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
