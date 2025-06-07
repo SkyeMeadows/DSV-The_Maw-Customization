@@ -77,7 +77,8 @@ Cargo & Tanks                                  Echo Seal
 Reactors                                       Gravity Conduit
 Batteries                                      Catalyst Capacitor
 Refinery & Assembler                           Advanced Production Matrix
-Thruster (Ion & Atmospheric) & Gyroscopes      Complex Motor
+Thruster (Ion)                                 ?
+Thruster (Atmospheric) & Gyroscopes            Complex Motor
 Thruster (Hydrogen)                            Recursive Heater
 Jump Drives                                    Jump Catalyst
 Welder/Grinder/Drill                           ?
@@ -90,10 +91,10 @@ Jump Drive Disruptor                           Space-Time Disruptor Component
 
 Vanilla Modifer:
 Primary Attribute: 1.25x
-Secondary Atribute: 0.5x
+Secondary Atribute: 0.75x
 Tertiary Atribute: 1x
 
-Upgraded Modifier
+Upgraded Modifier:
 Primary Attribute: 2x
 Secondary Atribute: 1.25x
 Tertiary Atribute: 1.25x
