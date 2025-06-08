@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <CubeBlocks>
+        <!-- Vanilla Jump Drives START -->
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV-LG_EfficientJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_JumpDrive_Variant_PowerEff</SubtypeId>
             </Id>
-            <DisplayName>Efficient Jump Drive</DisplayName>
+            <DisplayName>Power Efficient Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
             <Description>TBA</Description>
             <CubeSize>Large</CubeSize>
@@ -39,7 +40,7 @@
                 <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
             </BuildProgressModels>
-            <BlockPairName>DSV_EfficientJumpDrive</BlockPairName>
+            <BlockPairName>JumpDrive_Variant_PowerEff</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
@@ -50,9 +51,9 @@
             <ResourceSinkGroup>Charging</ResourceSinkGroup>
             <RequiredPowerInput>32</RequiredPowerInput>
             <PowerNeededForJump>2.5</PowerNeededForJump>
-            <PowerEfficiency>0.95</PowerEfficiency>
+            <PowerEfficiency>0.85</PowerEfficiency>
 
-            <MaxJumpDistance>2000000</MaxJumpDistance>
+            <MaxJumpDistance>1500000</MaxJumpDistance>
             <MaxJumpMass>1250000</MaxJumpMass>
             <EmissiveColorPreset>Extended</EmissiveColorPreset>
             <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
@@ -67,7 +68,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV-LG_LongRangeJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_JumpDrive_Variant_Range</SubtypeId>
             </Id>
             <DisplayName>Long Range Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
@@ -102,7 +103,7 @@
                 <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
             </BuildProgressModels>
-            <BlockPairName>DSV_LongRangeJumpDrive</BlockPairName>
+            <BlockPairName>JumpDrive_Variant_Range</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
@@ -115,8 +116,8 @@
             <PowerNeededForJump>5</PowerNeededForJump>
             <PowerEfficiency>0.80</PowerEfficiency>
 
-            <MaxJumpDistance>4000000</MaxJumpDistance>
-            <MaxJumpMass>1250000</MaxJumpMass>
+            <MaxJumpDistance>2500000</MaxJumpDistance>
+            <MaxJumpMass>1000000</MaxJumpMass>
             <EmissiveColorPreset>Extended</EmissiveColorPreset>
             <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
             <DestroySound>WepLrgWarheadExpl</DestroySound>
@@ -130,7 +131,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV-LG_HighMassJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_JumpDrive_Variant_Mass</SubtypeId>
             </Id>
             <DisplayName>High Mass Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
@@ -165,7 +166,7 @@
                 <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
             </BuildProgressModels>
-            <BlockPairName>DSV_HighMassJumpDrive</BlockPairName>
+            <BlockPairName>JumpDrive_Variant_Mass</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
@@ -175,11 +176,11 @@
 
             <ResourceSinkGroup>Charging</ResourceSinkGroup>
             <RequiredPowerInput>32</RequiredPowerInput>
-            <PowerNeededForJump>5</PowerNeededForJump>
-            <PowerEfficiency>0.80</PowerEfficiency>
+            <PowerNeededForJump>3</PowerNeededForJump>
+            <PowerEfficiency>0.75</PowerEfficiency>
 
             <MaxJumpDistance>2000000</MaxJumpDistance>
-            <MaxJumpMass>2500000</MaxJumpMass>
+            <MaxJumpMass>1550000</MaxJumpMass>
             <EmissiveColorPreset>Extended</EmissiveColorPreset>
             <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
             <DestroySound>WepLrgWarheadExpl</DestroySound>
@@ -193,7 +194,7 @@
         <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
             <Id>
                 <TypeId>JumpDrive</TypeId>
-                <SubtypeId>DSV-LG_StarterJumpDrive</SubtypeId>
+                <SubtypeId>DSV-LG_JumpDrive_Starter</SubtypeId>
             </Id>
             <DisplayName>Proprietary Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
@@ -206,7 +207,73 @@
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
                 <Component Subtype="MetalGrid" Count="50" />
-                <Component Subtype="GravityGenerator" Count="20" />
+                <Component Subtype="GravityGenerator" Count="5" />
+                <Component Subtype="Detector" Count="20" />
+                <Component Subtype="PowerCell" Count="40" />
+                <Component Subtype="Superconductor" Count="100" />
+                <Component Subtype="Computer" Count="200" />
+                <Component Subtype="Construction" Count="40" />
+                <Component Subtype="SteelPlate" Count="20" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="3" EndY="2" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="2" EndY="3" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="2" EndY="3" />
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="3" EndY="2" Default="true" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\JumpDriveConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>JumpDrive_Starter</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>120</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+
+            <ResourceSinkGroup>Charging</ResourceSinkGroup>
+            <RequiredPowerInput>16</RequiredPowerInput>
+            <PowerNeededForJump>1</PowerNeededForJump>
+            <PowerEfficiency>0.80</PowerEfficiency>
+
+            <MaxJumpDistance>100000</MaxJumpDistance>
+            <MaxJumpMass>500000</MaxJumpMass>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+            <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
+            <DestroySound>WepLrgWarheadExpl</DestroySound>
+            <TargetingGroups>
+                <string>Propulsion</string>
+            </TargetingGroups>
+            <PCU>80</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+        <!-- Vanilla Jump Drives END -->
+
+        <!-- Karnyxium Jump Drives START -->
+        <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
+            <Id>
+                <TypeId>JumpDrive</TypeId>
+                <SubtypeId>DSV-LG_KarnyxiumJumpDrive_Variant_PowerEff</SubtypeId>
+            </Id>
+            <DisplayName>Power Efficient Karnyxium Jump Drive</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
+            <Description>TBA</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="3" y="3" z="2" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="40" />
+                <Component Subtype="MetalGrid" Count="50" />
+                <Component Subtype="DSV-JumpCatalyst" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Detector" Count="20" />
                 <Component Subtype="PowerCell" Count="120" />
                 <Component Subtype="Superconductor" Count="1000" />
@@ -228,7 +295,7 @@
                 <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
             </BuildProgressModels>
-            <BlockPairName>DSV_StarterJumpDrive</BlockPairName>
+            <BlockPairName>KarnyxiumJumpDrive_Variant_PowerEff</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
@@ -237,12 +304,12 @@
             <DamagedSound>ParticleElectrical</DamagedSound>
 
             <ResourceSinkGroup>Charging</ResourceSinkGroup>
-            <RequiredPowerInput>16</RequiredPowerInput>
-            <PowerNeededForJump>1</PowerNeededForJump>
-            <PowerEfficiency>0.80</PowerEfficiency>
+            <RequiredPowerInput>32</RequiredPowerInput>
+            <PowerNeededForJump>1.5</PowerNeededForJump>
+            <PowerEfficiency>1.0</PowerEfficiency>
 
-            <MaxJumpDistance>100000</MaxJumpDistance>
-            <MaxJumpMass>1250000</MaxJumpMass>
+            <MaxJumpDistance>2500000</MaxJumpDistance>
+            <MaxJumpMass>1550000</MaxJumpMass>
             <EmissiveColorPreset>Extended</EmissiveColorPreset>
             <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
             <DestroySound>WepLrgWarheadExpl</DestroySound>
@@ -252,5 +319,134 @@
             <PCU>80</PCU>
             <IsAirTight>true</IsAirTight>
         </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
+            <Id>
+                <TypeId>JumpDrive</TypeId>
+                <SubtypeId>DSV-LG_KarnyxiumJumpDrive_Variant_Range</SubtypeId>
+            </Id>
+            <DisplayName>Long Range Karnyxium Jump Drive</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
+            <Description>TBA</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="3" y="3" z="2" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="40" />
+                <Component Subtype="MetalGrid" Count="50" />
+                <Component Subtype="DSV-JumpCatalyst" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
+                <Component Subtype="Detector" Count="20" />
+                <Component Subtype="PowerCell" Count="120" />
+                <Component Subtype="Superconductor" Count="1000" />
+                <Component Subtype="Computer" Count="300" />
+                <Component Subtype="Construction" Count="40" />
+                <Component Subtype="SteelPlate" Count="20" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="3" EndY="2" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="2" EndY="3" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="2" EndY="3" />
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="3" EndY="2" Default="true" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\JumpDriveConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>KarnyxiumJumpDrive_Variant_Range</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>120</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+
+            <ResourceSinkGroup>Charging</ResourceSinkGroup>
+            <RequiredPowerInput>32</RequiredPowerInput>
+            <PowerNeededForJump>2.4</PowerNeededForJump>
+            <PowerEfficiency>0.85</PowerEfficiency>
+
+            <MaxJumpDistance>4000000</MaxJumpDistance>
+            <MaxJumpMass>1550000</MaxJumpMass>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+            <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
+            <DestroySound>WepLrgWarheadExpl</DestroySound>
+            <TargetingGroups>
+                <string>Propulsion</string>
+            </TargetingGroups>
+            <PCU>80</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_JumpDriveDefinition">
+            <Id>
+                <TypeId>JumpDrive</TypeId>
+                <SubtypeId>DSV-LG_KarnyxiumJumpDrive_Variant_Mass</SubtypeId>
+            </Id>
+            <DisplayName>High Mass Karnyxium Jump Drive</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
+            <Description>TBA</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="3" y="3" z="2" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="40" />
+                <Component Subtype="MetalGrid" Count="50" />
+                <Component Subtype="DSV-JumpCatalyst" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
+                <Component Subtype="Detector" Count="20" />
+                <Component Subtype="PowerCell" Count="120" />
+                <Component Subtype="Superconductor" Count="1000" />
+                <Component Subtype="Computer" Count="300" />
+                <Component Subtype="Construction" Count="40" />
+                <Component Subtype="SteelPlate" Count="20" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="3" EndY="2" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="2" EndY="3" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="2" EndY="3" />
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="3" EndY="2" Default="true" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\JumpDriveConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>KarnyxiumJumpDrive_Variant_Mass</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>120</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+
+            <ResourceSinkGroup>Charging</ResourceSinkGroup>
+            <RequiredPowerInput>32</RequiredPowerInput>
+            <PowerNeededForJump>2.4</PowerNeededForJump>
+            <PowerEfficiency>0.85</PowerEfficiency>
+
+            <MaxJumpDistance>2500000</MaxJumpDistance>
+            <MaxJumpMass>2500000</MaxJumpMass>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+            <DestroyEffect>Explosion_Warhead_30</DestroyEffect>
+            <DestroySound>WepLrgWarheadExpl</DestroySound>
+            <TargetingGroups>
+                <string>Propulsion</string>
+            </TargetingGroups>
+            <PCU>80</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+        <!-- Karnyxium Jump Drives END -->
     </CubeBlocks>
 </Definitions>
