@@ -36,13 +36,13 @@
                 <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\OreDetectorConstruction_2.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\OreDetectorConstruction_3.mwm" />
             </BuildProgressModels>
-            <BlockPairName>KarnyxiumOreDetector</BlockPairName>
+            <BlockPairName>Karnyxium_OreDetector</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>
             <ResourceSinkGroup>Utility</ResourceSinkGroup>
-            <MaximumRange>500</MaximumRange>
+            <MaximumRange>225</MaximumRange>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
             <EmissiveColorPreset>Default</EmissiveColorPreset>
@@ -85,13 +85,13 @@
                 <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\OreDetectorConstruction_1.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\OreDetectorConstruction_2.mwm" />
             </BuildProgressModels>
-            <BlockPairName>KarnyxiumOreDetector</BlockPairName>
+            <BlockPairName>Karnyxium_OreDetector</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>14</BuildTimeSeconds>
             <ResourceSinkGroup>Utility</ResourceSinkGroup>
-            <MaximumRange>150</MaximumRange>
+            <MaximumRange>75</MaximumRange>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
             <EmissiveColorPreset>Default</EmissiveColorPreset>
