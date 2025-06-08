@@ -147,7 +147,7 @@
                 <SubtypeId>DSV-RecursiveHeater</SubtypeId>
             </Id>
             <DisplayName>Recursive Heater</DisplayName>
-            <Icon>Textures\GUI\Icons\component\large_tube_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="15" TypeId="Ingot" SubtypeId="Iron" />

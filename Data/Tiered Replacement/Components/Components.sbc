@@ -269,7 +269,7 @@
                 <SubtypeId>DSV-RecursiveHeater</SubtypeId>
             </Id>
             <DisplayName>Recursive Heater</DisplayName>
-            <Icon>Textures\GUI\Icons\component\large_tube_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -277,7 +277,7 @@
             </Size>
             <Mass>100</Mass>
             <Volume>10</Volume>
-            <Model>Models\Components\large_tube_component.mwm</Model>
+            <Model>Models\Components\superconductor_conducts_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>60</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
