@@ -2,6 +2,12 @@
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <CubeBlocks>
     <!-- All blocks are set to default build time currently -->
+    <!-- Functional Will include:
+        Reactors
+        Gyros
+        JDs
+        Thrusters
+        -->
         <Definition xsi:type="MyObjectBuilder_GyroDefinition">
             <Id>
                 <TypeId>Gyro</TypeId>

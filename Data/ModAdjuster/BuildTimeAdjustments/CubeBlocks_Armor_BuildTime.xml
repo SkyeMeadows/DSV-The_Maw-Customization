@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <CubeBlocks>
-    <!-- All Build times are currently vanilla -->
-    <!-- Set all times to 1.5x Vanilla -->
+    <!-- All Build times are currently 1.5x vanilla -->
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
