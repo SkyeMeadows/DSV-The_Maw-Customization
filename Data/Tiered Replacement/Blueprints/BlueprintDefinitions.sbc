@@ -11,11 +11,11 @@
             <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />
+                <Item Amount="20" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Platinum" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-JumpCatalyst" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
@@ -25,13 +25,13 @@
                 <SubtypeId>DSV-EchoSeal</SubtypeId>
             </Id>
             <DisplayName>Echo Seal</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\bulletproof_glass_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cyrite" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="0.02" TypeId="Ingot" SubtypeId="Cyrite" />
+                <Item Amount="2" TypeId="Ingot" SubtypeId="Cobalt" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-EchoSeal" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>2</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         
@@ -41,14 +41,14 @@
                 <SubtypeId>DSV-HardenedPlate</SubtypeId>
             </Id>
             <DisplayName>Hardened Plate</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cyrite" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Cyrite" />
+                <Item Amount="20" TypeId="Ingot" SubtypeId="Iron" />
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Cobalt" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-HardenedPlate" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
@@ -58,7 +58,7 @@
                 <SubtypeId>DSV-GravityConduit</SubtypeId>
             </Id>
             <DisplayName>Gravity Conduit</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\reactor_components_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Iron" />
@@ -66,24 +66,7 @@
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-GravityConduit" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
-            <IsPrimary>true</IsPrimary>
-        </Blueprint>
-
-        <Blueprint>
-            <Id>
-                <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV-ElectrifiedCrystal</SubtypeId>
-            </Id>
-            <DisplayName>Electrified Crystal</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
-            <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Nickel" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
-            </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV-ElectrifiedCrystal" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>16</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
@@ -93,14 +76,13 @@
                 <SubtypeId>DSV-CatalystCapactior</SubtypeId>
             </Id>
             <DisplayName>Catalyst Capacitor</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\BatteryComponent.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cyrite" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Magnesium" />
+                <Item Amount="0.2" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Silver" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-CatalystCapactior" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>8</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
@@ -110,15 +92,14 @@
                 <SubtypeId>DSV-EntropyMatrix</SubtypeId>
             </Id>
             <DisplayName>Entropy Matrix</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cyrite" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Iron" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="0.4" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="30" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Nickel" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-EntropyMatrix" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>6</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
@@ -128,52 +109,52 @@
                 <SubtypeId>DSV-SpaceTimeDisruptorComponent</SubtypeId>
             </Id>
             <DisplayName>Space-Time Disruptor Component</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\radio_communication_components_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Void-Scarred_Metal" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Silicon" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Void-Scarred_Metal" />
+                <Item Amount="2000" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="500" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="200" TypeId="Ingot" SubtypeId="Platinum" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-SpaceTimeDisruptorComponent" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>300</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV-HeatingCoil</SubtypeId>
+                <SubtypeId>DSV-AdvancedProductionMatrix</SubtypeId>
             </Id>
-            <DisplayName>Heating Coil</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <DisplayName>Advanced Production Matrix</DisplayName>
+            <Icon>Textures\GUI\Icons\component\construction_components_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Nickel" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Silicon" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />
+                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="100" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="20" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="50" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="2" TypeId="Ingot" SubtypeId="Platinum" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV-HeatingCoil" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-AdvancedProductionMatrix" />
+            <BaseProductionTimeInSeconds>60</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV-HardenedMechanisms</SubtypeId>
+                <SubtypeId>DSV-RecursiveHeater</SubtypeId>
             </Id>
-            <DisplayName>Hardened Mechanisms</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <DisplayName>Recursive Heater</DisplayName>
+            <Icon>Textures\GUI\Icons\component\large_tube_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Silicon" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cobalt" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Silver" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />
+                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Cobalt" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV-HardenedMechanisms" />
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-RecursiveHeater" />
+            <BaseProductionTimeInSeconds>12</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
     
