@@ -36,9 +36,9 @@
                 <Item Amount="1" TypeId="Ore" SubtypeId="Karnyxium" />
             </Prerequisites>
             <Results>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="0.001" TypeId="Ingot" SubtypeId="Karnyxium" />
             </Results>
-            <BaseProductionTimeInSeconds>5</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
         </Blueprint>
 
         <Blueprint>
@@ -52,9 +52,9 @@
                 <Item Amount="1" TypeId="Ore" SubtypeId="Cyrite" />
             </Prerequisites>
             <Results>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Cyrite" />
+                <Item Amount="0.005" TypeId="Ingot" SubtypeId="Cyrite" />
             </Results>
-            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
         </Blueprint>
 
     </Blueprints>

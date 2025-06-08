@@ -9,7 +9,7 @@
             </Id>
             <MaterialTypeName>Rock</MaterialTypeName>
             <MinedOre>Karnyxium</MinedOre>
-            <MinedOreRatio>1</MinedOreRatio>
+            <MinedOreRatio>0.05</MinedOreRatio>
             <CanBeHarvested>true</CanBeHarvested>
             <!-- Wether it spawns in asteroids, default true (even if undefined) -->
             <SpawnsInAsteroids>true</SpawnsInAsteroids>
@@ -45,7 +45,7 @@
             </Id>
             <MaterialTypeName>Rock</MaterialTypeName>
             <MinedOre>Cyrite</MinedOre>
-            <MinedOreRatio>1</MinedOreRatio>
+            <MinedOreRatio>0.2</MinedOreRatio>
             <CanBeHarvested>true</CanBeHarvested>
             <!-- Wether it spawns in asteroids, default true (even if undefined) -->
             <SpawnsInAsteroids>true</SpawnsInAsteroids>
