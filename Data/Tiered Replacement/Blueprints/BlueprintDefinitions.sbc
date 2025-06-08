@@ -60,9 +60,9 @@
             <DisplayName>Gravity Conduit</DisplayName>
             <Icon>Textures\GUI\Icons\component\reactor_components_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Iron" />
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="4" TypeId="Ingot" SubtypeId="Gold" />
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="DSV-GravityConduit" />
