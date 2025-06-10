@@ -39,7 +39,7 @@
             <Volume>0.37</Volume>
             <Model>Models\Components\Sphere.mwm</Model>
             <PhysicalMaterial>Stone</PhysicalMaterial>
-            <IconSymbol>Cr</IconSymbol>
+            <IconSymbol>Cy</IconSymbol>
             <MinimalPricePerUnit>10</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
