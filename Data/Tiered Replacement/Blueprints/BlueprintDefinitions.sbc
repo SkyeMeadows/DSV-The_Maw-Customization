@@ -8,7 +8,7 @@
                 <SubtypeId>DSV-JumpCatalyst</SubtypeId>
             </Id>
             <DisplayName>Jump Catalyst</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Jump_Catalyst.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="20" TypeId="Ingot" SubtypeId="Gold" />
@@ -25,7 +25,7 @@
                 <SubtypeId>DSV-EchoSeal</SubtypeId>
             </Id>
             <DisplayName>Echo Seal</DisplayName>
-            <Icon>Textures\GUI\Icons\component\bulletproof_glass_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Echo_Seal.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.02" TypeId="Ingot" SubtypeId="Cyrite" />
                 <Item Amount="2" TypeId="Ingot" SubtypeId="Cobalt" />
@@ -41,7 +41,7 @@
                 <SubtypeId>DSV-HardenedPlate</SubtypeId>
             </Id>
             <DisplayName>Hardened Plate</DisplayName>
-            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Hardened_Plate.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.1" TypeId="Ingot" SubtypeId="Cyrite" />
                 <Item Amount="20" TypeId="Ingot" SubtypeId="Iron" />
@@ -58,7 +58,7 @@
                 <SubtypeId>DSV-GravityConduit</SubtypeId>
             </Id>
             <DisplayName>Gravity Conduit</DisplayName>
-            <Icon>Textures\GUI\Icons\component\reactor_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Gravity_Conduit.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Iron" />
@@ -76,7 +76,7 @@
                 <SubtypeId>DSV-CatalystCapactior</SubtypeId>
             </Id>
             <DisplayName>Catalyst Capacitor</DisplayName>
-            <Icon>Textures\GUI\Icons\component\BatteryComponent.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Catalyst_Capacitor.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.2" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Silver" />
@@ -92,7 +92,7 @@
                 <SubtypeId>DSV-EntropyMatrix</SubtypeId>
             </Id>
             <DisplayName>Entropy Matrix</DisplayName>
-            <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Entropy_Matrix.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.4" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="30" TypeId="Ingot" SubtypeId="Iron" />
@@ -109,7 +109,7 @@
                 <SubtypeId>DSV-SpaceTimeDisruptorComponent</SubtypeId>
             </Id>
             <DisplayName>Space-Time Disruptor Component</DisplayName>
-            <Icon>Textures\GUI\Icons\component\radio_communication_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Space-Time_Disruptor_Component.dds</Icon>
             <Prerequisites>
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Void-Scarred_Metal" />
                 <Item Amount="2000" TypeId="Ingot" SubtypeId="Silicon" />
@@ -127,7 +127,7 @@
                 <SubtypeId>DSV-AdvancedProductionMatrix</SubtypeId>
             </Id>
             <DisplayName>Advanced Production Matrix</DisplayName>
-            <Icon>Textures\GUI\Icons\component\construction_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Advanced_Production_Matrix.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="100" TypeId="Ingot" SubtypeId="Iron" />
@@ -147,7 +147,7 @@
                 <SubtypeId>DSV-RecursiveHeater</SubtypeId>
             </Id>
             <DisplayName>Recursive Heater</DisplayName>
-            <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="15" TypeId="Ingot" SubtypeId="Iron" />

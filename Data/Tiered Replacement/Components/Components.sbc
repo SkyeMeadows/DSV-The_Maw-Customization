@@ -8,7 +8,7 @@
                 <SubtypeId>DSV-JumpCatalyst</SubtypeId>
             </Id>
             <DisplayName>Jump Catalyst</DisplayName>
-            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Jump_Catalyst.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -37,7 +37,7 @@
                 <SubtypeId>DSV-EchoSeal</SubtypeId>
             </Id>
             <DisplayName>Echo Seal</DisplayName>
-            <Icon>Textures\GUI\Icons\component\bulletproof_glass_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Echo_Seal.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -66,7 +66,7 @@
                 <SubtypeId>DSV-HardenedPlate</SubtypeId>
             </Id>
             <DisplayName>Hardened Plate</DisplayName>
-            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Hardened_Plate.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -95,7 +95,7 @@
                 <SubtypeId>DSV-GravityConduit</SubtypeId>
             </Id>
             <DisplayName>Gravity Conduit</DisplayName>
-            <Icon>Textures\GUI\Icons\component\reactor_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Gravity_Conduit.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -124,7 +124,7 @@
                 <SubtypeId>DSV-CatalystCapactior</SubtypeId>
             </Id>
             <DisplayName>Catalyst Capacitor</DisplayName>
-            <Icon>Textures\GUI\Icons\component\BatteryComponent.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Catalyst_Capacitor.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -132,7 +132,7 @@
             </Size>
             <Mass>600</Mass>
             <Volume>100</Volume>
-            <Model>Models\Components\BatteryComponent.mwm</Model>
+            <Model>Models\Components\battery_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>200</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
@@ -153,7 +153,7 @@
                 <SubtypeId>DSV-EntropyMatrix</SubtypeId>
             </Id>
             <DisplayName>Entropy Matrix</DisplayName>
-            <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Entropy_Matrix.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -182,7 +182,7 @@
                 <SubtypeId>DSV-SpaceTimeDisruptorComponent</SubtypeId>
             </Id>
             <DisplayName>Space-Time Disruptor Component</DisplayName>
-            <Icon>Textures\GUI\Icons\component\radio_communication_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Space-Time_Disruptor_Component.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -240,7 +240,7 @@
                 <SubtypeId>DSV-AdvancedProductionMatrix</SubtypeId>
             </Id>
             <DisplayName>Advanced Production Matrix</DisplayName>
-            <Icon>Textures\GUI\Icons\component\construction_components_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Advanced_Production_Matrix.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -269,7 +269,7 @@
                 <SubtypeId>DSV-RecursiveHeater</SubtypeId>
             </Id>
             <DisplayName>Recursive Heater</DisplayName>
-            <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
