@@ -66,20 +66,33 @@
             <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
             <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
         </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-KarnyxiumComponents</SubtypeId>
+            </Id>
+            <DisplayName>Advanced Components</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
     
     </BlueprintClasses>
     
     <BlueprintClassEntries>
 
-        <Entry Class="Components" BlueprintSubtypeId="DSV-JumpCatalyst" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-EchoSeal" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-HardenedPlate" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-GravityConduit" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-CatalystCapactior" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-EntropyMatrix" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-SpaceTimeDisruptorComponent" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-AdvancedProductionMatrix" />
-        <Entry Class="Components" BlueprintSubtypeId="DSV-RecursiveHeater" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-JumpCatalyst" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-EchoSeal" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-HardenedPlate" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-GravityConduit" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-CatalystCapactior" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-EntropyMatrix" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-SpaceTimeDisruptorComponent" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-AdvancedProductionMatrix" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-RecursiveHeater" />
 
         <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SteelPlate" />
 

@@ -28,7 +28,7 @@
                 <TypeId>Ore</TypeId>
                 <SubtypeId>Cyrite</SubtypeId>
             </Id>
-            <DisplayName>Cyrite ore</DisplayName>
+            <DisplayName>Cyrite Ore</DisplayName>
             <Icon>Textures\GUI\Icons\cyrite_ore.dds</Icon>
             <Size>
                 <X>0.07</X>
