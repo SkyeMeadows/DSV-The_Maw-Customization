@@ -61,7 +61,7 @@
             <DisplayName>Hardened Plate</DisplayName>
             <Icon>Textures\GUI\Icons\component\Hardened_Plate.dds</Icon>
             <Prerequisites>
-                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Cyrite" />
+                <Item Amount="0.05" TypeId="Ingot" SubtypeId="Cyrite" />
                 <Item Amount="20" TypeId="Ingot" SubtypeId="Iron" />
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Cobalt" />
             </Prerequisites>
@@ -78,7 +78,7 @@
             <DisplayName>Gravity Conduit</DisplayName>
             <Icon>Textures\GUI\Icons\component\Gravity_Conduit.dds</Icon>
             <Prerequisites>
-                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="0.4" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Iron" />
                 <Item Amount="4" TypeId="Ingot" SubtypeId="Gold" />
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum" />

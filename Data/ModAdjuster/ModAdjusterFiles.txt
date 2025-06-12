@@ -1,6 +1,7 @@
 CubeBlocks_Gyroscope.xml
 CubeBlocks_Prototech.xml
 CubeBlocks_Weapons.xml
+JD_Inhibitor.xml
 ProductionPower.xml
 VanillaEconomyMod.xml
 CubeBlocks_Armor_BuildTime.xml

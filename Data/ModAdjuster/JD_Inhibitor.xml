@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CubeBlocks>
+	<!-- Begin Region Jump Inhibitor -->
+	<Definition xsi:type="MyObjectBuilder_BeaconDefinition">
+      <Id>
+        <TypeId>Beacon</TypeId>
+        <SubtypeId>JumpInhibitor</SubtypeId>
+      </Id>
+      <Components>
+        <Component Subtype="SteelPlate" Count="40" />
+        <Component Subtype="Construction" Count="50" />
+        <Component Subtype="SmallTube" Count="60" />
+        <Component Subtype="LargeTube" Count="40" />
+        <Component Subtype="DSV-SpaceTimeDisruptorComponent" Count="10" />
+        <Component Subtype="Computer" Count="30" />
+        <Component Subtype="RadioCommunication" Count="80" />
+        <Component Subtype="Construction" Count="30" />
+        <Component Subtype="SteelPlate" Count="40" />        
+      </Components>
+      <CriticalComponent Subtype="RadioCommunication" Index="0" />
+      <BuildTimeSeconds>300</BuildTimeSeconds>
+      <MaxBroadcastRadius>10000</MaxBroadcastRadius>
+      <MaxBroadcastPowerDrainkW>200000</MaxBroadcastPowerDrainkW>
+    </Definition>
+      
+    <Definition xsi:type="MyObjectBuilder_BeaconDefinition">
+      <Id>
+        <TypeId>Beacon</TypeId>
+        <SubtypeId>JumpInhibitorSmall</SubtypeId>
+      </Id>
+      <Components>
+        <Component Subtype="SteelPlate" Count="40" />
+        <Component Subtype="Construction" Count="50" />
+        <Component Subtype="SmallTube" Count="60" />
+        <Component Subtype="LargeTube" Count="40" />
+        <Component Subtype="DSV-SpaceTimeDisruptorComponent" Count="10" />
+        <Component Subtype="Computer" Count="30" />
+        <Component Subtype="RadioCommunication" Count="80" />
+        <Component Subtype="Construction" Count="30" />
+        <Component Subtype="SteelPlate" Count="40" />        
+      </Components>
+      <CriticalComponent Subtype="RadioCommunication" Index="0" />
+      <BuildTimeSeconds>60</BuildTimeSeconds>
+      <MaxBroadcastRadius>3000</MaxBroadcastRadius>
+      <MaxBroadcastPowerDrainkW>100000</MaxBroadcastPowerDrainkW>
+    </Definition>
+	<!-- End Region Jump Inhibitor -->
+  </CubeBlocks>
+</Definitions>
