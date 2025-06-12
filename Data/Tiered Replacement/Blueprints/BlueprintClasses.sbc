@@ -79,13 +79,27 @@
             <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
             <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
         </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-InefficientRefinement</SubtypeId>
+            </Id>
+            <DisplayName>Inefficient Refinement</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
     
     </BlueprintClasses>
     
     <BlueprintClassEntries>
         <Entry Class="Components" BlueprintSubtypeId="DSV-KarnyxiumCore" />
 
-        <Entry Class="Ingots" BlueprintSubtypeId="DSV-InefficientKarnyxiumRefinement" />
+        <Entry Class="DSV-InefficientRefinement" BlueprintSubtypeId="DSV-InefficientKarnyxiumRefinement" />
+        <Entry Class="DSV-InefficientRefinement" BlueprintSubtypeId="DSV-InefficientCyriteRefinement" />
 
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-JumpCatalyst" />
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-EchoSeal" />

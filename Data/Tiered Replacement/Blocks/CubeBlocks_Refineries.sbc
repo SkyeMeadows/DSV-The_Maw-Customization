@@ -524,7 +524,7 @@
             <StandbyPowerConsumption>0.001</StandbyPowerConsumption>
             <OperationalPowerConsumption>4</OperationalPowerConsumption>
             <BlueprintClasses>
-                <Class>DSV-ExoticOres</Class>
+                <Class>DSV-InefficientRefinement</Class>
             </BlueprintClasses>
             <RefineSpeed>1.3</RefineSpeed>
             <MaterialEfficiency>1</MaterialEfficiency>

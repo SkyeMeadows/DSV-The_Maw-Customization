@@ -37,6 +37,22 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-InefficientCyriteRefinement</SubtypeId>
+            </Id>
+            <DisplayName>Inefficient Cyrite Refinement</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Cyrite" />
+            </Prerequisites>
+            <Results>
+                <Item Amount="0.003" TypeId="Ingot" SubtypeId="Cyrite" />
+            </Results>
+            <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>DSV-CyriteRefinement</SubtypeId>
             </Id>
             <DisplayName>Cyrite Refinement</DisplayName>
