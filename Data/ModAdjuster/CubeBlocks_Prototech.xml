@@ -178,7 +178,7 @@
                 <TypeId>HydrogenEngine</TypeId>
                 <SubtypeId>LargePrototechReactor</SubtypeId>
             </Id>
-            <MaxPowerOutput>8000</MaxPowerOutput>
+            <MaxPowerOutput>2400</MaxPowerOutput>
             <FuelCapacity>3000000</FuelCapacity>
             <FuelInfos>
                 <FuelInfo>
