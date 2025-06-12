@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClasses>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DenseOres</SubtypeId>
+            </Id>
+            <DisplayName>Dense Ores</DisplayName>
+            <Description>Dense Ores</Description>
+            <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\ore_rock.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\ore_rock.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
+            <OutputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</OutputConstraintIcon>
+        </Class>
+        
+    </BlueprintClasses>
+
+    <BlueprintClassEntries>
+
+<!-- Dense Ore Blueprints -->
+        <Entry Class="DenseOres" BlueprintSubtypeId="StoneOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="IronOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="NickelOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="CobaltOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="MagnesiumOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="SiliconOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="SilverOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="GoldOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="PlatinumOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="UraniumOreToDense" />
+        <Entry Class="DenseOres" BlueprintSubtypeId="IceToDense" />
+
+
+<!-- Dense Ore Smelting Blueprints -->
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseStoneOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseIronOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseNickelOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseCobaltOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseMagnesiumOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseSiliconOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseSilverOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseGoldOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DensePlatinumOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="DenseUraniumOreToIngot" />
+
+<!-- Dense Ice to Gas -->
+        <Entry Class="Ice" BlueprintSubtypeId="DenseIceToOxygen" />
+
+    </BlueprintClassEntries>
+</Definitions>

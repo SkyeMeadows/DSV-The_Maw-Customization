@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CubeBlocks>
+
+        <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
+			<Id>
+				<TypeId>Refinery</TypeId>
+				<SubtypeId>OreCompactorLarge</SubtypeId>
+			</Id>
+			<DisplayName>Large Ore Compactor</DisplayName>
+			<Description>A production machine that compacts ores into half their size, doubling their density.</Description>
+			<Icon>Textures\GUI\Icons\Cubes\BlastFurnace.dds</Icon>
+			<CubeSize>Large</CubeSize>
+			<BlockTopology>TriangleMesh</BlockTopology>
+			<Size x="1" y="2" z="1"/>
+			<ModelOffset x="0" y="0" z="0"/>
+			<Model>Models\Cubes\large\BasicRefinery.mwm</Model>
+			<Components>
+				<Component Subtype="SteelPlate" Count="500" />
+				<Component Subtype="Construction" Count="400" />
+				<Component Subtype="LargeTube" Count="40" />
+				<Component Subtype="Motor" Count="200" />
+				<Component Subtype="MetalGrid" Count="75" />
+				<Component Subtype="Computer" Count="40" />
+				<Component Subtype="SteelPlate" Count="150" />
+			</Components>
+			<CriticalComponent Subtype="MetalGrid" Index="0"/>
+			<MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" Default="true" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="1" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\BasicRefineryConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\BasicRefineryConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\BasicRefineryConstruction_3.mwm" />
+            </BuildProgressModels>
+
+			<BlockPairName>OreCompactor</BlockPairName>
+			<MirroringY>Z</MirroringY>
+			<MirroringZ>Y</MirroringZ>
+			<BuildTimeSeconds>90</BuildTimeSeconds>
+			<ResourceSinkGroup>Factory</ResourceSinkGroup>
+			<InventoryMaxVolume>10.0</InventoryMaxVolume>
+			<InventorySize>
+				<X>3.0</X>
+				<Y>3.0</Y>
+				<Z>3.0</Z>
+			</InventorySize>
+
+			<InventoryFillFactorMin>0.7</InventoryFillFactorMin>
+			<InventoryFillFactorMax>0.9</InventoryFillFactorMax>
+
+			<StandbyPowerConsumption>0.001</StandbyPowerConsumption>
+			<OperationalPowerConsumption>0.50</OperationalPowerConsumption>
+
+			<BlueprintClasses>
+				<Class>DenseOres</Class>
+			</BlueprintClasses>
+
+			<RefineSpeed>9</RefineSpeed>
+            <MaterialEfficiency>1.0</MaterialEfficiency>
+
+			<OreAmountPerPullRequest>5000</OreAmountPerPullRequest>
+			<DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
+			<Center x="0" y="0" z="0" />
+			<DamagedSound>ParticleHeavyMech</DamagedSound>
+			<PrimarySound>BlockRafinery</PrimarySound>
+			<ActionSound>BlockRafineryProcess</ActionSound>
+			<EmissiveColorPreset>Default</EmissiveColorPreset>
+			<DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+			<DestroySound>WepSmallWarheadExpl</DestroySound>
+			<PCU>75</PCU>
+			<TieredUpdateTimes>
+				<unsignedInt>60</unsignedInt>
+				<unsignedInt>120</unsignedInt>
+				<unsignedInt>240</unsignedInt>
+			</TieredUpdateTimes>
+		</Definition>
+
+	</CubeBlocks>
+</Definitions>

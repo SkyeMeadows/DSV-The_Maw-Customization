@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blueprints>
+    <!-- ORE TO DENSE START -->
+
+        <!-- BROKEN 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>StoneOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Stone Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Stone" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseStone" />
+            <BaseProductionTimeInSeconds>0.05</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        -->
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>IronOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Iron Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseIron" />
+            <BaseProductionTimeInSeconds>0.025</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>NickelOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Nickel Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\nickel_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Nickel" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseNickel" />
+            <BaseProductionTimeInSeconds>0.33</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>CobaltOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Cobalt Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\cobalt_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Cobalt" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseCobalt" />
+            <BaseProductionTimeInSeconds>1.5</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>MagnesiumOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Magnesium Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\magnesium_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseMagnesium" />
+            <BaseProductionTimeInSeconds>0.25</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>SiliconOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Silicon Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\silicon_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseSilicon" />
+            <BaseProductionTimeInSeconds>0.3</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>SilverOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Silver Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Silver" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseSilver" />
+            <BaseProductionTimeInSeconds>0.5</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>GoldOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Gold Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\gold_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Gold" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseGold" />
+            <BaseProductionTimeInSeconds>0.2</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PlatinumOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Platinum Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\platinum_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Platinum" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DensePlatinum" />
+            <BaseProductionTimeInSeconds>1.5</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>UraniumOreToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Uranium Ore</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\uranium_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Uranium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseUranium" />
+            <BaseProductionTimeInSeconds>2</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <!-- BROKEN 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>IceToDense</SubtypeId>
+            </Id>
+            <DisplayName>Dense Ice</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2" TypeId="Ore" SubtypeId="Ice" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ore" SubtypeId="DenseIce" />
+            <BaseProductionTimeInSeconds>0.05</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        -->
+
+
+    <!-- ORE TO DENSE END-->
+
+    <!-- Dense ore Refining is locatated in the DSV-S2-Modifiers Mod, ModAdjuster-->
+    
+  </Blueprints>
+</Definitions>
