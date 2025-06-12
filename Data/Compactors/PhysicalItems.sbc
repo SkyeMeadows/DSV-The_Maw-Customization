@@ -6,7 +6,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseStone</SubtypeId>
       </Id>
-      <DisplayName>Dense Stone</DisplayName>
+      <DisplayName>Compacted Stone</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -23,7 +23,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseIron</SubtypeId>
       </Id>
-      <DisplayName>Dense Iron Ore</DisplayName>
+      <DisplayName>Compacted Iron Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -41,7 +41,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseNickel</SubtypeId>
       </Id>
-      <DisplayName>Dense Nickel Ore</DisplayName>
+      <DisplayName>Compacted Nickel Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -59,7 +59,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseCobalt</SubtypeId>
       </Id>
-      <DisplayName>Dense Cobalt Ore</DisplayName>
+      <DisplayName>Compacted Cobalt Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -77,7 +77,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseMagnesium</SubtypeId>
       </Id>
-      <DisplayName>Dense Magnesium Ore</DisplayName>
+      <DisplayName>Compacted Magnesium Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -95,7 +95,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseSilicon</SubtypeId>
       </Id>
-      <DisplayName>Dense Silicon Ore</DisplayName>
+      <DisplayName>Compacted Silicon Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -113,7 +113,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseSilver</SubtypeId>
       </Id>
-      <DisplayName>Dense Silver Ore</DisplayName>
+      <DisplayName>Compacted Silver Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -131,7 +131,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseGold</SubtypeId>
       </Id>
-      <DisplayName>Dense Gold Ore</DisplayName>
+      <DisplayName>Compacted Gold Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -149,7 +149,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DensePlatinum</SubtypeId>
       </Id>
-      <DisplayName>Dense Platinum Ore</DisplayName>
+      <DisplayName>Compacted Platinum Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -167,7 +167,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseUranium</SubtypeId>
       </Id>
-      <DisplayName>Dense Uranium Ore</DisplayName>
+      <DisplayName>Compacted Uranium Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_UO2_uranite.dds</Icon>
       <Size>
         <X>0.07</X>
@@ -185,7 +185,7 @@
         <TypeId>Ore</TypeId>
         <SubtypeId>DenseIce</SubtypeId>
       </Id>
-      <DisplayName>Dense Ice</DisplayName>
+      <DisplayName>Compacted Ice</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
       <Size>
         <X>0.07</X>
