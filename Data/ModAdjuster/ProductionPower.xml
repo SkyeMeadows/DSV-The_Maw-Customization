@@ -8,6 +8,22 @@
                 <SubtypeId>LargeRefinery</SubtypeId>
             </Id>
             <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
+            <BlueprintClasses>
+                <Class>Ingots</Class>
+                <Class>DSV-ExoticOres</Class>
+            </BlueprintClasses>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
+            <Id>
+                <TypeId>Refinery</TypeId>
+                <SubtypeId>LargeRefineryIndustrial</SubtypeId>
+            </Id>
+            <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
+            <BlueprintClasses>
+                <Class>Ingots</Class>
+                <Class>DSV-ExoticOres</Class>
+            </BlueprintClasses>
         </Definition>
 
         <Definition xsi:type="MyObjectBuilder_OxygenGeneratorDefinition">
@@ -18,10 +34,26 @@
             <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
         </Definition>
 
+        <Definition xsi:type="MyObjectBuilder_OxygenGeneratorDefinition">
+            <Id>
+                <TypeId>OxygenGenerator</TypeId>
+                <SubtypeId>LargeBlockOxygenGeneratorLab</SubtypeId>
+            </Id>
+            <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
+        </Definition>
+
         <Definition xsi:type="MyObjectBuilder_AssemblerDefinition">
             <Id>
                 <TypeId>Assembler</TypeId>
                 <SubtypeId>LargeAssembler</SubtypeId>
+            </Id>
+            <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
+        </Definition>
+
+        <Definition xsi:type="MyObjectBuilder_AssemblerDefinition">
+            <Id>
+                <TypeId>Assembler</TypeId>
+                <SubtypeId>LargeAssemblerIndustrial</SubtypeId>
             </Id>
             <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
         </Definition>
