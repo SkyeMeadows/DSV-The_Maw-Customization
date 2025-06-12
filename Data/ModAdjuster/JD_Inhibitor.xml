@@ -18,10 +18,6 @@
         <Component Subtype="Construction" Count="30" />
         <Component Subtype="SteelPlate" Count="40" />        
       </Components>
-      <CriticalComponent Subtype="RadioCommunication" Index="0" />
-      <BuildTimeSeconds>300</BuildTimeSeconds>
-      <MaxBroadcastRadius>10000</MaxBroadcastRadius>
-      <MaxBroadcastPowerDrainkW>200000</MaxBroadcastPowerDrainkW>
     </Definition>
       
     <Definition xsi:type="MyObjectBuilder_BeaconDefinition">
@@ -41,9 +37,6 @@
         <Component Subtype="SteelPlate" Count="40" />        
       </Components>
       <CriticalComponent Subtype="RadioCommunication" Index="0" />
-      <BuildTimeSeconds>60</BuildTimeSeconds>
-      <MaxBroadcastRadius>3000</MaxBroadcastRadius>
-      <MaxBroadcastPowerDrainkW>100000</MaxBroadcastPowerDrainkW>
     </Definition>
 	<!-- End Region Jump Inhibitor -->
   </CubeBlocks>
