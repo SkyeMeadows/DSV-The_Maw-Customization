@@ -3,6 +3,6 @@ CubeBlocks_Prototech.xml
 CubeBlocks_Weapons.xml
 ProductionPower.xml
 VanillaEconomyMod.xml
-BuildTimeAdjustments\CubeBlocks_Armor_BuildTime.xml
-BuildTimeAdjustments\CubeBlocks_VanillaFunctional_BuildTime.xml
-BuildTimeAdjustments\CubeBlocks_Weapons_BuildTime.xml
+CubeBlocks_Armor_BuildTime.xml
+CubeBlocks_VanillaFunctional_BuildTime.xml
+CubeBlocks_Weapons_BuildTime.xml
