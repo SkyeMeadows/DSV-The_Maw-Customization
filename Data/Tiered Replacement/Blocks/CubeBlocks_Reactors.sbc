@@ -781,7 +781,7 @@
             <Model>Models\Cubes\Small\GeneratorSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="LargeTube" Count="1" />
@@ -879,7 +879,7 @@
             <Model>Models\Cubes\Small\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="9" />
                 <Component Subtype="MetalGrid" Count="9" />
                 <Component Subtype="LargeTube" Count="3" />
@@ -977,7 +977,7 @@
             <Model>Models\Cubes\Small\GeneratorSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="LargeTube" Count="1" />
@@ -1076,7 +1076,7 @@
             <Model>Models\Cubes\Small\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="9" />
                 <Component Subtype="MetalGrid" Count="9" />
                 <Component Subtype="LargeTube" Count="3" />
@@ -1174,7 +1174,7 @@
             <Model>Models\Cubes\Large\GeneratorSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="50" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="8" />
@@ -1272,7 +1272,7 @@
             <Model>Models\Cubes\Large\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="800" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="MetalGrid" Count="40" />
                 <Component Subtype="LargeTube" Count="40" />
@@ -1371,7 +1371,7 @@
             <Model>Models\Cubes\Large\GeneratorSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="50" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="8" />
@@ -1469,7 +1469,7 @@
             <Model>Models\Cubes\Large\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="800" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="MetalGrid" Count="40" />
                 <Component Subtype="LargeTube" Count="40" />
@@ -1570,7 +1570,7 @@
             <Public>true</Public>
             <Components>
                 <Component Subtype="SteelPlate" Count="50" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="8" />
@@ -1670,7 +1670,7 @@
             <Model>Models\Cubes\Large\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="800" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="MetalGrid" Count="40" />
                 <Component Subtype="LargeTube" Count="40" />

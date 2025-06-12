@@ -271,7 +271,7 @@
             <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="MetalGrid" Count="50" />
                 <Component Subtype="DSV-JumpCatalyst" Count="20" />
                 <Component Subtype="DSV-EchoSeal" Count="20" />
@@ -336,7 +336,7 @@
             <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="MetalGrid" Count="50" />
                 <Component Subtype="DSV-JumpCatalyst" Count="20" />
                 <Component Subtype="DSV-EchoSeal" Count="20" />
@@ -401,7 +401,7 @@
             <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="MetalGrid" Count="50" />
                 <Component Subtype="DSV-JumpCatalyst" Count="20" />
                 <Component Subtype="DSV-EchoSeal" Count="20" />

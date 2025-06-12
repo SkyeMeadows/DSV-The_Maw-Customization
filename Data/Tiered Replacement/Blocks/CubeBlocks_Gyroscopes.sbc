@@ -234,7 +234,7 @@
             <Model>Models\Cubes\Large\gyroscope.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="50" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="50" />
@@ -290,7 +290,7 @@
             <Model>Models\Cubes\Large\gyroscope.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="50" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="50" />
@@ -347,7 +347,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="15" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-EntropyMatrix" Count="1" />
@@ -402,7 +402,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="15" />
-                <Component Subtype="KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-EntropyMatrix" Count="1" />
