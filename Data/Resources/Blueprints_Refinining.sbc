@@ -5,6 +5,22 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-InefficientKarnyxiumRefinement</SubtypeId>
+            </Id>
+            <DisplayName>Inefficient Karnyxium Refinement</DisplayName>
+            <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Karnyxium" />
+            </Prerequisites>
+            <Results>
+                <Item Amount="0.0007" TypeId="Ingot" SubtypeId="Karnyxium" />
+            </Results>
+            <BaseProductionTimeInSeconds>20</BaseProductionTimeInSeconds>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>DSV-KarnyxiumRefinement</SubtypeId>
             </Id>
             <DisplayName>Karnyxium Refinement</DisplayName>

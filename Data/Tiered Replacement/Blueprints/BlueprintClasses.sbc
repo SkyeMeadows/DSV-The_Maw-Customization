@@ -85,6 +85,8 @@
     <BlueprintClassEntries>
         <Entry Class="Components" BlueprintSubtypeId="DSV-KarnyxiumCore" />
 
+        <Entry Class="Ingots" BlueprintSubtypeId="DSV-InefficientKarnyxiumRefinement" />
+
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-JumpCatalyst" />
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-EchoSeal" />
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-HardenedPlate" />

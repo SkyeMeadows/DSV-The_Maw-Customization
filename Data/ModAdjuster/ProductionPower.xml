@@ -8,10 +8,6 @@
                 <SubtypeId>LargeRefinery</SubtypeId>
             </Id>
             <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
-            <BlueprintClasses>
-                <Class>Ingots</Class>
-                <Class>DSV-ExoticOres</Class>
-            </BlueprintClasses>
         </Definition>
 
         <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
@@ -20,10 +16,6 @@
                 <SubtypeId>LargeRefineryIndustrial</SubtypeId>
             </Id>
             <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
-            <BlueprintClasses>
-                <Class>Ingots</Class>
-                <Class>DSV-ExoticOres</Class>
-            </BlueprintClasses>
         </Definition>
 
         <Definition xsi:type="MyObjectBuilder_OxygenGeneratorDefinition">
