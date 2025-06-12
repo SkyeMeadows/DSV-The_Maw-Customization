@@ -96,6 +96,27 @@
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-RecursiveHeater" />
 
         <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SteelPlate" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_ConstructionComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_GirderComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_MetalGrid" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_InteriorPlate" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SteelPlate" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SmallTube" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_LargeTube" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_MotorComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_Display" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_BulletproofGlass" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_ComputerComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_ReactorComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_ThrustComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_GravityGeneratorComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_MedicalComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_RadioCommunicationComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_DetectorComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_ExplosivesComponent" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SolarCell" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_PowerCell" />
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_Superconductor" />
 
         <Entry Class="DSV-BasicOres" BlueprintSubtypeId="StoneOreToIngot" />
         <Entry Class="DSV-BasicOres" BlueprintSubtypeId="ScrapIngotToIronIngot" />

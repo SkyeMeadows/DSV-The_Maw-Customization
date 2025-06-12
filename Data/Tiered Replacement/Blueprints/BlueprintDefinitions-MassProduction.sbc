@@ -7,15 +7,303 @@
                 <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>DSV-MP_SteelPlate</SubtypeId>
             </Id>
-            <DisplayName>MP-Steel Plate</DisplayName>
+            <DisplayName>MP Steel Plate</DisplayName>
             <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="2000" TypeId="Ingot" SubtypeId="Iron" />
             </Prerequisites>
             <Result Amount="100" TypeId="Component" SubtypeId="SteelPlate" />
-            <BaseProductionTimeInSeconds>10</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
             <IsPrimary>false</IsPrimary>
         </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_Construction</SubtypeId>
+            </Id>
+            <DisplayName>MP Construction Components</DisplayName>
+            <Icon>Textures\GUI\Icons\component\construction_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="700" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Construction" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_Girder</SubtypeId>
+            </Id>
+            <DisplayName>MP Girder</DisplayName>
+            <Icon>Textures\GUI\Icons\component\girder_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="550" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Girder" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_InteriorPlate</SubtypeId>
+            </Id>
+            <DisplayName>MP Interior Plate</DisplayName>
+            <Icon>Textures\GUI\Icons\component\interior_plate_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="275" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="InteriorPlate" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_MetalGrid</SubtypeId>
+            </Id>
+            <DisplayName>MP Metal Grid</DisplayName>
+            <Icon>Textures\GUI\Icons\component\metal_grid_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1100" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="450" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="275" TypeId="Ingot" SubtypeId="Cobalt" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="MetalGrid" />
+            <BaseProductionTimeInSeconds>170</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_SmallTube</SubtypeId>
+            </Id>
+            <DisplayName>MP Small Steel Tube</DisplayName>
+            <Icon>Textures\GUI\Icons\component\small_tube_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="450" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="SmallTube" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_LargeTube</SubtypeId>
+            </Id>
+            <DisplayName>MP Large Steel Tube</DisplayName>
+            <Icon>Textures\GUI\Icons\component\large_tube_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2800" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="LargeTube" />
+            <BaseProductionTimeInSeconds>170</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_Display</SubtypeId>
+            </Id>
+            <DisplayName>MP Display</DisplayName>
+            <Icon>Textures\GUI\Icons\component\display_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="90" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="450" TypeId="Ingot" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Display" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_BulletproofGlass</SubtypeId>
+            </Id>
+            <DisplayName>MP Bulletproof Glass</DisplayName>
+            <Icon>Textures\GUI\Icons\component\bulletproof_glass_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1350" TypeId="Ingot" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="BulletproofGlass" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_ComputerComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Computer</DisplayName>
+            <Icon>Textures\GUI\Icons\component\computer_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="45" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="18" TypeId="Ingot" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Computer" />
+            <BaseProductionTimeInSeconds>90</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_ReactorComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Reactor Component</DisplayName>
+            <Icon>Textures\GUI\Icons\component\reactor_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1350" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="1800" TypeId="Ingot" SubtypeId="Stone" />
+                <Item Amount="450" TypeId="Ingot" SubtypeId="Silver" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Reactor" />
+            <BaseProductionTimeInSeconds>700</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>  
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_ThrustComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Thruster Component</DisplayName>
+            <Icon>Textures\GUI\Icons\component\thrust_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2600" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="900" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="900" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="350" TypeId="Ingot" SubtypeId="Platinum" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Thrust" />
+            <BaseProductionTimeInSeconds>360</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_GravityGeneratorComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Gravity Generator Components</DisplayName>
+            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="45" TypeId="Ingot" SubtypeId="Silver" />
+                <Item Amount="90" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="2000" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="5500" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="GravityGenerator" />
+            <BaseProductionTimeInSeconds>850</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>   
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_MedicalComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Medical Components</DisplayName>
+            <Icon>Textures\GUI\Icons\component\medical_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="5500" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="6000" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="1800" TypeId="Ingot" SubtypeId="Silver" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Medical" />
+            <BaseProductionTimeInSeconds>540</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_RadioCommunicationComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Radio Communication Components</DisplayName>
+            <Icon>Textures\GUI\Icons\component\radio_communication_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="700" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="90" TypeId="Ingot" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="RadioCommunication" />
+            <BaseProductionTimeInSeconds>360</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_DetectorComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Detector Components</DisplayName>
+            <Icon>Textures\GUI\Icons\component\detector_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="450" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="1350" TypeId="Ingot" SubtypeId="Nickel" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Detector" />
+            <BaseProductionTimeInSeconds>360</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_ExplosivesComponent</SubtypeId>
+            </Id>
+            <DisplayName>MP Explosives</DisplayName>
+            <Icon>Textures\GUI\Icons\component\ExplosivesComponent.dds</Icon>
+            <Prerequisites>
+                <Item Amount="45" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="180" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Explosives" />
+            <BaseProductionTimeInSeconds>500</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_SolarCell</SubtypeId>
+            </Id>
+            <DisplayName>MP Solar Cell</DisplayName>
+            <Icon>Textures\GUI\Icons\component\SolarCellComponent.dds</Icon>
+            <Prerequisites>
+                <Item Amount="250" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="500" TypeId="Ingot" SubtypeId="Silicon" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="SolarCell" />
+            <BaseProductionTimeInSeconds>160</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_PowerCell</SubtypeId>
+            </Id>
+            <DisplayName>MP Power Cell</DisplayName>
+            <Icon>Textures\GUI\Icons\component\BatteryComponent.dds</Icon>
+            <Prerequisites>
+                <Item Amount="900" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="90" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="180" TypeId="Ingot" SubtypeId="Nickel" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="PowerCell" />
+            <BaseProductionTimeInSeconds>340</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint> 
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_Superconductor</SubtypeId>
+            </Id>
+            <DisplayName>MP Superconductor</DisplayName>
+            <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="900" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="180" TypeId="Ingot" SubtypeId="Gold" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Superconductor" />
+            <BaseProductionTimeInSeconds>660</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        
 
     </Blueprints>
 </Definitions>
