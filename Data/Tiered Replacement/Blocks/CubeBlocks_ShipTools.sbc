@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Karnyxium Drill</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
-            <Description>Block Enhanced using Karnyxium</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -85,7 +85,7 @@
             </Id>
             <DisplayName>Karnyxium Drill</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
-            <Description>Block Enhanced using Karnyxium</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -166,7 +166,7 @@
             </Id>
             <DisplayName>Karnyxium Welder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Welder.dds</Icon>
-            <Description>Block Enhanced using Karnyxium</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -234,7 +234,7 @@
             </Id>
             <DisplayName>Karnyxium Welder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Welder.dds</Icon>
-            <Description>Block Enhanced using Karnyxium</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -294,7 +294,7 @@
             </Id>
             <DisplayName>Karnyxium Grinder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
-            <Description>Block Enhanced using Karnyxium</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="2" />
@@ -360,7 +360,7 @@
             </Id>
             <DisplayName>KarnyxiumG rinder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
-            <Description>Block Enhanced using Karnyxium</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="6" />
