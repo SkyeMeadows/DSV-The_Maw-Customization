@@ -7,7 +7,7 @@
                 <TypeId>Ore</TypeId>
                 <SubtypeId>Karnyxium</SubtypeId>
             </Id>
-            <DisplayName>Karnyxium</DisplayName>
+            <DisplayName>Karnyxium Ore</DisplayName>
             <Icon>Textures\GUI\Icons\karnyxium_ore.dds</Icon>
             <Size>
                 <X>0.07</X>
@@ -28,7 +28,7 @@
                 <TypeId>Ore</TypeId>
                 <SubtypeId>Cyrite</SubtypeId>
             </Id>
-            <DisplayName>Cyrite</DisplayName>
+            <DisplayName>Cyrite ore</DisplayName>
             <Icon>Textures\GUI\Icons\cyrite_ore.dds</Icon>
             <Size>
                 <X>0.07</X>
