@@ -147,6 +147,106 @@
             <IsPrimary>true</IsPrimary>
         </Blueprint>
 
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseIronOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseIron" />
+        </Prerequisites>
+        <Result Amount="1.4" TypeId="Ingot" SubtypeId="Iron" />
+        <BaseProductionTimeInSeconds>0.05</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseNickelOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseNickel" />
+        </Prerequisites>
+        <Result Amount="0.8" TypeId="Ingot" SubtypeId="Nickel" />
+        <BaseProductionTimeInSeconds>0.66</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseCobaltOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseCobalt" />
+        </Prerequisites>
+        <Result Amount="0.6" TypeId="Ingot" SubtypeId="Cobalt" />
+        <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseMagnesiumOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseMagnesium" />
+        </Prerequisites>
+        <Result Amount="0.014" TypeId="Ingot" SubtypeId="Magnesium" />
+        <BaseProductionTimeInSeconds>0.5</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseSiliconOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseSilicon" />
+        </Prerequisites>
+        <Result Amount="1.4" TypeId="Ingot" SubtypeId="Silicon" />
+        <BaseProductionTimeInSeconds>0.6</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseSilverOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseSilver" />
+        </Prerequisites>
+        <Result Amount="0.2" TypeId="Ingot" SubtypeId="Silver" />
+        <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseGoldOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseGold" />
+        </Prerequisites>
+        <Result Amount="0.02" TypeId="Ingot" SubtypeId="Gold" />
+        <BaseProductionTimeInSeconds>0.4</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DensePlatinumOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DensePlatinum" />
+        </Prerequisites>
+        <Result Amount="0.01" TypeId="Ingot" SubtypeId="Platinum" />
+        <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+        <Id>
+            <TypeId>BlueprintDefinition</TypeId>
+            <SubtypeId>DenseUraniumOreToIngot</SubtypeId>
+        </Id>
+        <Prerequisites>
+            <Item Amount="1" TypeId="Ore" SubtypeId="DenseUranium" />
+        </Prerequisites>
+        <Result Amount="0.02" TypeId="Ingot" SubtypeId="Uranium" />
+        <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+        </Blueprint>
+
         <!-- BROKEN 
         <Blueprint>
             <Id>
