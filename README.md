@@ -98,3 +98,6 @@ Karnyxium Modifier: 1.5x
 Primary Attribute: 2x
 Secondary Atribute: 1.25x
 Tertiary Atribute: 1.25x
+
+
+Need to go and fix Ion thruster power draw - currently they are neither more efficient or less efficient, the power draw just scaled with the thrust output equally

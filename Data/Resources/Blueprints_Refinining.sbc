@@ -1,28 +1,5 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <BlueprintClasses>
-
-        <Class>
-            <Id>
-                <TypeId>BlueprintClassDefinition</TypeId>
-                <SubtypeId>DSV-AdvancedOres</SubtypeId>
-            </Id>
-            <DisplayName>Advanced Ores</DisplayName>
-            <Description>TBA</Description>
-            <Icon>Textures\GUI\Icons\buttons\Ingots.dds</Icon>
-            <HighlightIcon>Textures\GUI\Icons\buttons\Ingots.dds</HighlightIcon>
-            <FocusIcon>Textures\GUI\Icons\buttons\IngotsFocus.dds</FocusIcon>
-            <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
-        </Class>
-
-    </BlueprintClasses>
-
-    <!-- Ingots Class is placeholder, will be custom class as above -->
-    <BlueprintClassEntries>
-        <Entry Class="Ingots" BlueprintSubtypeId="DSV-KarnyxiumRefinement" />
-        <Entry Class="Ingots" BlueprintSubtypeId="DSV-CyriteRefinement" />
-    </BlueprintClassEntries>
-    
     <Blueprints>
 
         <Blueprint>

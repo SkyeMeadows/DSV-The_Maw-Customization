@@ -14,6 +14,58 @@
             <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
             <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
         </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-BasicOres</SubtypeId>
+            </Id>
+            <DisplayName>Basic Ores</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-IntermediateOres</SubtypeId>
+            </Id>
+            <DisplayName>Intermediate Ores</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-AdvancedOres</SubtypeId>
+            </Id>
+            <DisplayName>Advanced Ores</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-ExoticOres</SubtypeId>
+            </Id>
+            <DisplayName>Exotic Ores</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
     
     </BlueprintClasses>
     
@@ -30,6 +82,24 @@
         <Entry Class="Components" BlueprintSubtypeId="DSV-RecursiveHeater" />
 
         <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SteelPlate" />
+
+        <Entry Class="DSV-BasicOres" BlueprintSubtypeId="StoneOreToIngot" />
+        <Entry Class="DSV-BasicOres" BlueprintSubtypeId="ScrapIngotToIronIngot" />
+        <Entry Class="DSV-BasicOres" BlueprintSubtypeId="ScrapToIronIngot" />
+        <Entry Class="DSV-BasicOres" BlueprintSubtypeId="IronOreToIngot" />
+        <Entry Class="DSV-BasicOres" BlueprintSubtypeId="NickelOreToIngot" />
+        <Entry Class="DSV-BasicOres" BlueprintSubtypeId="SiliconOreToIngot" />
+
+        <Entry Class="DSV-IntermediateOres" BlueprintSubtypeId="CobaltOreToIngot" />
+        <Entry Class="DSV-IntermediateOres" BlueprintSubtypeId="MagnesiumOreToIngot" />
+        <Entry Class="DSV-IntermediateOres" BlueprintSubtypeId="SilverOreToIngot" />
+
+        <Entry Class="DSV-AdvancedOres" BlueprintSubtypeId="GoldOreToIngot" />
+        <Entry Class="DSV-AdvancedOres" BlueprintSubtypeId="PlatinumOreToIngot" />
+        <Entry Class="DSV-AdvancedOres" BlueprintSubtypeId="UraniumOreToIngot" />
+
+        <Entry Class="DSV-ExoticOres" BlueprintSubtypeId="DSV-KarnyxiumRefinement" />
+        <Entry Class="DSV-ExoticOres" BlueprintSubtypeId="DSV-CyriteRefinement" />
 
     </BlueprintClassEntries>
 </Definitions>
