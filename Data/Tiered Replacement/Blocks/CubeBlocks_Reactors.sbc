@@ -294,7 +294,7 @@
             </Id>
             <DisplayName>Accelerated Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>Description_Reactor</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1067,7 +1067,7 @@
             </Id>
             <DisplayName>Accelerated Karnyxium Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>Description_Reactor</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>

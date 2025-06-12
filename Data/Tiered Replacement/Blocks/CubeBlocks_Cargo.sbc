@@ -225,7 +225,7 @@
             </Id>
             <DisplayName>Large Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
-            <Description>Description_LargeCargoContainer</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>

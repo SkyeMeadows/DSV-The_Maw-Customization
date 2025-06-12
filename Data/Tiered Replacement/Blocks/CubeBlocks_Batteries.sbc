@@ -75,7 +75,7 @@
             </Id>
             <DisplayName>High Output Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>Description_Battery</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -205,7 +205,7 @@
             </Id>
             <DisplayName>Efficient Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>Description_Battery</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -401,7 +401,7 @@
             </Id>
             <DisplayName>High Output Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>Description_Battery</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -606,7 +606,7 @@
             </Id>
             <DisplayName>Efficient Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>Description_Battery</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
