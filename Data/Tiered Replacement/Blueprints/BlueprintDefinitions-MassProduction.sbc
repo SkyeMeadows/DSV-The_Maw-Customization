@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blueprints>
+        <!-- If Pre-reqs and results and prod-time are set to 1, the BP has not been configured -->
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_SteelPlate</SubtypeId>
+            </Id>
+            <DisplayName>MP-Steel Plate</DisplayName>
+            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="2000" TypeId="Ingot" SubtypeId="Iron" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="SteelPlate" />
+            <BaseProductionTimeInSeconds>10</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+
+    </Blueprints>
+</Definitions>

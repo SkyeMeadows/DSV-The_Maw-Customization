@@ -1,5 +1,22 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClasses>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>DSV-MassProduction</SubtypeId>
+            </Id>
+            <DisplayName>Mass Production</DisplayName>
+            <Description>TBA</Description>
+            <Icon>Textures\GUI\Icons\buttons\Components.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\Components.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\ComponentsFocus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
+    
+    </BlueprintClasses>
+    
     <BlueprintClassEntries>
 
         <Entry Class="Components" BlueprintSubtypeId="DSV-JumpCatalyst" />
@@ -11,6 +28,8 @@
         <Entry Class="Components" BlueprintSubtypeId="DSV-SpaceTimeDisruptorComponent" />
         <Entry Class="Components" BlueprintSubtypeId="DSV-AdvancedProductionMatrix" />
         <Entry Class="Components" BlueprintSubtypeId="DSV-RecursiveHeater" />
+
+        <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SteelPlate" />
 
     </BlueprintClassEntries>
 </Definitions>

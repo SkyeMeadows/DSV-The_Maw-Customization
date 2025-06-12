@@ -111,7 +111,7 @@
             <DisplayName>Space-Time Disruptor Component</DisplayName>
             <Icon>Textures\GUI\Icons\component\Space-Time_Disruptor_Component.dds</Icon>
             <Prerequisites>
-                <Item Amount="10" TypeId="Ingot" SubtypeId="Void-Scarred_Metal" />
+                <Item Amount="100" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="2000" TypeId="Ingot" SubtypeId="Silicon" />
                 <Item Amount="500" TypeId="Ingot" SubtypeId="Gold" />
                 <Item Amount="200" TypeId="Ingot" SubtypeId="Platinum" />
