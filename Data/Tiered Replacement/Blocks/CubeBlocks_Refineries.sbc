@@ -10,7 +10,7 @@
             </Id>
             <DisplayName>Fast Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -86,7 +86,7 @@
             </Id>
             <DisplayName>Power Efficient Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -162,7 +162,7 @@
             </Id>
             <DisplayName>High Yield Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -240,7 +240,7 @@
             </Id>
             <DisplayName>Fast Karnyxium Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -318,7 +318,7 @@
             </Id>
             <DisplayName>Power Efficient Karnyxium Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -396,7 +396,7 @@
             </Id>
             <DisplayName>High Yield Karnyxium Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -476,7 +476,7 @@
             </Id>
             <DisplayName>Overclocked Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -555,7 +555,7 @@
             </Id>
             <DisplayName>Simple Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -632,7 +632,7 @@
             </Id>
             <DisplayName>Intermediate Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -709,7 +709,7 @@
             </Id>
             <DisplayName>Advanced Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -786,7 +786,7 @@
             </Id>
             <DisplayName>Exotic Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />

@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Fuel Efficient Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -104,7 +104,7 @@
             </Id>
             <DisplayName>Fuel Efficient Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -199,7 +199,7 @@
             </Id>
             <DisplayName>Accelerated Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -389,7 +389,7 @@
             </Id>
             <DisplayName>Fuel Efficient Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -484,7 +484,7 @@
             </Id>
             <DisplayName>Fuel Efficient Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -580,7 +580,7 @@
             </Id>
             <DisplayName>Accelerated Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -675,7 +675,7 @@
             </Id>
             <DisplayName>Accelerated Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -773,7 +773,7 @@
             </Id>
             <DisplayName>Fuel Efficient Karnyxium Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -871,7 +871,7 @@
             </Id>
             <DisplayName>Fuel Efficient Karnyxium Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -969,7 +969,7 @@
             </Id>
             <DisplayName>Accelerated Karnyxium Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1165,7 +1165,7 @@
             </Id>
             <DisplayName>Fuel Efficient Karnyxium Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1263,7 +1263,7 @@
             </Id>
             <DisplayName>Fuel Efficient Karnyxium Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1362,7 +1362,7 @@
             </Id>
             <DisplayName>Accelerated Karnyxium Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1460,7 +1460,7 @@
             </Id>
             <DisplayName>Accelerated Karnyxium Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1561,7 +1561,7 @@
             </Id>
             <DisplayName>Karnyxium Fueled Small Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1661,7 +1661,7 @@
             </Id>
             <DisplayName>Karnyxium Fueled Large Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>

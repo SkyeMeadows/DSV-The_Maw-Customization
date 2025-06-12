@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>Small Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -61,7 +61,7 @@
             </Id>
             <DisplayName>Medium Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_medium.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -115,7 +115,7 @@
             </Id>
             <DisplayName>Large Karnyxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -168,7 +168,7 @@
             </Id>
             <DisplayName>Small Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />

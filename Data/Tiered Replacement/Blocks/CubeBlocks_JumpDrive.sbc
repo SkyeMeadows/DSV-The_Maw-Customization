@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Power Efficient Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -72,7 +72,7 @@
             </Id>
             <DisplayName>Long Range Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -135,7 +135,7 @@
             </Id>
             <DisplayName>High Mass Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -198,7 +198,7 @@
             </Id>
             <DisplayName>Proprietary Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -263,7 +263,7 @@
             </Id>
             <DisplayName>Power Efficient Karnyxium Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -328,7 +328,7 @@
             </Id>
             <DisplayName>Long Range Karnyxium Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -393,7 +393,7 @@
             </Id>
             <DisplayName>High Mass Karnyxium Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Block Enhanced using Karnyxium</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />

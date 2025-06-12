@@ -4,7 +4,6 @@ This will likely be a messy mod, as it will be a conjucntion of modadjuster, and
 # Game Modifications
 Production blocks will have their power consumption increased by a factor of 3x
 
-
 # Custom Resources
 ## Karynyxium
 An Orange exotic catalyst that can only be found within the outermost areas of the black hole's gravity well. (0.05-0.10g)
@@ -21,32 +20,6 @@ A Blue-ish rare metal that can be found anywhere in space, but in trace amounts.
 - Low yield per voxel mined
 - Ingots are made in a special refinery, and then used in a small group of common components.
 - Items take a long time to craft due to working with a very hard metal
-
-## Void-Scarred Metal
-A deep black metal created by combining Karnyxium with vast amounts of Cyrite
-- Used to distort space-time and prevent jump drives nearby from functioning
-- Unknown future uses
-
------ Archived -----
-Component List:
-Vanilla Ingots:
-- Heating Coil - Crafted from platinum, nickel, silicon, gold - Used in Industrial Crucible (used to smelt cyrite & Karnyxium)
-- Hardened Mechanisms - Crafted from Platinum, cobalt, silicon, gold, silver - Used in Advanced Assembler (Used to make Cyrite & karnyxium parts)
-
-Basic:
-- Echo Seal - Crafted from slight amounts of Cyrite, cobalt - Used in ALL (Karnyxium tier) functional blocks - Lore: To keep the Karnyxium at bay, a similar void-like material needs to hold Karnyxium in place
-- Hardened Plate - Crafted from Cyrite, iron, cobalt - Used in custom armor
-
-Advanced:
-- Gravity Conduit - Crafted from Karnyxium, gold, platinum, iron - Used in Karnyxium Reactors
-- Catalyst Capacitor - Crafted from Karnyxium, Cyrite, magnesium - Used in Karnyxium batteries
-- Entropy Matrix - Crafted from Karnyxium, Cyrite, cobalt, iron - Used in (karnyxium tier) Gyroscopes
-- Jump Catalyst - Crafted from Karnyxium, gold, platinum - Used in (karnyxium tier) Jump Drives
------ Archived -----
-
-### Exotic:
-- Space-Time Disruptor Component - Crafted from Void-Scarred Metal, gold, platinum, silicon (all in large quantities) - used in Jump Drive Disruptor/Inhibitor
-
 
 ## List of Function Block Types:
 Cargo
@@ -82,10 +55,6 @@ Thruster (Atmospheric) & Gyroscopes            Entropy Matrix
 Thruster (Hydrogen)                            Recursive Heater
 Jump Drives                                    Jump Catalyst
 Welder/Grinder/Drill                           ?
-
-
-
-### Other:
 Jump Drive Disruptor                           Space-Time Disruptor Component
 
 
