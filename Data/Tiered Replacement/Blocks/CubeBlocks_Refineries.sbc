@@ -563,6 +563,7 @@
             <Model>Models\Cubes\Large\Refinery.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1100" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="Motor" Count="16" />
@@ -639,6 +640,7 @@
             <Model>Models\Cubes\Large\Refinery.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1100" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="Motor" Count="16" />
@@ -715,6 +717,7 @@
             <Model>Models\Cubes\Large\Refinery.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1100" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="Motor" Count="16" />
@@ -791,6 +794,7 @@
             <Model>Models\Cubes\Large\Refinery.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1100" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="Motor" Count="16" />

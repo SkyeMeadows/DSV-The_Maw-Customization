@@ -16,6 +16,7 @@
             <Model>Models\Cubes\Small\CargoContainerSmall.mwm</Model>
             <Components>
                 <Component Subtype="InteriorPlate" Count="2" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="Computer" Count="1" />
                 <Component Subtype="Motor" Count="1" />
@@ -69,6 +70,7 @@
             <Model>Models\Cubes\Small\CargoContainerMedium.mwm</Model>
             <Components>
                 <Component Subtype="InteriorPlate" Count="20" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="Computer" Count="4" />
                 <Component Subtype="Motor" Count="4" />
@@ -122,6 +124,7 @@
             <Model>Models\Cubes\Small\CargoContainerLarge.mwm</Model>
             <Components>
                 <Component Subtype="InteriorPlate" Count="55" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="25" />
                 <Component Subtype="Computer" Count="6" />
                 <Component Subtype="Motor" Count="8" />
@@ -173,6 +176,7 @@
             <Model>Models\Cubes\Large\CargoContainerSmall.mwm</Model>
             <Components>
                 <Component Subtype="InteriorPlate" Count="30" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="35" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="SmallTube" Count="20" />
@@ -230,6 +234,7 @@
             <Model>Models\Cubes\Large\CargoContainerLarge.mwm</Model>
             <Components>
                 <Component Subtype="InteriorPlate" Count="300" />
+                <Component Subtype="KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="60" />
                 <Component Subtype="MetalGrid" Count="24" />
                 <Component Subtype="SmallTube" Count="60" />
