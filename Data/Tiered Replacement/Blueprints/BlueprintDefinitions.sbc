@@ -5,7 +5,7 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>DSV-KarynxiumCore</SubtypeId>
+                <SubtypeId>DSV-KarnyxiumCore</SubtypeId>
             </Id>
             <DisplayName>Karynxium Core</DisplayName>
             <Icon>Textures\GUI\Icons\component\Jump_Catalyst.dds</Icon>
