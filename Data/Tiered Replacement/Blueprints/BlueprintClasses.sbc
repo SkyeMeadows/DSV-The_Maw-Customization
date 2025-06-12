@@ -83,6 +83,7 @@
     </BlueprintClasses>
     
     <BlueprintClassEntries>
+        <Entry Class="Components" BlueprintSubtypeId="DSV-KarnyxiumCore" />
 
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-JumpCatalyst" />
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-EchoSeal" />

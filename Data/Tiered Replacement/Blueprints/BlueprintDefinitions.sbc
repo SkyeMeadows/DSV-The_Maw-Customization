@@ -5,6 +5,24 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-KarynxiumCore</SubtypeId>
+            </Id>
+            <DisplayName>Karynxium Core</DisplayName>
+            <Icon>Textures\GUI\Icons\component\Jump_Catalyst.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="100" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Gold" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-KarnyxiumCore" />
+            <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>DSV-JumpCatalyst</SubtypeId>
             </Id>
             <DisplayName>Jump Catalyst</DisplayName>
