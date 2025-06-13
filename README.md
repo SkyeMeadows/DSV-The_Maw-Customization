@@ -71,3 +71,17 @@ Tertiary Atribute: 1.25x
 # Thruster To-do:
 Need to check that flat D-Shapes match Flats
 Need to check that DLC skins match non-DLC
+
+Vanilla:
+Sci-FI Ion - Good
+Warfare Ion - Good
+Sci-Fi Atmo - Good
+Industrial Hydro - Good
+FlatAtmo(D-Shape) - Good
+
+karnyx:
+Sci-FI Ion - 
+Warfare Ion - 
+Sci-Fi Atmo - 
+Industrial Hydro - 
+FlatAtmo(D-Shape) - 
