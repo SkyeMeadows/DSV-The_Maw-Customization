@@ -58,12 +58,19 @@ Welder/Grinder/Drill                           ?
 Jump Drive Disruptor                           Space-Time Disruptor Component
 
 
-Vanilla Modifer: 1x
+Vanilla Modifer:
 Primary Attribute: 1.25x
 Secondary Atribute: 0.75x
 Tertiary Atribute: 1x
 
-Karnyxium Modifier: 1.5x
+Karnyxium Modifier:
 Primary Attribute: 2x
 Secondary Atribute: 1.25x
 Tertiary Atribute: 1.25x
+
+# Thruster To-do: Up to line 7640 on completion
+Missing SG DLC Variant Thrusters
+Missing LG Karnyxium Thrusters
+Missing LG DLC Karnyxium Thrusters
+Missing SG Karnyxium Thrusters
+Missing SG DLC Karnyxium Thrusters
