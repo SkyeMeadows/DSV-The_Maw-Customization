@@ -68,9 +68,6 @@ Primary Attribute: 2x
 Secondary Atribute: 1.25x
 Tertiary Atribute: 1.25x
 
-# Thruster To-do: Up to line 7640 on completion
-Missing SG DLC Variant Thrusters
-Missing LG Karnyxium Thrusters
-Missing LG DLC Karnyxium Thrusters
-Missing SG Karnyxium Thrusters
-Missing SG DLC Karnyxium Thrusters
+# Thruster To-do:
+Need to check that flat D-Shapes match Flats
+Need to check that DLC skins match non-DLC
