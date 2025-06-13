@@ -77,11 +77,11 @@ Sci-FI Ion - Good
 Warfare Ion - Good
 Sci-Fi Atmo - Good
 Industrial Hydro - Good
-FlatAtmo(D-Shape) - Good
+FlatAtmo(D-Shape) - In Progress
 
 karnyx:
-Sci-FI Ion - 
-Warfare Ion - 
-Sci-Fi Atmo - 
-Industrial Hydro - 
-FlatAtmo(D-Shape) - 
+Sci-FI Ion - Good
+Warfare Ion - Good
+Sci-Fi Atmo - Good
+Industrial Hydro - Good
+FlatAtmo(D-Shape) - Good
