@@ -358,7 +358,7 @@
                 <TypeId>ShipGrinder</TypeId>
                 <SubtypeId>DSV-SG_KarnyxiumGrinder</SubtypeId>
             </Id>
-            <DisplayName>KarnyxiumG rinder</DisplayName>
+            <DisplayName>Karnyxium Grinder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
             <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Small</CubeSize>

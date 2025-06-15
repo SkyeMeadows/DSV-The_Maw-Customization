@@ -333,7 +333,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>300</MaxPowerOutput>
+            <MaxPowerOutput>8.25</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
