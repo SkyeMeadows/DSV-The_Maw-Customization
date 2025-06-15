@@ -14,13 +14,13 @@
                 <Y>0.5</Y>
                 <Z>0.01</Z>
             </Size>
-            <Mass>2000</Mass>
-            <Volume>400</Volume>
+            <Mass>200</Mass>
+            <Volume>40</Volume>
             <Model>Models\Components\gravity_generator_components_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <MaxIntegrity>1000</MaxIntegrity>
+            <MaxIntegrity>250</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
-            <Health>200</Health>
+            <Health>20</Health>
             <MinimumOfferAmount>250</MinimumOfferAmount>
             <MaximumOfferAmount>2500</MaximumOfferAmount>
             <MinimumOrderAmount>100</MinimumOrderAmount>
@@ -101,7 +101,7 @@
                 <Y>0.5</Y>
                 <Z>0.01</Z>
             </Size>
-            <Mass>50</Mass>
+            <Mass>45</Mass>
             <Volume>4</Volume>
             <Model>Models\Components\steel_plate_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
@@ -134,7 +134,7 @@
             <Volume>250</Volume>
             <Model>Models\Components\reactor_components_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <MaxIntegrity>600</MaxIntegrity>
+            <MaxIntegrity>400</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
             <Health>80</Health>
             <MinimumOfferAmount>250</MinimumOfferAmount>
