@@ -50,6 +50,22 @@
             <OperationalPowerConsumption>1.5</OperationalPowerConsumption>
         </Definition>
 
+        <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
+            <Id>
+                <TypeId>Reactor</TypeId>
+                <SubtypeId>SmallBlockLargeGenerator</SubtypeId>
+            </Id>
+            <MaxPowerOutput>15</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
+        </Definition>
+
     </CubeBlocks>
 </Definitions>
 
