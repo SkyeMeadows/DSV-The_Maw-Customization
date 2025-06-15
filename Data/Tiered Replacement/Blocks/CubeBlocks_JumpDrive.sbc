@@ -201,9 +201,10 @@
             <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
-            <Size x="3" y="3" z="2" />
+            <Size x="1" y="1" z="1" />
             <ModelOffset x="0" y="0" z="0" />
-            <Model>Models\Cubes\Large\JumpDrive.mwm</Model>
+            <Model>Models\Cubes\Large\BatteryLarge.mwm</Model>
+            <Public>true</Public>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
                 <Component Subtype="MetalGrid" Count="50" />
@@ -216,18 +217,10 @@
                 <Component Subtype="SteelPlate" Count="20" />
             </Components>
             <CriticalComponent Subtype="Computer" Index="0" />
-            <MountPoints>
-                <MountPoint Side="Top" StartX="0" StartY="0" EndX="3" EndY="2" />
-                <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="3" />
-                <MountPoint Side="Left" StartX="0" StartY="0" EndX="2" EndY="3" />
-                <MountPoint Side="Front" StartX="0" StartY="0" EndX="3" EndY="3" />
-                <MountPoint Side="Right" StartX="0" StartY="0" EndX="2" EndY="3" />
-                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="3" EndY="2" Default="true" />
-            </MountPoints>
             <BuildProgressModels>
-                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\JumpDriveConstruction_1.mwm" />
-                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\JumpDriveConstruction_2.mwm" />
-                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\JumpDriveConstruction_3.mwm" />
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\BatteryLargeConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\BatteryLargeConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\BatteryLargeConstruction_3.mwm" />
             </BuildProgressModels>
             <BlockPairName>JumpDrive_Starter</BlockPairName>
             <MirroringY>Z</MirroringY>
