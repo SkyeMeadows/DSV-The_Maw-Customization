@@ -43,7 +43,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>4.2E+07</ForceMagnitude>
-            <RequiredPowerInput>0.0125</RequiredPowerInput>
+            <RequiredPowerInput>0.015625</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -97,7 +97,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>3.36E+07</ForceMagnitude>
-            <RequiredPowerInput>0.0075</RequiredPowerInput>
+            <RequiredPowerInput>0.005625</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -150,7 +150,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>560000</ForceMagnitude>
-            <RequiredPowerInput>0.0025</RequiredPowerInput>
+            <RequiredPowerInput>0.003125</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -203,7 +203,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>448000</ForceMagnitude>
-            <RequiredPowerInput>0.0015</RequiredPowerInput>
+            <RequiredPowerInput>0.001125</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -261,7 +261,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>6.72E+07</ForceMagnitude>
-            <RequiredPowerInput>0.0075</RequiredPowerInput>
+            <RequiredPowerInput>0.015</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -317,7 +317,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>4.2E+07</ForceMagnitude>
-            <RequiredPowerInput>0.005</RequiredPowerInput>
+            <RequiredPowerInput>0.00625</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -372,7 +372,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>896000</ForceMagnitude>
-            <RequiredPowerInput>0.0015</RequiredPowerInput>
+            <RequiredPowerInput>0.0030</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
@@ -427,7 +427,7 @@
 
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
             <ForceMagnitude>560000</ForceMagnitude>
-            <RequiredPowerInput>0.001</RequiredPowerInput>
+            <RequiredPowerInput>0.00125</RequiredPowerInput>
 
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>
