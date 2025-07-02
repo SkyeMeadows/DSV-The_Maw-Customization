@@ -7664,6 +7664,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Thrust" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -7767,6 +7769,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Thrust" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -7869,6 +7873,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
+                <Component Subtype="DSV-RecursiveHeater" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Thrust" Count="12" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -7971,6 +7977,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
+                <Component Subtype="DSV-RecursiveHeater" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Thrust" Count="12" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -8074,6 +8082,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -8177,6 +8187,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -8279,6 +8291,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Thrust" Count="960" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -8383,6 +8397,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Thrust" Count="960" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -8488,6 +8504,8 @@
                 <Component Subtype="Construction" Count="150" />
                 <Component Subtype="MetalGrid" Count="250" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
             </Components>
@@ -8593,6 +8611,8 @@
                 <Component Subtype="Construction" Count="150" />
                 <Component Subtype="MetalGrid" Count="250" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
             </Components>
@@ -8699,6 +8719,8 @@
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="8" />
+                <Component Subtype="DSV-EchoSeal" Count="8" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
             </Components>
@@ -8803,6 +8825,8 @@
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="8" />
+                <Component Subtype="DSV-EchoSeal" Count="8" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
             </Components>
@@ -8906,6 +8930,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
                 <Component Subtype="LargeTube" Count="10" />
+                <Component Subtype="DSV-RecursiveHeater" Count="5" />
+                <Component Subtype="DSV-EchoSeal" Count="5" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
             </Components>
@@ -9010,6 +9036,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
                 <Component Subtype="LargeTube" Count="10" />
+                <Component Subtype="DSV-RecursiveHeater" Count="5" />
+                <Component Subtype="DSV-EchoSeal" Count="5" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
             </Components>
@@ -9115,6 +9143,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="2" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="SteelPlate" Count="5" />
             </Components>
@@ -9219,6 +9249,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="2" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="SteelPlate" Count="5" />
             </Components>
@@ -9322,6 +9354,8 @@
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="50" />
                 <Component Subtype="MetalGrid" Count="40" />
+                <Component Subtype="DSV-EntropyMatrix" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="Motor" Count="1100" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="130" />
@@ -9432,6 +9466,8 @@
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="50" />
                 <Component Subtype="MetalGrid" Count="40" />
+                <Component Subtype="DSV-EntropyMatrix" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="Motor" Count="1100" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="130" />
@@ -9543,6 +9579,8 @@
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="MetalGrid" Count="10" />
+                <Component Subtype="DSV-EntropyMatrix" Count="10" />
+                <Component Subtype="DSV-EchoSeal" Count="10" />
                 <Component Subtype="Motor" Count="110" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="20" />
@@ -9655,6 +9693,8 @@
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="MetalGrid" Count="10" />
+                <Component Subtype="DSV-EntropyMatrix" Count="10" />
+                <Component Subtype="DSV-EchoSeal" Count="10" />
                 <Component Subtype="Motor" Count="110" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="20" />
@@ -9766,6 +9806,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
+                <Component Subtype="DSV-EntropyMatrix" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Motor" Count="90" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -9878,6 +9920,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
+                <Component Subtype="DSV-EntropyMatrix" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Motor" Count="90" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -9969,7 +10013,7 @@
                 <string>Propulsion</string>
             </TargetingGroups>
         </Definition>
-        <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
+                <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
                 <SubtypeId>DSV-SG_KarnyxiumSmallAtmoThrust_Variant_HighPower</SubtypeId>
@@ -9991,6 +10035,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="18" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -10104,6 +10150,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="18" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -10216,6 +10264,8 @@
                 <Component Subtype="Construction" Count="15" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="MetalGrid" Count="15" />
+                <Component Subtype="DSV-EntropyMatrix" Count="15" />
+                <Component Subtype="DSV-EchoSeal" Count="15" />
                 <Component Subtype="Motor" Count="400" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -10331,6 +10381,8 @@
                 <Component Subtype="Construction" Count="15" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="MetalGrid" Count="15" />
+                <Component Subtype="DSV-EntropyMatrix" Count="15" />
+                <Component Subtype="DSV-EchoSeal" Count="15" />
                 <Component Subtype="Motor" Count="400" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -10446,6 +10498,8 @@
                 <Component Subtype="Construction" Count="15" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="MetalGrid" Count="15" />
+                <Component Subtype="DSV-EntropyMatrix" Count="15" />
+                <Component Subtype="DSV-EchoSeal" Count="15" />
                 <Component Subtype="Motor" Count="400" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -10561,6 +10615,8 @@
                 <Component Subtype="Construction" Count="15" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="MetalGrid" Count="15" />
+                <Component Subtype="DSV-EntropyMatrix" Count="15" />
+                <Component Subtype="DSV-EchoSeal" Count="15" />
                 <Component Subtype="Motor" Count="400" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -10677,6 +10733,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="3" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -10793,6 +10851,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="3" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -10909,6 +10969,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="3" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -11025,6 +11087,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="3" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -11140,6 +11204,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="4" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -11256,6 +11322,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="4" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -11372,6 +11440,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="4" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -11488,6 +11558,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="30" />
                 <Component Subtype="Construction" Count="4" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -11605,6 +11677,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="6" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -11722,6 +11796,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="6" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -11839,6 +11915,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="6" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -11956,6 +12034,8 @@
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="6" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -12072,6 +12152,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Thrust" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -12170,6 +12252,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Thrust" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -12267,6 +12351,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
+                <Component Subtype="DSV-RecursiveHeater" Count="2" />
+                <Component Subtype="DSV-EchoSeal" Count="2" />
                 <Component Subtype="Thrust" Count="12" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -12364,6 +12450,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
+                <Component Subtype="DSV-RecursiveHeater" Count="2" />
+                <Component Subtype="DSV-EchoSeal" Count="2" />
                 <Component Subtype="Thrust" Count="12" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -12462,6 +12550,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -12560,6 +12650,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -12657,6 +12749,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Thrust" Count="960" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -12756,6 +12850,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Thrust" Count="960" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -12856,6 +12952,8 @@
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="50" />
                 <Component Subtype="MetalGrid" Count="40" />
+                <Component Subtype="DSV-EntropyMatrix" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="Motor" Count="1100" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="130" />
@@ -12961,6 +13059,8 @@
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="50" />
                 <Component Subtype="MetalGrid" Count="40" />
+                <Component Subtype="DSV-EntropyMatrix" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="Motor" Count="1100" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="130" />
@@ -13067,6 +13167,8 @@
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="MetalGrid" Count="10" />
+                <Component Subtype="DSV-EntropyMatrix" Count="10" />
+                <Component Subtype="DSV-EchoSeal" Count="10" />
                 <Component Subtype="Motor" Count="110" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="20" />
@@ -13174,6 +13276,8 @@
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="MetalGrid" Count="10" />
+                <Component Subtype="DSV-EntropyMatrix" Count="10" />
+                <Component Subtype="DSV-EchoSeal" Count="10" />
                 <Component Subtype="Motor" Count="110" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="20" />
@@ -13280,6 +13384,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
+                <Component Subtype="DSV-EntropyMatrix" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Motor" Count="90" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -13386,6 +13492,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
+                <Component Subtype="DSV-EntropyMatrix" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Motor" Count="90" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -13493,6 +13601,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="18" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -13601,6 +13711,8 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
+                <Component Subtype="DSV-EntropyMatrix" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Motor" Count="18" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -13708,6 +13820,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Thrust" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -13806,6 +13920,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="Thrust" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="1" />
@@ -13903,6 +14019,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
+                <Component Subtype="DSV-RecursiveHeater" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Thrust" Count="12" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -14004,6 +14122,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
+                <Component Subtype="DSV-RecursiveHeater" Count="3" />
+                <Component Subtype="DSV-EchoSeal" Count="3" />
                 <Component Subtype="Thrust" Count="12" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="SteelPlate" Count="4" />
@@ -14106,6 +14226,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -14204,6 +14326,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="LargeTube" Count="8" />
+                <Component Subtype="DSV-RecursiveHeater" Count="4" />
+                <Component Subtype="DSV-EchoSeal" Count="4" />
                 <Component Subtype="Thrust" Count="80" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -14301,6 +14425,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Thrust" Count="960" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -14402,6 +14528,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="70" />
                 <Component Subtype="LargeTube" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="20" />
+                <Component Subtype="DSV-EchoSeal" Count="20" />
                 <Component Subtype="Thrust" Count="960" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -14503,6 +14631,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="150" />
                 <Component Subtype="MetalGrid" Count="250" />
+                <Component Subtype="DSV-RecursiveHeater" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="LargeTube" Count="40" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -14607,6 +14737,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="150" />
                 <Component Subtype="MetalGrid" Count="250" />
+                <Component Subtype="DSV-RecursiveHeater" Count="40" />
+                <Component Subtype="DSV-EchoSeal" Count="40" />
                 <Component Subtype="LargeTube" Count="40" />
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
@@ -14712,6 +14844,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="8" />
+                <Component Subtype="DSV-EchoSeal" Count="8" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -14813,6 +14947,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="40" />
                 <Component Subtype="MetalGrid" Count="40" />
+                <Component Subtype="DSV-RecursiveHeater" Count="8" />
+                <Component Subtype="DSV-EchoSeal" Count="8" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -14913,6 +15049,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
+                <Component Subtype="DSV-RecursiveHeater" Count="5" />
+                <Component Subtype="DSV-EchoSeal" Count="5" />
                 <Component Subtype="LargeTube" Count="10" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -15015,6 +15153,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
+                <Component Subtype="DSV-RecursiveHeater" Count="5" />
+                <Component Subtype="DSV-EchoSeal" Count="5" />
                 <Component Subtype="LargeTube" Count="10" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="10" />
@@ -15118,6 +15258,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="SteelPlate" Count="5" />
@@ -15218,6 +15360,8 @@
                 <Component Subtype="DSV-KarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
+                <Component Subtype="DSV-RecursiveHeater" Count="1" />
+                <Component Subtype="DSV-EchoSeal" Count="1" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="SteelPlate" Count="5" />

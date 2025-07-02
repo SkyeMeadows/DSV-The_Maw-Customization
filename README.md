@@ -50,11 +50,11 @@ Cargo & Tanks                                  Echo Seal
 Reactors                                       Gravity Conduit
 Batteries                                      Catalyst Capacitor
 Refinery & Assembler                           Advanced Production Matrix
-Thruster (Ion)                                 ?
+Thruster (Ion)                                 Recursive Heater
 Thruster (Atmospheric) & Gyroscopes            Entropy Matrix
 Thruster (Hydrogen)                            Recursive Heater
 Jump Drives                                    Jump Catalyst
-Welder/Grinder/Drill                           ?
+Welder/Grinder/Drill                           Entropy Matrix
 Jump Drive Disruptor                           Space-Time Disruptor Component
 
 

@@ -161,7 +161,7 @@
             </Size>
             <Mass>600</Mass>
             <Volume>100</Volume>
-            <Model>Models\Components\battery_component.mwm</Model>
+            <Model>Models\Components\PowerCellComponent.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>200</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
