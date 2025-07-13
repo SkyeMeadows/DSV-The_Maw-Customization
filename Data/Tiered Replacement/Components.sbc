@@ -161,7 +161,7 @@
             </Size>
             <Mass>600</Mass>
             <Volume>100</Volume>
-            <Model>Models\Components\battery_component.mwm</Model>
+            <Model>Models\Components\PowerCellComponent.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>200</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
@@ -224,35 +224,6 @@
             <MaxIntegrity>1000</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
             <Health>200</Health>
-            <MinimumOfferAmount>250</MinimumOfferAmount>
-            <MaximumOfferAmount>2500</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>1000</MaximumOrderAmount>
-            <CanPlayerOrder>true</CanPlayerOrder>
-
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>1000</MaximumAcquisitionAmount>
-        </Component>
-
-        <Component>
-            <Id>
-                <TypeId>Component</TypeId>
-                <SubtypeId>DSV-SingularityCore</SubtypeId>
-            </Id>
-            <DisplayName>Singularity Core</DisplayName>
-            <Icon>Textures\GUI\Icons\component\ScrapPrototechComponent.dds</Icon>
-            <Size>
-                <X>0.5</X>
-                <Y>0.5</Y>
-                <Z>0.01</Z>
-            </Size>
-            <Mass>1000</Mass>
-            <Volume>50</Volume>
-            <Model>Models\Components\ScrapPrototechComponent.mwm</Model>
-            <PhysicalMaterial>Metal</PhysicalMaterial>
-            <MaxIntegrity>250</MaxIntegrity>
-            <DropProbability>0.9</DropProbability>
-            <Health>120</Health>
             <MinimumOfferAmount>250</MinimumOfferAmount>
             <MaximumOfferAmount>2500</MaximumOfferAmount>
             <MinimumOrderAmount>100</MinimumOrderAmount>
