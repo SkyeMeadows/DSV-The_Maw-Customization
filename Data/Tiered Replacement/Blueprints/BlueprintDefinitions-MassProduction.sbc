@@ -50,6 +50,21 @@
                 <SubtypeId>DSV-MP_InteriorPlate</SubtypeId>
             </Id>
             <DisplayName>MP Interior Plate</DisplayName>
+            <Icon>Textures\GUI\Icons\component\motor_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1800" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="450" TypeId="Ingot" SubtypeId="Nickel" />
+            </Prerequisites>
+            <Result Amount="100" TypeId="Component" SubtypeId="Motor" />
+            <BaseProductionTimeInSeconds>270</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-MP_InteriorPlate</SubtypeId>
+            </Id>
+            <DisplayName>MP Interior Plate</DisplayName>
             <Icon>Textures\GUI\Icons\component\interior_plate_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="275" TypeId="Ingot" SubtypeId="Iron" />
