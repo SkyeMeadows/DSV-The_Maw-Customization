@@ -110,6 +110,8 @@
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-SpaceTimeDisruptorComponent" />
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-AdvancedProductionMatrix" />
         <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-RecursiveHeater" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-HyperfuelManifold" />
+        <Entry Class="DSV-KarnyxiumComponents" BlueprintSubtypeId="DSV-FlameLimiter" />
 
         <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_SteelPlate" />
         <Entry Class="DSV-MassProduction" BlueprintSubtypeId="DSV-MP_ConstructionComponent" />

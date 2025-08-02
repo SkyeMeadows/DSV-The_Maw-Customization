@@ -175,6 +175,43 @@
             <BaseProductionTimeInSeconds>12</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-HyperfuelManifold</SubtypeId>
+            </Id>
+            <DisplayName>Hyperfuel Manifold</DisplayName>
+            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
+            <Prerequisites>
+                <Item Amount="0.05" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Cyrite" />
+                <Item Amount="55" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="30" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="40" TypeId="Ingot" SubtypeId="Silver" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-HyperfuelManifold" />
+            <BaseProductionTimeInSeconds>24</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-FlameLimiter</SubtypeId>
+            </Id>
+            <DisplayName>Flame Limiter</DisplayName>
+            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
+            <Prerequisites>
+                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Cyrite" />
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="0.25" TypeId="Ingot" SubtypeId="Silver" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-FlameLimiter" />
+            <BaseProductionTimeInSeconds>24</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
     
   </Blueprints>
 </Definitions>

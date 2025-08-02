@@ -1,3 +1,4 @@
+CubeBlocks_AryxThrusters.xml
 CubeBlocks_Gyroscope.xml
 CubeBlocks_Prototech.xml
 CubeBlocks_Weapons.xml
