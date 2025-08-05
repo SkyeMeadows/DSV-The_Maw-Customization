@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ModConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!--
+EffectName+' '+BlockSize Adjuster = Effect SubtypeID
+
+LgLb
+LgSb
+SgLb
+SgSb
+
+PTL(Prototech Large)
+PTS(Prototech Small)
+
+Ions have the above plus: (EffectName+BlockSizeAdjuster+VarientName)
+" Circle" for vanilla
+" Warfare"  for the modular
+" Scifi" for the scifi
+
+Reload config with "/H+Reload" in chat
+-->
+	
+	<!-- <AtmoDefaultColor>
+		<X>1</X>
+		<Y>1</Y>
+		<Z>1</Z>
+		<W>1</W>
+	</AtmoDefaultColor>
+	<AtmoDefaultEffect>Vanilla</AtmoDefaultEffect> -->
+	<!-- uses the EffectConfig "Name" from below -->
+	<!-- <IonDefaultColor>
+		<X>1</X>
+		<Y>1</Y>
+		<Z>1</Z>
+		<W>1</W>
+	</IonDefaultColor>
+	<IonDefaultEffect>Vanilla</IonDefaultEffect>
+	<HydrogenDefaultColor>
+		<X>1</X>
+		<Y>1</Y>
+		<Z>1</Z>
+		<W>1</W>
+	</HydrogenDefaultColor>
+	<HydrogenDefaultEffect>Vanilla</HydrogenDefaultEffect>
+	<CapitalDefaultColor>
+		<X>1</X>
+		<Y>1</Y>
+		<Z>1</Z>
+		<W>1</W>
+	</CapitalDefaultColor>
+	<CapitalDefaultEffect>Vanilla</CapitalDefaultEffect>
+	 -->
+	<ThrusterBlocks>
+	<!-- Vanilla Ions and H2 thrusters don't need a unique ThrusterConfig unless your particle needs additional tuning -->
+		<ThrusterConfig>
+			<SubTypeKeywords>
+				<string>LG_SmallHydro</string> 
+                <string>LG_KarnyxiumSmallHydro</string> 
+                <string>LG_SmallIon</string> 
+                <string>LG_KarnyxiumSmallIon</string>
+                <string>LG_SmallAtmo</string>
+                <string>LG_KarnyxiumSmallAtmo</string> 
+				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
+			</SubTypeKeywords>
+			<BlockSizeAdjuster>LgSb</BlockSizeAdjuster>
+			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<LifeMultiplier>1</LifeMultiplier>
+			<VelocityMultiplier>1</VelocityMultiplier>
+		</ThrusterConfig>
+        <ThrusterConfig>
+			<SubTypeKeywords>
+				<string>LG_LargeHydro</string> 
+                <string>LG_KarnyxiumLargeHydro</string>
+                <string>LG_LargeIon</string> 
+                <string>LG_KarnyxiumLargeIon</string> 
+                <string>LG_LargeAtmo</string>
+                <string>LG_KarnyxiumLargeAtmo</string> 
+				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
+			</SubTypeKeywords>
+			<BlockSizeAdjuster>LgLb</BlockSizeAdjuster>
+			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<LifeMultiplier>1</LifeMultiplier>
+			<VelocityMultiplier>1</VelocityMultiplier>
+		</ThrusterConfig>
+        <ThrusterConfig>
+			<SubTypeKeywords>
+				<string>SG_SmallHydro</string> 
+                <string>SG_KarnyxiumSmallHydro</string>
+                <string>SG_SmallIon</string> 
+                <string>SG_KarnyxiumSmallIon</string> 
+                <string>SG_SmallAtmo</string>
+                <string>SG_KarnyxiumSmallAtmo</string>
+				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
+			</SubTypeKeywords>
+			<BlockSizeAdjuster>SgSb</BlockSizeAdjuster>
+			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<LifeMultiplier>1</LifeMultiplier>
+			<VelocityMultiplier>1</VelocityMultiplier>
+		</ThrusterConfig>
+        <ThrusterConfig>
+			<SubTypeKeywords>
+				<string>SG_LargeHydro</string> 
+                <string>SG_KarnyxiumLargeHydro</string>
+                <string>SG_LargeIon</string> 
+                <string>SG_KarnyxiumLargeIon</string> 
+                <string>SG_LargeAtmo</string>
+                <string>SG_KarnyxiumLargeAtmo</string>
+				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
+			</SubTypeKeywords>
+			<BlockSizeAdjuster>SgLb</BlockSizeAdjuster>
+			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<LifeMultiplier>1</LifeMultiplier>
+			<VelocityMultiplier>1</VelocityMultiplier>
+		</ThrusterConfig>
+	</ThrusterBlocks>
+	<!--Effects used on atmo thrusters-->
+	<AtmoEffectsList>
+	</AtmoEffectsList>
+	<!--Effects used on Ion thrusters-->
+	<IonEffectsList>
+	</IonEffectsList>
+	<!--Effects used on Hydrogen thrusters-->
+	<HydrogenEffectsList>
+	</HydrogenEffectsList>
+	<!--Effects used on capital thrusters(prototech or anything with a subtype containig the word capital)-->
+	<CapitalEffectsList>
+	</CapitalEffectsList>
+</ModConfig>

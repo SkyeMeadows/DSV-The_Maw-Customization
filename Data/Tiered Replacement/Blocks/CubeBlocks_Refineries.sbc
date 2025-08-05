@@ -601,7 +601,6 @@
             <OperationalPowerConsumption>4.5</OperationalPowerConsumption>
             <BlueprintClasses>
                 <Class>Ingots</Class>
-                <Class>DSV-ExoticOres</Class>
             </BlueprintClasses>
             <RefineSpeed>1.3</RefineSpeed>
             <MaterialEfficiency>1.75</MaterialEfficiency>
