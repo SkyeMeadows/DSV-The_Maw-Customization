@@ -7,7 +7,7 @@
 			<SubtypeId>ARYLNX_Epstein_Drive</SubtypeId>
 		  </Id>
 			<DisplayName>RT6-B "MORRIGAN" Aryx Drive</DisplayName>
-			<Description>TBD</Description>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="600" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -42,7 +42,7 @@
 			<SubtypeId>ARYLNX_MUNR_Epstein_Drive</SubtypeId>
 		  </Id>
 			<DisplayName>S-100 "MUNROE" Light Aryx Drive</DisplayName>
-			<Description>TBD</Description>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="300" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -77,7 +77,7 @@
 			<SubtypeId>ARYLNX_PNDR_Epstein_Drive</SubtypeId>
 		  </Id>
 			<DisplayName>N22 "PANDORA-II" Aryx Drive</DisplayName>
-			<Description>TBD</Description>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="280" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -113,7 +113,7 @@
 			<SubtypeId>ARYLNX_QUADRA_Epstein_Drive</SubtypeId>
 		  </Id>
 			<DisplayName>E-405 "Avalon" Light Aryx Drive</DisplayName>
-			<Description>TBD</Description>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="210" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -145,7 +145,7 @@
 			<SubtypeId>ARYLNX_RAIDER_Epstein_Drive</SubtypeId>
 		  </Id>
 			<DisplayName>LV-300 "Raider" Light Aryx Drive</DisplayName>
-			<Description>TBD</Description>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="300" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -177,8 +177,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYLNX_ROCI_Epstein_Drive</SubtypeId>
 		  </Id>
-			<DisplayName>RT8 "TACHI" Epstein Drive</DisplayName>
-			<Description>A medium-sized epstein drive of the RT series, found on Corvette-class frigates and light cruisers such as the Pella. These drives are both iconic, including their reactor vault's lower half, and signature drive pattern. A powerful drive for all legitimate salvages. [MCRN] </Description>
+			<DisplayName>RT8 "TACHI" Aryx Drive</DisplayName>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="1000" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -212,8 +212,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYLYNX_SILVERSMITH_DRIVE</SubtypeId>
 		  </Id>
-			<DisplayName>AM-R5 "SILVERSMITH" Supercooled Epstein Drive</DisplayName>
-			<Description>An extraordinarily powerful, experimental Epstein drive produced by Bush Shipyards for the Protogen corporation's Amun-Ra series of ships. Sporting a supercooling system to lower its thermal output and drive signature, this drive fits the bill for any mighty secret warships. [PROTOGEN]</Description>
+			<DisplayName>AM-R5 "SILVERSMITH" Supercooled Aryx Drive</DisplayName>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="800" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -249,8 +249,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYLNX_DRUMMER_Epstein_Drive</SubtypeId>
 		  </Id>
-			<DisplayName>LV613 "CAMINA" Epstein Drive</DisplayName>
-			<Description>A powerful custom-built midweight Epstein Drive belonging to a ship with the best guns in the belt, once serving her and her family. #PolyamBelterFam [BELTER]</Description>
+			<DisplayName>LV613 "CAMINA" Aryx Drive</DisplayName>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="800" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -284,8 +284,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYLNX_SCIRCOCCO_Epstein_Drive</SubtypeId>
 		  </Id>
-			<DisplayName>RTF-B "SCIROCCO" Epstein Drive</DisplayName>
-			<Description>A large epstein drive of the RT series, found on Scirocco-class assault cruisers such as the MCRN Hammurabi and Scirocco. [MCRN] </Description>
+			<DisplayName>RTF-B "SCIROCCO" Aryx Drive</DisplayName>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="1700" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -321,8 +321,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYLNX_Mega_Epstein_Drive</SubtypeId>
 		  </Id>
-			<DisplayName>RT-10 "KAMINARI" Superheavy Epstein Drive</DisplayName>
-			<Description>One of the largest epstein drives in modern use, built as part of the Martian navy's RT series of drives. These mighty thrusters are found pushing the quarter-million tonnes of bad news' formally known as Donnager-class battleships. A truly enormous drive, for truly enormous spacecraft. [MCRN]</Description>
+			<DisplayName>RT-10 "KAMINARI" Superheavy Aryx Drive</DisplayName>
+			<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		  <Components>
 			<Component Subtype="SteelPlate" Count="3500" />
 			<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -508,8 +508,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYLNX_RZB_Epstein_Drive</SubtypeId>
 		</Id>
-		<DisplayName>Destrier-4 "SUNFLARE" Epstein Drive</DisplayName>
-		<Description>A compact fusion drive designed for a sleek racing pinnace. Provides unrivalled impulse and requires little fuel. [UNN] </Description>
+		<DisplayName>Destrier-4 "SUNFLARE" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		<Components>
         <Component Subtype="SteelPlate" Count="100" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -543,8 +543,8 @@
 			<TypeId>Thrust</TypeId>
 			<SubtypeId>ARYXLNX_YACHT_EPSTEIN_DRIVE</SubtypeId>
 		</Id>
-		<DisplayName>M55-G "Originem" Epstein Drive</DisplayName>
-		<Description>The drive that started it all; a modified magnetic coil fusion drive designed by Solomon Epstein himself. Warranty void if used on yachts with no off button. [CIVILIAN] </Description>
+		<DisplayName>M55-G "Originem" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
 		<Components>
         <Component Subtype="SteelPlate" Count="50" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -577,8 +577,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>RT6-B "MORRIGAN" Epstein Drive</DisplayName>
-		<Description>A powerful, compact epstein drive found on first-generation Morrigan-class patrol destroyers. Sports a hexagonal base and single conveyor port for fuel input. [MCRN]</Description>
+		<DisplayName>RT6-B "MORRIGAN" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="600" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -612,8 +612,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_MUNR_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>S-100 "MUNROE" Light Epstein Drive</DisplayName>
-		<Description>A UNN prototype epstein drive, found on Munroe-class destroyers involved in the pursuit of the Rocinante. Whilst less powerful than her MCRN sister, she still packs a punch. [UNN] </Description>
+		<DisplayName>S-100 "MUNROE" Light Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="300" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -646,8 +646,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_PNDR_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>N22 "PANDORA-II" Epstein Drive_S</DisplayName>
-		<Description>A mid-range, compact Epstein Drive designed for civilian luxury and privateer craft. Sports a compact baseplate, ample fuel consumption and impressive thrust. [CIVILIAN]</Description>  
+		<DisplayName>N22 "PANDORA-II" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>  
       <Components>
         <Component Subtype="SteelPlate" Count="280" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -683,8 +683,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_QUADRA_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>E-405 "Avalon" Light Epstein Drive</DisplayName>
-		<Description>A smaller, compact epstein drive when compared to its counterparts. Designed to be used in quad-clusters aboard raiding craft like the Granicus, Marco's pursuit ship, or the Dewalt. [BELTER]</Description>
+		<DisplayName>E-405 "Avalon" Light Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="210" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -716,8 +716,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_RAIDER_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>LV-300 "Raider" Light Epstein Drive</DisplayName>
-		<Description>Denied the advanced technologies and drive systems of the inner planets, belters were forced to improvise and create drives of their own from salvaged wrecks. Whilst less efficient than their UNN and MCRN counterparts, they are much cheaper and provide respectable thrust. [BELTER]</Description>
+		<DisplayName>LV-300 "Raider" Light Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="300" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -750,8 +750,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_ROCI_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>RT8 "TACHI" Epstein Drive</DisplayName>
-		<Description>A medium-sized epstein drive of the RT series, found on Corvette-class frigates and light cruisers such as the Pella. These drives are both iconic, including their reactor vault's lower half, and signature drive pattern. A powerful drive for all legitimate salvages. [MCRN] </Description>
+		<DisplayName>RT8 "TACHI" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="1000" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -787,8 +787,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLYNX_SILVERSMITH_DRIVE_S</SubtypeId>
       </Id>
-		<DisplayName>AM-R5 "SILVERSMITH" Supercooled Epstein Drive</DisplayName>
-		<Description>An extraordinarily powerful, experimental Epstein drive produced by Bush Shipyards for the Protogen corporation's Amun-Ra series of ships. Sporting a supercooling system to lower its thermal output and drive signature, this drive fits the bill for any mighty secret warships. [PROTOGEN]</Description>
+		<DisplayName>AM-R5 "SILVERSMITH" Supercooled Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="800" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -825,8 +825,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_DRUMMER_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>LV613 "CAMINA" Epstein Drive</DisplayName>
-		<Description>A powerful custom-built midweight Epstein Drive belonging to a ship with the best guns in the belt, once serving her and her family. #PolyamBelterFam [BELTER]</Description>
+		<DisplayName>LV613 "CAMINA" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="800" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -860,8 +860,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_SCIRCOCCO_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>RTF-B "SCIROCCO" Epstein Drive</DisplayName>
-		<Description>A large epstein drive of the RT series, found on Scirocco-class assault cruisers such as the MCRN Hammurabi and Scirocco. [MCRN] </Description>
+		<DisplayName>RTF-B "SCIROCCO" Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="1700" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
@@ -898,8 +898,8 @@
         <TypeId>Thrust</TypeId>
         <SubtypeId>ARYLNX_Mega_Epstein_Drive_S</SubtypeId>
       </Id>
-		<DisplayName>RT-10 "KAMINARI" Superheavy Epstein Drive</DisplayName>
-		<Description>One of the largest epstein drives in modern use, built as part of the Martian navy's RT series of drives. These mighty thrusters are found pushing the quarter-million tonnes of bad news' formally known as Donnager-class battleships. A truly enormous drive, for truly enormous spacecraft. [MCRN]</Description>
+		<DisplayName>RT-10 "KAMINARI" Superheavy Aryx Drive</DisplayName>
+		<Description>This drive does not follow the conventional methods of using hydrogen to produce thrust, and requires specialized components to be built</Description>
       <Components>
         <Component Subtype="SteelPlate" Count="3500" />
 		<Component Subtype="DSV-KarnyxiumCore" Count="1" />
