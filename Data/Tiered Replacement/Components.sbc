@@ -298,7 +298,7 @@
                 <SubtypeId>DSV-HyperfuelManifold</SubtypeId>
             </Id>
             <DisplayName>Hyperfuel Manifold</DisplayName>
-            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Hyperfuel_Manifold.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -306,7 +306,7 @@
             </Size>
             <Mass>200</Mass>
             <Volume>15</Volume>
-            <Model>Models\Components\large_tube_component.mwm</Model>
+            <Model>Models\Components\detector_components_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>80</MaxIntegrity>
             <DropProbability>0.9</DropProbability>
@@ -327,7 +327,7 @@
                 <SubtypeId>DSV-FlameLimiter</SubtypeId>
             </Id>
             <DisplayName>Flame Limiter</DisplayName>
-            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Thrust_Limiter.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -335,7 +335,7 @@
             </Size>
             <Mass>100</Mass>
             <Volume>8</Volume>
-            <Model>Models\Components\small_tube_component.mwm</Model>
+            <Model>Models\Components\thrust_component_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>40</MaxIntegrity>
             <DropProbability>0.9</DropProbability>

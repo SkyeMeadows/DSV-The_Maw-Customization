@@ -182,9 +182,9 @@
                 <SubtypeId>DSV-HyperfuelManifold</SubtypeId>
             </Id>
             <DisplayName>Hyperfuel Manifold</DisplayName>
-            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Hyperfuel_Manifold.dds</Icon>
             <Prerequisites>
-                <Item Amount="0.05" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="0.15" TypeId="Ingot" SubtypeId="Karnyxium" />
                 <Item Amount="0.5" TypeId="Ingot" SubtypeId="Cyrite" />
                 <Item Amount="55" TypeId="Ingot" SubtypeId="Iron" />
                 <Item Amount="30" TypeId="Ingot" SubtypeId="Cobalt" />
@@ -201,7 +201,7 @@
                 <SubtypeId>DSV-FlameLimiter</SubtypeId>
             </Id>
             <DisplayName>Flame Limiter</DisplayName>
-            <Icon>Textures\GUI\Icons\component\Recurisve_Heater.dds</Icon>
+            <Icon>Textures\GUI\Icons\component\Thrust_Limiter.dds</Icon>
             <Prerequisites>
                 <Item Amount="0.1" TypeId="Ingot" SubtypeId="Cyrite" />
                 <Item Amount="5" TypeId="Ingot" SubtypeId="Iron" />

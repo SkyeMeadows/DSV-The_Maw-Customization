@@ -61,7 +61,7 @@ Reload config with "/H+Reload" in chat
                 <string>LG_KarnyxiumSmallAtmo</string> 
 				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
 			</SubTypeKeywords>
-			<BlockSizeAdjuster>LgSb</BlockSizeAdjuster>
+			<BlockSizeAdjuster>LgLb</BlockSizeAdjuster>
 			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
 			<LifeMultiplier>1</LifeMultiplier>
 			<VelocityMultiplier>1</VelocityMultiplier>
@@ -77,7 +77,7 @@ Reload config with "/H+Reload" in chat
 				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
 			</SubTypeKeywords>
 			<BlockSizeAdjuster>LgLb</BlockSizeAdjuster>
-			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<ParticleSizeAdjuster>0.3334</ParticleSizeAdjuster>
 			<LifeMultiplier>1</LifeMultiplier>
 			<VelocityMultiplier>1</VelocityMultiplier>
 		</ThrusterConfig>
@@ -92,7 +92,7 @@ Reload config with "/H+Reload" in chat
 				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
 			</SubTypeKeywords>
 			<BlockSizeAdjuster>SgSb</BlockSizeAdjuster>
-			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<ParticleSizeAdjuster>0.2</ParticleSizeAdjuster>
 			<LifeMultiplier>1</LifeMultiplier>
 			<VelocityMultiplier>1</VelocityMultiplier>
 		</ThrusterConfig>
@@ -107,7 +107,7 @@ Reload config with "/H+Reload" in chat
 				<!-- If you have multiple thrusters that can use the same particle and settings, add their subtypes into the SubTypeKeywords -->
 			</SubTypeKeywords>
 			<BlockSizeAdjuster>SgLb</BlockSizeAdjuster>
-			<ParticleSizeAdjuster>1</ParticleSizeAdjuster>
+			<ParticleSizeAdjuster>0.0667</ParticleSizeAdjuster>
 			<LifeMultiplier>1</LifeMultiplier>
 			<VelocityMultiplier>1</VelocityMultiplier>
 		</ThrusterConfig>
