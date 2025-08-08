@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CategoryClasses>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Manufacturing Blocks</DisplayName>
+            <Name>DSV-Blocks_Manufacturing</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>Assembler/DSV-LG_Assembler_MassProduction</string>
+                <string>Assembler/DSV-LG_Assembler_BruteForce</string>
+                <string>Assembler/DSV-LG_Assembler_KarnyxiumComponents</string>
+
+                <string>Refinery/DSV-LG_Refinery_Vanilla_Exotic</string>
+                <string>Refinery/DSV-LG_Refinery_BruteForce</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Basic</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Intermediate</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Advanced</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Exotic</string>
+
+                <string>Refinery/OreCompactorLarge</string>
+
+            </ItemIds>
+        </Category>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Manufacturing Blocks</DisplayName>
+            <Name>DSV-Blocks_Manufacturing</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>Assembler/DSV-LG_Assembler_MassProduction</string>
+
+            </ItemIds>
+        </Category>
+    </CategoryClasses>
+</Definitions>
