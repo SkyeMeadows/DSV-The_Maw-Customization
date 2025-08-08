@@ -1,0 +1,195 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CategoryClasses>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Armor Blocks</DisplayName>
+            <Name>DSV-Blocks_Armor</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>CubeBlock/DSV-LG_CyriteArmorBlock</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlope</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorInvCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorCornerSquare</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorCornerSquareInverted</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlope2Base</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlope2Tip</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorHalfArmorBlock</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorHalfSlopeArmorBlock</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorHalfSlopeCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorHalfCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorCorner2Base</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorCorner2Tip</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorInvCorner2Base</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorInvCorner2Tip</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorHalfSlopeCornerInverted</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorHalfSlopeInverted</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorRoundSlope</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorRoundCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorRoundCornerInv</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopedCornerTip</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorRaisedSlopedCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSquareSlopedCornerTip</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSquareSlopedCornerBase</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSquareSlopedCornerTipInv</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopedCornerBase</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopedCorner</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopeTransitionBase</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopeTransition</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopeTransitionTip</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopeTransitionBaseMirrored</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopeTransitionMirrored</string>
+                <string>CubeBlock/DSV-LG_CyriteArmorSlopeTransitionTipMirrored</string>
+
+            </ItemIds>
+        </Category>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Manufacturing Blocks</DisplayName>
+            <Name>DSV-Blocks_Manufacturing</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>Assembler/DSV-LG_Assembler_MassProduction</string>
+                <string>Assembler/DSV-LG_Assembler_BruteForce</string>
+                <string>Assembler/DSV-LG_Assembler_KarnyxiumComponents</string>
+
+                <string>Refinery/DSV-LG_Refinery_Vanilla_Exotic</string>
+                <string>Refinery/DSV-LG_Refinery_BruteForce</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Basic</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Intermediate</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Advanced</string>
+                <string>Refinery/DSV-LG_Refinery_Smart_Exotic</string>
+
+                <string>Refinery/OreCompactorLarge</string>
+
+                <string>Assembler/DSV-LG_Assembler_MassProduction</string>
+                <string>Assembler/DSV-LG_Assembler_BruteForce</string>
+                <string>Assembler/DSV-LG_Assembler_KarnyxiumComponents</string>
+
+            </ItemIds>
+        </Category>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Utility Blocks</DisplayName>
+            <Name>DSV-Blocks_Utility</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>CargoContainer/DSV-SG_KarnyxiumCargo_Small</string>
+                <string>CargoContainer/DSV-SG_KarnyxiumCargo_Medium</string>
+                <string>CargoContainer/DSV-SG_KarnyxiumCargo_Large</string>
+                <string>CargoContainer/DSV-LG_KarnyxiumCargo_Small</string>
+                <string>CargoContainer/DSV-LG_KarnyxiumCargo_Large</string>
+
+                <string>OxygenTank/DSV-SG_KarnyxiumOxygenTank_Large</string>
+                <string>OxygenTank/DSV-SG_KarnyxiumOxygenTank_Small</string>
+                <string>OxygenTank/DSV-LG_KarnyxiumOxygenTank</string>
+                <string>OxygenTank/DSV-LG_KarnyxiumHydrogenTank_Large</string>
+                <string>OxygenTank/DSV-LG_KarnyxiumHydrogenTank_Small</string>
+                <string>OxygenTank/DSV-SG_KarnyxiumHydrogenTank_Large</string>
+                <string>OxygenTank/DSV-SG_KarnyxiumHydrogenTank_Small</string>
+
+                <string>OxygenFarm/DSV-LG_HydrogenFarm</string>
+
+                <string>JumpDrive/DSV-LG_JumpDrive_Variant_PowerEff</string>
+                <string>JumpDrive/DSV-LG_JumpDrive_Variant_Range</string>
+                <string>JumpDrive/DSV-LG_JumpDrive_Variant_Mass</string>
+                <string>JumpDrive/DSV-LG_KarnyxiumJumpDrive_Variant_PowerEff</string>
+                <string>JumpDrive/DSV-LG_KarnyxiumJumpDrive_Variant_Range</string>
+                <string>JumpDrive/DSV-LG_KarnyxiumJumpDrive_Variant_Mass</string>
+
+                <string>OreDetector/DSV-LG_Karnyxium_OreDetector</string>
+                <string>OreDetector/DSV-SG_Karnyxium_OreDetector</string>
+
+                <string>Drill/DSV-SG_KarnyxiumDrill</string>
+                <string>Drill/DSV-LG_KarnyxiumDrill</string>
+
+                <string>ShipWelder/DSV-SG_KarnyxiumWelder</string>
+                <string>ShipWelder/DSV-LG_KarnyxiumWelder</string>
+
+                <string>ShipGrinder/DSV-SG_KarnyxiumGrinder</string>
+                <string>ShipGrinder/DSV-LG_KarnyxiumGrinder</string>
+                
+            </ItemIds>
+        </Category>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Power Blocks</DisplayName>
+            <Name>DSV-Blocks_Power</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>BatteryBlock/DSV-LG_Battery_Variant_HighOutput</string>
+                <string>BatteryBlock/DSV-SG_Battery_Variant_HighOutput</string>
+                <string>BatteryBlock/DSV-LG_Battery_Variant_Efficient</string>
+                <string>BatteryBlock/DSV-SG_Battery_Variant_Efficient</string>
+                <string>BatteryBlock/DSV-LG_Battery_Variant_Capacity</string>
+                <string>BatteryBlock/DSV-SG_Battery_Variant_Capacity</string>
+                <string>BatteryBlock/DSV-LG_KarnyxiumBattery_Variant_HighOutput</string>
+                <string>BatteryBlock/DSV-SG_KarnyxiumBattery_Variant_HighOutput</string>
+                <string>BatteryBlock/DSV-LG_KarnyxiumBattery_Variant_Efficient</string>
+                <string>BatteryBlock/DSV-SG_KarnyxiumBattery_Variant_Efficient</string>
+                <string>BatteryBlock/DSV-LG_KarnyxiumBattery_Variant_Capacity</string>
+                <string>BatteryBlock/DSV-SG_KarnyxiumBattery_Variant_Capacity</string>
+
+                <string>Reactor/DSV-SG_SmallReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-SG_LargeReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-SG_SmallReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-SG_LargeReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-LG_SmallReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-LG_LargeReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-LG_SmallReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-LG_LargeReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-SG_KarnyxiumSmallReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-SG_KarnyxiumLargeReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-SG_KarnyxiumSmallReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-SG_KarnyxiumLargeReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-LG_KarnyxiumSmallReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-LG_KarnyxiumLargeReactor_Variant_FuelEff</string>
+                <string>Reactor/DSV-LG_KarnyxiumSmallReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-LG_KarnyxiumLargeReactor_Variant_Accelerated</string>
+                <string>Reactor/DSV-LG_KarnyxiumFueled_SmallReactor</string>
+                <string>Reactor/DSV-LG_KarnyxiumFueled_LargeReactor</string>
+
+            </ItemIds>
+        </Category>
+
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DSV Manuvering Blocks</DisplayName>
+            <Name>DSV-Blocks_Manuvering</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>Gyro/DSV-LG_Gyroscope_Variant_Torque</string>
+                <string>Gyro/DSV-LG_Gyroscope_Variant_PowerEff</string>
+                <string>Gyro/DSV-SG_Gyroscope_Variant_Torque</string>
+                <string>Gyro/DSV-SG_Gyroscope_Variant_PowerEff</string>
+                <string>Gyro/DSV-LG_KarnyxiumGyroscope_Variant_Torque</string>
+                <string>Gyro/DSV-LG_KarnyxiumGyroscope_Variant_PowerEff</string>
+                <string>Gyro/DSV-SG_KarnyxiumGyroscope_Variant_Torque</string>
+                <string>Gyro/DSV-SG_KarnyxiumGyroscope_Variant_PowerEff</string>
+
+                <string>Thrust/DSV-LG_SmallHydroThrust_Variant_HighPower</string>
+
+            </ItemIds>
+        </Category>
+    </CategoryClasses>
+</Definitions>

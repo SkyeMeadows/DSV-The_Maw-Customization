@@ -204,7 +204,7 @@
             <Size x="1" y="1" z="1" />
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\BatteryLarge.mwm</Model>
-            <Public>true</Public>
+            <Public>false</Public>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
                 <Component Subtype="MetalGrid" Count="50" />
