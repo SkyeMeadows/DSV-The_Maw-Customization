@@ -2196,7 +2196,7 @@
             <DeformationRatio>0.5</DeformationRatio>
             <DisassembleRatio>2.5</DisassembleRatio>
             <NavigationDefinition>Default</NavigationDefinition>
-            <BlockPairName>HalfHeavyArmorBlock</BlockPairName>
+            <BlockPairName>CyriteArmorHalfArmorBlock</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <PCU>1</PCU>
