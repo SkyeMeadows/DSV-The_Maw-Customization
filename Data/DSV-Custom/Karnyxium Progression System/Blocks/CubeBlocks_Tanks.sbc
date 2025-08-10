@@ -20,7 +20,7 @@
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="SmallTube" Count="10" />
                 <Component Subtype="Computer" Count="8" />
-                <Component Subtype="DSV-EchoSeal" Count="50" />
+                <Component Subtype="DSV-EchoSeal" Count="15" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="SteelPlate" Count="6" />
             </Components>
