@@ -167,7 +167,7 @@
                 <TypeId>OxygenTank</TypeId>
                 <SubtypeId>DSV-LG_KarnyxiumOxygenTank</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_SmallOxygenTank</DisplayName>
+            <DisplayName>Karnyxium Oxygen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\OxygenTank.dds</Icon>
             <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
             <CubeSize>Large</CubeSize>
