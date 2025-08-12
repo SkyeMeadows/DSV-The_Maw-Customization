@@ -18,5 +18,13 @@
     <TexturePath>Data\Patreon\Textures\Models\TCOTMLogo.dds</TexturePath>
    </LCDTextureDefinition>
 
+   <LCDTextureDefinition>
+     <Id>
+       <TypeId>LCDTextureDefinition</TypeId>
+       <SubtypeId>LNTRI-Logo</SubtypeId>
+     </Id>
+    <TexturePath>Data\Patreon\Textures\Models\LNTRILogo.dds</TexturePath>
+   </LCDTextureDefinition>
+
   </LCDTextures>
 </Definitions>
