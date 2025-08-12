@@ -5,10 +5,10 @@
         <Class>
             <Id>
                 <TypeId>BlueprintClassDefinition</TypeId>
-                <SubtypeId>CompressedOres</SubtypeId>
+                <SubtypeId>CompactedOres</SubtypeId>
             </Id>
-            <DisplayName>Compressed Ores</DisplayName>
-            <Description>Compressed Ores</Description>
+            <DisplayName>Compacted Ores</DisplayName>
+            <Description>Compacted Ores</Description>
             <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
             <HighlightIcon>Textures\GUI\Icons\ore_rock.dds</HighlightIcon>
             <FocusIcon>Textures\GUI\Icons\ore_rock.dds</FocusIcon>
@@ -20,34 +20,34 @@
 
     <BlueprintClassEntries>
 
-<!-- Compressed Ore Blueprints -->
-        <Entry Class="CompressedOres" BlueprintSubtypeId="StoneOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="IronOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="NickelOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="CobaltOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="MagnesiumOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="SiliconOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="SilverOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="GoldOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="PlatinumOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="UraniumOreToCompressed" />
-        <Entry Class="CompressedOres" BlueprintSubtypeId="IceToCompressed" />
+<!-- Compacted Ore Blueprints -->
+        <Entry Class="CompactedOres" BlueprintSubtypeId="StoneOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="IronOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="NickelOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="CobaltOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="MagnesiumOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="SiliconOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="SilverOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="GoldOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="PlatinumOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="UraniumOreToCompacted" />
+        <Entry Class="CompactedOres" BlueprintSubtypeId="IceToCompacted" />
 
 
-<!-- Compressed Ore Smelting Blueprints -->
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedStoneOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedIronOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedNickelOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedCobaltOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedMagnesiumOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedSiliconOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedSilverOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedGoldOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedPlatinumOreToIngot" />
-        <Entry Class="Ingots" BlueprintSubtypeId="CompressedUraniumOreToIngot" />
+<!-- Compacted Ore Smelting Blueprints -->
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedStoneOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedIronOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedNickelOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedCobaltOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedMagnesiumOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedSiliconOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedSilverOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedGoldOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedPlatinumOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="CompactedUraniumOreToIngot" />
 
-<!-- Compressed Ice to Gas -->
-        <Entry Class="Ice" BlueprintSubtypeId="CompressedIceToOxygen" />
+<!-- Compacted Ice to Gas -->
+        <Entry Class="Ice" BlueprintSubtypeId="CompactedIceToOxygen" />
 
     </BlueprintClassEntries>
 </Definitions>

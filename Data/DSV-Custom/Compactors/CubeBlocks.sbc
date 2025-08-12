@@ -57,7 +57,7 @@
 			<OperationalPowerConsumption>1.50</OperationalPowerConsumption>
 
 			<BlueprintClasses>
-				<Class>CompressedOres</Class>
+				<Class>CompactedOres</Class>
 			</BlueprintClasses>
 
 			<RefineSpeed>22.5</RefineSpeed>

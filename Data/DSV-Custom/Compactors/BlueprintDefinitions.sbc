@@ -5,14 +5,14 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>StoneOreToCompressed</SubtypeId>
+                <SubtypeId>StoneOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Stone Ore</DisplayName>
+            <DisplayName>Compacted Stone Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Stone" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedStone" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedStone" />
             <BaseProductionTimeInSeconds>0.05</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
@@ -20,126 +20,126 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>IronOreToCompressed</SubtypeId>
+                <SubtypeId>IronOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Iron Ore</DisplayName>
+            <DisplayName>Compacted Iron Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Iron" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedIron" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedIron" />
             <BaseProductionTimeInSeconds>0.025</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>NickelOreToCompressed</SubtypeId>
+                <SubtypeId>NickelOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Nickel Ore</DisplayName>
+            <DisplayName>Compacted Nickel Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\nickel_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Nickel" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedNickel" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedNickel" />
             <BaseProductionTimeInSeconds>0.33</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>CobaltOreToCompressed</SubtypeId>
+                <SubtypeId>CobaltOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Cobalt Ore</DisplayName>
+            <DisplayName>Compacted Cobalt Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\cobalt_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Cobalt" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedCobalt" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedCobalt" />
             <BaseProductionTimeInSeconds>1.5</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>MagnesiumOreToCompressed</SubtypeId>
+                <SubtypeId>MagnesiumOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Magnesium Ore</DisplayName>
+            <DisplayName>Compacted Magnesium Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\magnesium_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Magnesium" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedMagnesium" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedMagnesium" />
             <BaseProductionTimeInSeconds>0.25</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>SiliconOreToCompressed</SubtypeId>
+                <SubtypeId>SiliconOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Silicon Ore</DisplayName>
+            <DisplayName>Compacted Silicon Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\silicon_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Silicon" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedSilicon" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedSilicon" />
             <BaseProductionTimeInSeconds>0.3</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>SilverOreToCompressed</SubtypeId>
+                <SubtypeId>SilverOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Silver Ore</DisplayName>
+            <DisplayName>Compacted Silver Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Silver" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedSilver" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedSilver" />
             <BaseProductionTimeInSeconds>0.5</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>GoldOreToCompressed</SubtypeId>
+                <SubtypeId>GoldOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Gold Ore</DisplayName>
+            <DisplayName>Compacted Gold Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\gold_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="2" TypeId="Ore" SubtypeId="Gold" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedGold" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedGold" />
             <BaseProductionTimeInSeconds>0.2</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>PlatinumOreToCompressed</SubtypeId>
+                <SubtypeId>PlatinumOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Platinum Ore</DisplayName>
+            <DisplayName>Compacted Platinum Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\platinum_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Platinum" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedPlatinum" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedPlatinum" />
             <BaseProductionTimeInSeconds>1.5</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>UraniumOreToCompressed</SubtypeId>
+                <SubtypeId>UraniumOreToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Uranium Ore</DisplayName>
+            <DisplayName>Compacted Uranium Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\uranium_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Uranium" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedUranium" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedUranium" />
             <BaseProductionTimeInSeconds>2</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
@@ -147,10 +147,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedStoneOreToIngot</SubtypeId>
+            <SubtypeId>CompactedStoneOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1000" TypeId="Ore" SubtypeId="CompressedStone" />
+            <Item Amount="1000" TypeId="Ore" SubtypeId="CompactedStone" />
         </Prerequisites>
         <Results>
             <Item Amount="14" TypeId="Ingot" SubtypeId="Stone" />
@@ -164,10 +164,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedIronOreToIngot</SubtypeId>
+            <SubtypeId>CompactedIronOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedIron" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedIron" />
         </Prerequisites>
         <Result Amount="0.7" TypeId="Ingot" SubtypeId="Iron" />
         <BaseProductionTimeInSeconds>0.05</BaseProductionTimeInSeconds>
@@ -176,10 +176,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedNickelOreToIngot</SubtypeId>
+            <SubtypeId>CompactedNickelOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedNickel" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedNickel" />
         </Prerequisites>
         <Result Amount="0.4" TypeId="Ingot" SubtypeId="Nickel" />
         <BaseProductionTimeInSeconds>0.66</BaseProductionTimeInSeconds>
@@ -188,10 +188,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedCobaltOreToIngot</SubtypeId>
+            <SubtypeId>CompactedCobaltOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedCobalt" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedCobalt" />
         </Prerequisites>
         <Result Amount="0.3" TypeId="Ingot" SubtypeId="Cobalt" />
         <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
@@ -200,10 +200,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedMagnesiumOreToIngot</SubtypeId>
+            <SubtypeId>CompactedMagnesiumOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedMagnesium" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedMagnesium" />
         </Prerequisites>
         <Result Amount="0.007" TypeId="Ingot" SubtypeId="Magnesium" />
         <BaseProductionTimeInSeconds>0.5</BaseProductionTimeInSeconds>
@@ -212,10 +212,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedSiliconOreToIngot</SubtypeId>
+            <SubtypeId>CompactedSiliconOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedSilicon" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedSilicon" />
         </Prerequisites>
         <Result Amount="0.7" TypeId="Ingot" SubtypeId="Silicon" />
         <BaseProductionTimeInSeconds>0.6</BaseProductionTimeInSeconds>
@@ -224,10 +224,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedSilverOreToIngot</SubtypeId>
+            <SubtypeId>CompactedSilverOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedSilver" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedSilver" />
         </Prerequisites>
         <Result Amount="0.1" TypeId="Ingot" SubtypeId="Silver" />
         <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
@@ -236,10 +236,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedGoldOreToIngot</SubtypeId>
+            <SubtypeId>CompactedGoldOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedGold" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedGold" />
         </Prerequisites>
         <Result Amount="0.01" TypeId="Ingot" SubtypeId="Gold" />
         <BaseProductionTimeInSeconds>0.4</BaseProductionTimeInSeconds>
@@ -248,10 +248,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedPlatinumOreToIngot</SubtypeId>
+            <SubtypeId>CompactedPlatinumOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedPlatinum" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedPlatinum" />
         </Prerequisites>
         <Result Amount="0.005" TypeId="Ingot" SubtypeId="Platinum" />
         <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
@@ -260,10 +260,10 @@
         <Blueprint>
         <Id>
             <TypeId>BlueprintDefinition</TypeId>
-            <SubtypeId>CompressedUraniumOreToIngot</SubtypeId>
+            <SubtypeId>CompactedUraniumOreToIngot</SubtypeId>
         </Id>
         <Prerequisites>
-            <Item Amount="1" TypeId="Ore" SubtypeId="CompressedUranium" />
+            <Item Amount="1" TypeId="Ore" SubtypeId="CompactedUranium" />
         </Prerequisites>
         <Result Amount="0.01" TypeId="Ingot" SubtypeId="Uranium" />
         <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
@@ -272,14 +272,14 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>IceToCompressed</SubtypeId>
+                <SubtypeId>IceToCompacted</SubtypeId>
             </Id>
-            <DisplayName>Compressed Ice</DisplayName>
+            <DisplayName>Compacted Ice</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Ice" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Ore" SubtypeId="CompressedIce" />
+            <Result Amount="1" TypeId="Ore" SubtypeId="CompactedIce" />
             <BaseProductionTimeInSeconds>0.05</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
@@ -287,12 +287,12 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>CompressedIceToOxygen</SubtypeId>
+                <SubtypeId>CompactedIceToOxygen</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_Oxygen</DisplayName>
             <Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
             <Prerequisites>
-                <Item Amount="1" TypeId="Ore" SubtypeId="Ice" />
+                <Item Amount="1" TypeId="Ore" SubtypeId="CompactedIce" />
             </Prerequisites>
             <Result Amount="0.9" TypeId="Ingot" SubtypeId="Stone" />
             <BaseProductionTimeInSeconds>0.1</BaseProductionTimeInSeconds>
