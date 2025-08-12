@@ -54,13 +54,13 @@
 			<InventoryFillFactorMax>0.9</InventoryFillFactorMax>
 
 			<StandbyPowerConsumption>0.001</StandbyPowerConsumption>
-			<OperationalPowerConsumption>0.50</OperationalPowerConsumption>
+			<OperationalPowerConsumption>1.50</OperationalPowerConsumption>
 
 			<BlueprintClasses>
-				<Class>DenseOres</Class>
+				<Class>CompressedOres</Class>
 			</BlueprintClasses>
 
-			<RefineSpeed>9</RefineSpeed>
+			<RefineSpeed>22.5</RefineSpeed>
             <MaterialEfficiency>1.0</MaterialEfficiency>
 
 			<OreAmountPerPullRequest>5000</OreAmountPerPullRequest>

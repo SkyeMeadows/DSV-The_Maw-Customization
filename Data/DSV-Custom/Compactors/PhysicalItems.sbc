@@ -4,7 +4,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseStone</SubtypeId>
+        <SubtypeId>CompressedStone</SubtypeId>
       </Id>
       <DisplayName>Compacted Stone</DisplayName>
       <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
@@ -13,7 +13,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -21,7 +21,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseIron</SubtypeId>
+        <SubtypeId>CompressedIron</SubtypeId>
       </Id>
       <DisplayName>Compacted Iron Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
@@ -30,7 +30,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -39,7 +39,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseNickel</SubtypeId>
+        <SubtypeId>CompressedNickel</SubtypeId>
       </Id>
       <DisplayName>Compacted Nickel Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
@@ -48,7 +48,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -57,7 +57,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseCobalt</SubtypeId>
+        <SubtypeId>CompressedCobalt</SubtypeId>
       </Id>
       <DisplayName>Compacted Cobalt Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
@@ -66,7 +66,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -75,7 +75,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseMagnesium</SubtypeId>
+        <SubtypeId>CompressedMagnesium</SubtypeId>
       </Id>
       <DisplayName>Compacted Magnesium Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
@@ -84,7 +84,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -93,7 +93,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseSilicon</SubtypeId>
+        <SubtypeId>CompressedSilicon</SubtypeId>
       </Id>
       <DisplayName>Compacted Silicon Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
@@ -102,7 +102,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -111,7 +111,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseSilver</SubtypeId>
+        <SubtypeId>CompressedSilver</SubtypeId>
       </Id>
       <DisplayName>Compacted Silver Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
@@ -120,7 +120,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -129,7 +129,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseGold</SubtypeId>
+        <SubtypeId>CompressedGold</SubtypeId>
       </Id>
       <DisplayName>Compacted Gold Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
@@ -138,7 +138,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -147,7 +147,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DensePlatinum</SubtypeId>
+        <SubtypeId>CompressedPlatinum</SubtypeId>
       </Id>
       <DisplayName>Compacted Platinum Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
@@ -156,7 +156,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -165,7 +165,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseUranium</SubtypeId>
+        <SubtypeId>CompressedUranium</SubtypeId>
       </Id>
       <DisplayName>Compacted Uranium Ore</DisplayName>
       <Icon>Textures\GUI\Icons\ore_UO2_uranite.dds</Icon>
@@ -174,7 +174,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
@@ -183,7 +183,7 @@
     <PhysicalItem>
       <Id>
         <TypeId>Ore</TypeId>
-        <SubtypeId>DenseIce</SubtypeId>
+        <SubtypeId>CompressedIce</SubtypeId>
       </Id>
       <DisplayName>Compacted Ice</DisplayName>
       <Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
@@ -192,7 +192,7 @@
         <Y>0.07</Y>
         <Z>0.07</Z>
       </Size>
-      <Mass>2</Mass>
+      <Mass>1</Mass>
       <Volume>0.37</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Ice</PhysicalMaterial>
