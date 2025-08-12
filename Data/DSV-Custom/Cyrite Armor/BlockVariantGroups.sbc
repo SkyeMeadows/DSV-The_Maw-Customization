@@ -34,7 +34,7 @@
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-CyriteArmorCubeGroup03" />
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
-            <DisplayName>Cyrite Armor Block</DisplayName>
+            <DisplayName>Cyrite Armor 2x1 Corners</DisplayName>
             <Description>Armor crafted from Cyrite, this block is much more durable than heavy armor, while weighting only a small amount more.</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="DSV-LG_CyriteArmorCorner2Base" />
