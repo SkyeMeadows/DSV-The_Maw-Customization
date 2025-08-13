@@ -21,9 +21,9 @@
             <Color x="0.575" y="0.15" z="0.2" />
             <Color x="0.1222" y="0.05" z="0.46" />
         </BackgroundColorRanges>
-		<Icon>Data\Patreon\Textures\FactionLogo\DSV_Logo_New.png</Icon>
-		<Icon>Data\Patreon\Textures\FactionLogo\HSW_Logo.png</Icon>
-        <Icon>Data\Patreon\Textures\FactionLogo\DFM_Logo.png</Icon>
+		<Icon>Data\Custom Images\Textures\FactionLogo\DSV_Logo_New.png</Icon>
+		<Icon>Data\Custom Images\Textures\FactionLogo\HSW_Logo.png</Icon>
+        <Icon>Data\Custom Images\Textures\FactionLogo\DFM_Logo.png</Icon>
 
     </Definition>
 </Definitions>

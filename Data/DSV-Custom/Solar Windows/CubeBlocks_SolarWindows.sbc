@@ -131,7 +131,7 @@
             </Id>
             <DisplayName>Solar Window 1x1 Face</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Reinf_Window1x1Face.dds</Icon>
-            <Description>Description_Window</Description>
+            <Description>This window has been reinforced with Cyrite forged into Hardened Plates and collects sunlight energy.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />

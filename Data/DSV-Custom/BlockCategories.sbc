@@ -71,10 +71,6 @@
 
                 <string>Refinery/OreCompactorLarge</string>
 
-                <string>Assembler/DSV-LG_Assembler_MassProduction</string>
-                <string>Assembler/DSV-LG_Assembler_BruteForce</string>
-                <string>Assembler/DSV-LG_Assembler_KarnyxiumComponents</string>
-
             </ItemIds>
         </Category>
 
@@ -179,13 +175,6 @@
             <StrictSearch>true</StrictSearch>
             <ItemIds>
                 <string>Gyro/DSV-LG_Gyroscope_Variant_Torque</string>
-                <string>Gyro/DSV-LG_Gyroscope_Variant_PowerEff</string>
-                <string>Gyro/DSV-SG_Gyroscope_Variant_Torque</string>
-                <string>Gyro/DSV-SG_Gyroscope_Variant_PowerEff</string>
-                <string>Gyro/DSV-LG_KarnyxiumGyroscope_Variant_Torque</string>
-                <string>Gyro/DSV-LG_KarnyxiumGyroscope_Variant_PowerEff</string>
-                <string>Gyro/DSV-SG_KarnyxiumGyroscope_Variant_Torque</string>
-                <string>Gyro/DSV-SG_KarnyxiumGyroscope_Variant_PowerEff</string>
 
                 <string>Thrust/DSV-LG_SmallHydroThrust_Variant_HighPower</string>
                 <string>Thrust/DSV-LG_SmallHydroThrust_Variant_Efficient</string>
@@ -201,10 +190,10 @@
                 <string>Thrust/DSV-LG_LargeAtmoThrust_Variant_Efficient</string>
                 <string>Thrust/DSV-LG_LargeAtmoFlatThrust_Variant_HighPower</string>
                 <string>Thrust/DSV-LG_LargeAtmoFlatThrust_Variant_Efficient</string>
-                <string>Thrust/DSV-LG_LargeAtmoFlatDShapeThrust_Variant_HighPower</string>
-                <string>Thrust/DSV-SG_LargeAtmoFlatDShapeThrust_Variant_HighPower</string>
-                <string>Thrust/DSV-LG_LargeAtmoFlatDShapeThrust_Variant_Efficient</string>
-                <string>Thrust/DSV-SG_LargeAtmoFlatDShapeThrust_Variant_Efficient</string>
+                <string>Thrust/DSV-LG_LargeAtmoFlatThrustDShape_Variant_HighPower</string>
+                <string>Thrust/DSV-SG_LargeAtmoFlatThrustDShape_Variant_HighPower</string>
+                <string>Thrust/DSV-LG_LargeAtmoFlatThrustDShape_Variant_Efficient</string>
+                <string>Thrust/DSV-SG_LargeAtmoFlatThrustDShape_Variant_Efficient</string>
                 <string>Thrust/DSV-LG_SmallAtmoFlatThrust_Variant_HighPower</string>
                 <string>Thrust/DSV-LG_SmallAtmoFlatThrust_Variant_Efficient</string>
                 <string>Thrust/DSV-LG_SmallAtmoFlatThrustDShape_Variant_HighPower</string>
@@ -234,32 +223,10 @@
                 <string>Thrust/DSV-SG_SmallHydroThrust_Variant_HighPower</string>
                 <string>Thrust/DSV-SG_SmallHydroThrust_Variant_Efficient</string>
                 <string>Thrust/DSV-SG_LargeAtmoThrust_Variant_HighPower</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
-                <string>Thrust/</string>
+                <string>Thrust/DSV-SG_LargeAtmoThrust_Variant_Efficient</string>
+                <string>Thrust/DSV-SG_SmallAtmoThrust_Variant_HighPower</string>
+                <string>Thrust/DSV-SG_SmallAtmoThrust_Variant_Efficient</string>
+                <string>Thrust/DSV-SG_LargeAtmoFlatThrust_Variant_HighPower</string>
 
             </ItemIds>
         </Category>

@@ -7,7 +7,7 @@
        <TypeId>LCDTextureDefinition</TypeId>
        <SubtypeId>DSV-Logo</SubtypeId>
      </Id>
-    <TexturePath>Data\Patreon\Textures\Models\DSVLogo.dds</TexturePath>
+    <TexturePath>Data\Custom Images\Textures\Models\DSVLogo.dds</TexturePath>
    </LCDTextureDefinition>
 
    <LCDTextureDefinition>
@@ -15,7 +15,7 @@
        <TypeId>LCDTextureDefinition</TypeId>
        <SubtypeId>TCOTM-Logo</SubtypeId>
      </Id>
-    <TexturePath>Data\Patreon\Textures\Models\TCOTMLogo.dds</TexturePath>
+    <TexturePath>Data\Custom Images\Textures\Models\TCOTMLogo.dds</TexturePath>
    </LCDTextureDefinition>
 
    <LCDTextureDefinition>
@@ -23,7 +23,7 @@
        <TypeId>LCDTextureDefinition</TypeId>
        <SubtypeId>LNTRI-Logo</SubtypeId>
      </Id>
-    <TexturePath>Data\Patreon\Textures\Models\LNTRILogo.dds</TexturePath>
+    <TexturePath>Data\Custom Images\Textures\Models\LNTRILogo.dds</TexturePath>
    </LCDTextureDefinition>
 
   </LCDTextures>

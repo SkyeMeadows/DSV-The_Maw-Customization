@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-Gyroscopes" />
+            <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
+            <DisplayName>Advanced Gyroscopes</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-LG_Gyroscope_Variant_Torque" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-LG_Gyroscope_Variant_PowerEff" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-LG_KarnyxiumGyroscope_Variant_Torque" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-LG_KarnyxiumGyroscope_Variant_PowerEff" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-SG_Gyroscope_Variant_Torque" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-SG_Gyroscope_Variant_PowerEff" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-SG_KarnyxiumGyroscope_Variant_Torque" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="DSV-SG_KarnyxiumGyroscope_Variant_PowerEff" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-Refineries" />
+            <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
+            <DisplayName>Complex Refineries</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_Refinery_Vanilla_Exotic" />
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_Refinery_BruteForce" />
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_Refinery_Smart_Basic" />
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_KarnyxiumGyroscope_Variant_PowerEff" />
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_Refinery_Smart_Intermediate" />
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_Refinery_Smart_Advanced" />
+                <Block Type="MyObjectBuilder_Refinery" Subtype="DSV-LG_Refinery_Smart_Exotic" />
+            </Blocks>
+        </BlockVariantGroup>
+        
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-Assemblers" />
+            <Icon>Textures\GUI\Icons\Cubes\assembler.dds</Icon>
+            <DisplayName>Complex Assemblers</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Assembler" Subtype="DSV-LG_Assembler_MassProduction" />
+                <Block Type="MyObjectBuilder_Assembler" Subtype="DSV-LG_Assembler_BruteForce" />
+                <Block Type="MyObjectBuilder_Assembler" Subtype="DSV-LG_Assembler_KarnyxiumComponents" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-Tanks" />
+            <Icon>Textures\GUI\Icons\Cubes\HydrogenTank.dds</Icon>
+            <DisplayName>Advanced Tanks</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-SG_KarnyxiumOxygenTank_Large" />
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-SG_KarnyxiumOxygenTank_Small" />
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-LG_KarnyxiumOxygenTank" />
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-LG_KarnyxiumHydrogenTank_Large" />
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-LG_KarnyxiumHydrogenTank_Small" />
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-SG_KarnyxiumHydrogenTank_Large" />
+                <Block Type="MyObjectBuilder_OxygenTank" Subtype="DSV-SG_KarnyxiumHydrogenTank_Small" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-ShipTools" />
+            <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
+            <DisplayName>Advanced Ship Tools</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Drill" Subtype="DSV-SG_KarnyxiumDrill" />
+                <Block Type="MyObjectBuilder_Drill" Subtype="DSV-LG_KarnyxiumDrill" />
+                <Block Type="MyObjectBuilder_ShipWelder" Subtype="DSV-LG_KarnyxiumWelder" />
+                <Block Type="MyObjectBuilder_ShipWelder" Subtype="DSV-SG_KarnyxiumWelder" />
+                <Block Type="MyObjectBuilder_ShipGrinder" Subtype="DSV-LG_KarnyxiumGrinder" />
+                <Block Type="MyObjectBuilder_ShipGrinder" Subtype="DSV-SG_KarnyxiumGrinder" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-JumpDrives" />
+            <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
+            <DisplayName>Advanced Jump Drives</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_JumpDrive" Subtype="DSV-LG_JumpDrive_Variant_PowerEff" />
+                <Block Type="MyObjectBuilder_JumpDrive" Subtype="DSV-LG_JumpDrive_Variant_Range" />
+                <Block Type="MyObjectBuilder_JumpDrive" Subtype="DSV-LG_JumpDrive_Variant_Mass" />
+                <Block Type="MyObjectBuilder_JumpDrive" Subtype="DSV-LG_KarnyxiumJumpDrive_Variant_PowerEff" />
+                <Block Type="MyObjectBuilder_JumpDrive" Subtype="DSV-LG_KarnyxiumJumpDrive_Variant_Range" />
+                <Block Type="MyObjectBuilder_JumpDrive" Subtype="DSV-LG_KarnyxiumJumpDrive_Variant_Mass" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-CargoContainers" />
+            <Icon>Textures\GUI\Icons\Cubes\CargoContainer.dds</Icon>
+            <DisplayName>Advanced Cargo Containers</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="DSV-SG_KarnyxiumCargo_Small" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="DSV-SG_KarnyxiumCargo_Medium" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="DSV-SG_KarnyxiumCargo_Large" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="DSV-LG_KarnyxiumCargo_Small" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="DSV-LG_KarnyxiumCargo_Large" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-Reactors" />
+            <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
+            <DisplayName>Advanced Reactors</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_SmallReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_LargeReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_SmallReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_LargeReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_SmallReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_LargeReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_SmallReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_LargeReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_KarnyxiumSmallReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_KarnyxiumLargeReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_KarnyxiumSmallReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-SG_KarnyxiumLargeReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_KarnyxiumSmallReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_KarnyxiumLargeReactor_Variant_FuelEff" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_KarnyxiumSmallReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_KarnyxiumLargeReactor_Variant_Accelerated" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_KarnyxiumFueled_SmallReactor" />
+                <Block Type="MyObjectBuilder_Reactor" Subtype="DSV-LG_KarnyxiumFueled_LargeReactor" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-Batteries" />
+            <Icon>Textures\GUI\Icons\Cubes\battery.dds</Icon>
+            <DisplayName>Advanced Batteries</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-LG_Battery_Variant_HighOutput" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-SG_Battery_Variant_HighOutput" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-LG_Battery_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-SG_Battery_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-LG_Battery_Variant_Capacity" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-SG_Battery_Variant_Capacity" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-LG_KarnyxiumBattery_Variant_HighOutput" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-SG_KarnyxiumBattery_Variant_HighOutput" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-LG_KarnyxiumBattery_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-SG_KarnyxiumBattery_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-LG_KarnyxiumBattery_Variant_Capacity" />
+                <Block Type="MyObjectBuilder_BatteryBlock" Subtype="DSV-SG_KarnyxiumBattery_Variant_Capacity" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-SolarWindows" />
+            <Icon>Textures\GUI\Icons\Cubes\Reinf_Window1x1Flat.dds</Icon>
+            <DisplayName>Solar Windows</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1Flat" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1Face" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1FlatInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1FaceInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1Slope" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1Side" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x1SideInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2Face" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2Flat" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2FlatInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2FaceInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2SideLeft" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2SideLeftInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2SideRight" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2SideRightInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_1x2Slope" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_2x3Flat" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_2x3FlatInv" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_3x3Flat" />
+                <Block Type="MyObjectBuilder_SolarPanel" Subtype="DSV-LG_SolarWindow_3x3FlatInv" />
+                
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-HydrogenThrusters" />
+            <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
+            <DisplayName>Advanced Hydrogen Thrusters</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeHydroThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeHydroThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeHydroIndustrialThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeHydroIndustrialThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallHydroIndustrialThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallHydroIndustrialThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeHydroIndustrial_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeHydroIndustrial_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallHydroIndustrialThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallHydroIndustrialThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeHydroIndustrial_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeHydroIndustrial_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallHydroIndustrial_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallHydroIndustrial_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeHydroIndustrial_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeHydroIndustrial_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallHydroIndustrial_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallHydroIndustrial_Variant_Efficient" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-IonThrusters" />
+            <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
+            <DisplayName>Advanced Ion Thrusters</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallIonThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallIonThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeIonThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeIonThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallIonSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallIonSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeIonSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeIonSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallIonWarfareThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallIonWarfareThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeIonWarfareThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeIonWarfareThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallIonThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallIonThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeIonThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeIonThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallIonSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallIonSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeIonSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeIonSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallIonWarfareThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallIonWarfareThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeIonWarfareThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeIonWarfareThrust_Variant_Efficient" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="DSV-AtmoThrusters" />
+            <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
+            <DisplayName>Advanced Atmospheric Thrusters</DisplayName>
+            <Description>TBD</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_SmallAtmoSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_LargeAtmoSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoSciFi_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumSmallAtmoSciFi_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoSciFi_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-LG_KarnyxiumLargeAtmoSciFi_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_SmallAtmoSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoSciFiThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_LargeAtmoSciFiThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoFlatThrust_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoFlatThrust_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoFlatThrustDShape_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoFlatThrustDShape_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoSciFi_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumSmallAtmoSciFi_Variant_Efficient" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoSciFi_Variant_HighPower" />
+                <Block Type="MyObjectBuilder_Thrust" Subtype="DSV-SG_KarnyxiumLargeAtmoSciFi_Variant_Efficient" />
+            </Blocks>
+        </BlockVariantGroup>
+        
+    </BlockVariantGroups>
+</Definitions>

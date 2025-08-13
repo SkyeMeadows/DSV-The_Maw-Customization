@@ -1536,7 +1536,7 @@
                 <Variant Color="Black" Suffix="_black" />
                 <Variant Color="White" Suffix="_white" />
             </Variants>
-            <BlockPairName>HeavyArmorRaisedSlopedCorner</BlockPairName>
+            <BlockPairName>CyriteArmorRaisedSlopedCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>

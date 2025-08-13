@@ -1446,7 +1446,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>LargeAtmoThrustFlat_Variant_Efficient</BlockPairName>
+            <BlockPairName>LargeAtmoFlatThrust_Variant_Efficient</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -1511,7 +1511,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-LG_LargeAtmoFlatDShapeThrust_Variant_HighPower</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoFlatThrustDShape_Variant_HighPower</SubtypeId>
             </Id>
             <DisplayName>Large High Power Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeLarge.dds</Icon>
@@ -1561,7 +1561,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>LargeAtmoFlatDShapeThrust_Variant_HighPower</BlockPairName>
+            <BlockPairName>LargeAtmoFlatThrustDShape_Variant_HighPower</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -1626,11 +1626,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-SG_LargeAtmoFlatDShapeThrust_Variant_HighPower</SubtypeId>
+                <SubtypeId>DSV-SG_LargeAtmoFlatThrustDShape_Variant_HighPower</SubtypeId>
             </Id>
             <DisplayName>Large High Power Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -1676,7 +1676,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>LargeAtmoFlatDShapeThrust_Variant_HighPower</BlockPairName>
+            <BlockPairName>LargeAtmoFlatThrustDShape_Variant_HighPower</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -1742,7 +1742,7 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-LG_LargeAtmoFlatDShapeThrust_Variant_Efficient</SubtypeId>
+                <SubtypeId>DSV-LG_LargeAtmoFlatThrustDShape_Variant_Efficient</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeLarge.dds</Icon>
@@ -1792,7 +1792,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>LargeAtmoFlatDShapeThrust_Variant_Efficient</BlockPairName>
+            <BlockPairName>LargeAtmoFlatThrustDShape_Variant_Efficient</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -1857,11 +1857,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-SG_LargeAtmoFlatDShapeThrust_Variant_Efficient</SubtypeId>
+                <SubtypeId>DSV-SG_LargeAtmoFlatThrustDShape_Variant_Efficient</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -1907,7 +1907,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>LargeAtmoFlatDShapeThrust_Variant_Efficient</BlockPairName>
+            <BlockPairName>LargeAtmoFlatThrustDShape_Variant_Efficient</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -4080,11 +4080,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-SG_SmallIonThrust_Varaint_HighPower</SubtypeId>
+                <SubtypeId>DSV-SG_SmallIonThrust_Variant_HighPower</SubtypeId>
             </Id>
             <DisplayName>Small High Power Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -4182,11 +4182,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-SG_SmallIonThrust_Varaint_Efficient</SubtypeId>
+                <SubtypeId>DSV-SG_SmallIonThrust_Variant_Efficient</SubtypeId>
             </Id>
             <DisplayName>Small Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -4288,7 +4288,7 @@
             </Id>
             <DisplayName>Large High Power Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -4389,7 +4389,7 @@
             </Id>
             <DisplayName>Large Efficient Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -4490,7 +4490,7 @@
             </Id>
             <DisplayName>Large High Power Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -4593,7 +4593,7 @@
             </Id>
             <DisplayName>Large Efficient Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -4696,7 +4696,7 @@
             </Id>
             <DisplayName>Small High Power Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -4799,7 +4799,7 @@
             </Id>
             <DisplayName>Small Efficient Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -4902,7 +4902,7 @@
             </Id>
             <DisplayName>Large High Power Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -5013,7 +5013,7 @@
             </Id>
             <DisplayName>Large Efficient Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -5124,7 +5124,7 @@
             </Id>
             <DisplayName>Small High Power Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -5236,7 +5236,7 @@
             </Id>
             <DisplayName>Small Efficient Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -5349,7 +5349,7 @@
             </Id>
             <DisplayName>Large High Power Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -5460,11 +5460,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-SG_LargeAtmoThrustFlat_Variant_Efficient</SubtypeId>
+                <SubtypeId>DSV-SG_LargeAtmoFlatThrust_Variant_Efficient</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -5510,7 +5510,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>LargeAtmoThrustFlat_Variant_Efficient</BlockPairName>
+            <BlockPairName>LargeAtmoFlatThrust_Variant_Efficient</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -5579,7 +5579,7 @@
             </Id>
             <DisplayName>Small High Power Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -5695,7 +5695,7 @@
             </Id>
             <DisplayName>Small Efficient Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -5811,7 +5811,7 @@
             </Id>
             <DisplayName>Small High Power Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -5927,7 +5927,7 @@
             </Id>
             <DisplayName>Small Efficient Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -6043,7 +6043,7 @@
             </Id>
             <DisplayName>Small High Power Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -6140,7 +6140,7 @@
             </Id>
             <DisplayName>Small Efficient Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -6237,7 +6237,7 @@
             </Id>
             <DisplayName>Large High Power Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -6333,7 +6333,7 @@
             </Id>
             <DisplayName>Large Efficient Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -6429,7 +6429,7 @@
             </Id>
             <DisplayName>Large High Power Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -6534,7 +6534,7 @@
             </Id>
             <DisplayName>Large Efficient Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -6639,7 +6639,7 @@
             </Id>
             <DisplayName>Small High Power Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -6746,7 +6746,7 @@
             </Id>
             <DisplayName>Small Efficient Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -6853,7 +6853,7 @@
             </Id>
             <DisplayName>Small High Power Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -6950,7 +6950,7 @@
             </Id>
             <DisplayName>Small Efficient Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -7047,7 +7047,7 @@
             </Id>
             <DisplayName>Large High Power Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="3" z="4" />
@@ -7147,7 +7147,7 @@
             </Id>
             <DisplayName>Large Efficient Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="3" z="4" />
@@ -7247,7 +7247,7 @@
             </Id>
             <DisplayName>Large High Power Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="4" />
@@ -7348,7 +7348,7 @@
             </Id>
             <DisplayName>Large Efficient Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="4" />
@@ -7449,7 +7449,7 @@
             </Id>
             <DisplayName>Small High Power Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -7548,7 +7548,7 @@
             </Id>
             <DisplayName>Small Efficient Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -7650,7 +7650,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -7755,7 +7755,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -7860,7 +7860,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -7964,7 +7964,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -8068,7 +8068,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -8173,7 +8173,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -8278,7 +8278,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -8384,7 +8384,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -8490,7 +8490,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -8597,7 +8597,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -8704,7 +8704,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -8810,7 +8810,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -8916,7 +8916,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -9022,7 +9022,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -9128,7 +9128,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -9234,7 +9234,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -9340,7 +9340,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -9452,7 +9452,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -9564,7 +9564,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -9678,7 +9678,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -9792,7 +9792,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -9906,7 +9906,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterLargeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -10020,7 +10020,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -10135,7 +10135,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\AtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -10246,11 +10246,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-LG_KarnyxiumLargeAtmoFlatThrust_Variant_HighPowe</SubtypeId>
+                <SubtypeId>DSV-LG_KarnyxiumLargeAtmoFlatThrust_Variant_HighPower</SubtypeId>
             </Id>
             <DisplayName>Large High Power Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -10367,7 +10367,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -10480,11 +10480,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-LG_KarnyxiumLargeAtmoFlatDShapeThrust_Variant_HighPower</SubtypeId>
+                <SubtypeId>DSV-LG_KarnyxiumLargeAtmoFlatThrustDShape_Variant_HighPower</SubtypeId>
             </Id>
             <DisplayName>Large High Power Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -10533,7 +10533,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>KarnyxiumLargeAtmoFlatDShapeThrust_Variant_HighPower</BlockPairName>
+            <BlockPairName>KarnyxiumLargeAtmoFlatThrustDShape_Variant_HighPower</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -10597,11 +10597,11 @@
         <Definition xsi:type="MyObjectBuilder_ThrustDefinition">
             <Id>
                 <TypeId>Thrust</TypeId>
-                <SubtypeId>DSV-LG_KarnyxiumLargeAtmoFlatDShapeThrust_Variant_Efficient</SubtypeId>
+                <SubtypeId>DSV-LG_KarnyxiumLargeAtmoFlatThrustDShape_Variant_Efficient</SubtypeId>
             </Id>
             <DisplayName>Large Efficient Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -10650,7 +10650,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>KarnyxiumLargeAtmoFlatDShapeThrust_Variant_Efficient</BlockPairName>
+            <BlockPairName>KarnyxiumLargeAtmoFlatThrustDShape_Variant_Efficient</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -10718,7 +10718,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -10836,7 +10836,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -10954,7 +10954,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -11072,7 +11072,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterDShapeSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -11190,7 +11190,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -11308,7 +11308,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -11426,7 +11426,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -11475,7 +11475,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>KarnyxiumLargeAtmoFlatDShapeThrust_Variant_HighPower</BlockPairName>
+            <BlockPairName>KarnyxiumLargeAtmoFlatThrustDShape_Variant_HighPower</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -11544,7 +11544,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -11593,7 +11593,7 @@
                     <MinAllowed>0</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>KarnyxiumLargeAtmoFlatDShapeThrust_Variant_Efficient</BlockPairName>
+            <BlockPairName>KarnyxiumLargeAtmoFlatThrustDShape_Variant_Efficient</BlockPairName>
             <Center x="1" y="1" z="1" />
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
@@ -11662,7 +11662,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Flat Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -11781,7 +11781,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Flat Atmopsheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -11900,7 +11900,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -12019,7 +12019,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Flat D-Shape Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallFlatAtmosphericThrusterDShapeSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -12138,7 +12138,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -12238,7 +12238,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -12338,7 +12338,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -12437,7 +12437,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -12536,7 +12536,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -12636,7 +12636,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -12736,7 +12736,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -12837,7 +12837,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Sci-Fi Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="4" />
@@ -12938,7 +12938,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -13045,7 +13045,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -13152,7 +13152,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -13261,7 +13261,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Large_AtmosphericThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -13370,7 +13370,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -13478,7 +13478,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterLarge_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="5" />
@@ -13586,7 +13586,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -13696,7 +13696,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Sci-Fi Atmospheric Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Small_AtmosphericThrusterSmall_SciFi.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -13806,7 +13806,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -13906,7 +13906,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -14006,7 +14006,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="3" z="4" />
@@ -14109,7 +14109,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="3" z="4" />
@@ -14212,7 +14212,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -14312,7 +14312,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -14412,7 +14412,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="3" z="4" />
@@ -14515,7 +14515,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Warfare Ion Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="3" z="4" />
@@ -14618,7 +14618,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="4" />
@@ -14724,7 +14724,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="4" />
@@ -14830,7 +14830,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Industrial Hydrogen Thrsuter</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -14933,7 +14933,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -15036,7 +15036,7 @@
             </Id>
             <DisplayName>Large High Power Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="4" />
@@ -15140,7 +15140,7 @@
             </Id>
             <DisplayName>Large Efficient Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialLarge.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="4" />
@@ -15244,7 +15244,7 @@
             </Id>
             <DisplayName>Small High Power Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -15346,7 +15346,7 @@
             </Id>
             <DisplayName>Small Efficient Karnyxium Industrial Hydrogen Thruster</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenThrusterIndustrialSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.eric</Description>
+            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
