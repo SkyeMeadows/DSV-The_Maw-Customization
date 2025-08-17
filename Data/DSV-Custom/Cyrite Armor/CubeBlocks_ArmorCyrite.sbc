@@ -1755,7 +1755,7 @@
         <TypeId>CubeBlock</TypeId>
         <SubtypeId>DSV-LG-CyriteArmorSlopeTransitionMirrored</SubtypeId>
       </Id>
-      <DisplayName>Cyrite Armor Slope Transition Mirroed</DisplayName>
+      <DisplayName>Cyrite Armor Slope Transition Mirrored</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
       <Description>Armor crafted from Cyrite, this block is much more durable than heavy armor, while weighting only a small amount more.</Description>
       <CubeSize>Large</CubeSize>
