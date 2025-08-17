@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>Large Karnyxium Oxygen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\OxygenTankSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="3" />
@@ -91,7 +91,7 @@
             </Id>
             <DisplayName>Small Karnyxium Oxygen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\OxygenTank.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="2" z="1" />
@@ -169,7 +169,7 @@
             </Id>
             <DisplayName>Karnyxium Oxygen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\OxygenTank.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="2" z="1" />
@@ -258,7 +258,7 @@
             </Id>
             <DisplayName>Large Karnyxium Hydrogen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenTank.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -342,7 +342,7 @@
             </Id>
             <DisplayName>Small Karnyxium Hydrogen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\largeHydrogenTankSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -419,7 +419,7 @@
             </Id>
             <DisplayName>Large Karnyxium Hydrogen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HydrogenTank.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <Public>true</Public>
@@ -515,7 +515,7 @@
             </Id>
             <DisplayName>Small Karnyxium Hydrogen Tank</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SmallHydrogenTankSmall.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded tank has increased capacity.</Description>
             <Public>true</Public>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
