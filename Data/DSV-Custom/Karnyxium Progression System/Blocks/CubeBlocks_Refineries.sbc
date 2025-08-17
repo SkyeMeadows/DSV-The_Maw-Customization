@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>Inefficient Exotic Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Refinery can be used to refine Karnyxium and Cyrite at lower yields.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -85,7 +85,7 @@
             </Id>
             <DisplayName>Overclocked Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Refinery can refine all ores except for Karnyxium and Cyrite, and does so at a higher speed while costing more power.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -164,7 +164,7 @@
             </Id>
             <DisplayName>Simple Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Refinery can be used to refine Stone, Scrap, Iron, Nickel, and Silicon.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -242,7 +242,7 @@
             </Id>
             <DisplayName>Intermediate Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Refinery can be used to refine Cobalt, Magnesium, and Silver.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -320,7 +320,7 @@
             </Id>
             <DisplayName>Advanced Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Refinery can be used to refine Gold, Uranium, and Platinum</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
@@ -398,7 +398,7 @@
             </Id>
             <DisplayName>Exotic Ores Refinery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Refinery can be used to refine Karnyxium and Cyrite</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="2" y="4" z="2" />
