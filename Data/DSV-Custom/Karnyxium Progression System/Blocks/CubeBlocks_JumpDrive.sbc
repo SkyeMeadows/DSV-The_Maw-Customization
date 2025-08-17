@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Power Efficient Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This jump drives requires less power to jump than a normal jump drive but has reduced range.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -50,7 +50,7 @@
 
             <ResourceSinkGroup>Charging</ResourceSinkGroup>
             <RequiredPowerInput>32</RequiredPowerInput>
-            <PowerNeededForJump>2.5</PowerNeededForJump>
+            <PowerNeededForJump>2.0</PowerNeededForJump>
             <PowerEfficiency>0.85</PowerEfficiency>
 
             <MaxJumpDistance>1500000</MaxJumpDistance>
@@ -72,7 +72,7 @@
             </Id>
             <DisplayName>Long Range Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This jump drive has longer range than a normal jump drive at the cost of power power needed to jump.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -135,7 +135,7 @@
             </Id>
             <DisplayName>High Mass Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This jump drive can carry extra mass at the cost of worse charging efficiency.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -256,7 +256,7 @@
             </Id>
             <DisplayName>Power Efficient Karnyxium Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded jump drives has reduced power needed for jumping.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -299,7 +299,7 @@
 
             <ResourceSinkGroup>Charging</ResourceSinkGroup>
             <RequiredPowerInput>32</RequiredPowerInput>
-            <PowerNeededForJump>1.5</PowerNeededForJump>
+            <PowerNeededForJump>1.2</PowerNeededForJump>
             <PowerEfficiency>1.0</PowerEfficiency>
 
             <MaxJumpDistance>2500000</MaxJumpDistance>
@@ -321,7 +321,7 @@
             </Id>
             <DisplayName>Long Range Karnyxium Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded jump drive has greatly increased range.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
@@ -386,7 +386,7 @@
             </Id>
             <DisplayName>High Mass Karnyxium Jump Drive</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded jump drive can carry significantly more mass.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="2" />
