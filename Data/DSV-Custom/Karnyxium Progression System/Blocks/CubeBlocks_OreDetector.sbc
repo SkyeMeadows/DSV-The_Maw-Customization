@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Karnyxium Ore Detector</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Ore Detector uses Karnyxium to enhance it's scanning range.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="2" />
@@ -60,7 +60,7 @@
             </Id>
             <DisplayName>Karnyxium Ore Detector</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Ore Detector uses Karnyxium to enhance it's scanning range.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="2" />
