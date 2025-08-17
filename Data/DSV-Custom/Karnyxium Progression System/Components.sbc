@@ -304,7 +304,7 @@
                 <Y>0.5</Y>
                 <Z>0.01</Z>
             </Size>
-            <Mass>200</Mass>
+            <Mass>100</Mass>
             <Volume>15</Volume>
             <Model>Models\Components\detector_components_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
@@ -333,7 +333,7 @@
                 <Y>0.5</Y>
                 <Z>0.01</Z>
             </Size>
-            <Mass>100</Mass>
+            <Mass>25</Mass>
             <Volume>8</Volume>
             <Model>Models\Components\thrust_component_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
