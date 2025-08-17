@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Karnyxium Drill</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This in an all-round more powerful version of the normal Drill.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -87,7 +87,7 @@
             </Id>
             <DisplayName>Karnyxium Drill</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This in an all-round more powerful version of the normal Drill.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -170,7 +170,7 @@
             </Id>
             <DisplayName>Karnyxium Welder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Welder.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This in an all-round more powerful version of the normal Welder.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -240,7 +240,7 @@
             </Id>
             <DisplayName>Karnyxium Welder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Welder.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This in an all-round more powerful version of the normal Welder.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -302,7 +302,7 @@
             </Id>
             <DisplayName>Karnyxium Grinder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This in an all-round more powerful version of the normal Grinder.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="2" />
@@ -370,7 +370,7 @@
             </Id>
             <DisplayName>Karnyxium Grinder</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This in an all-round more powerful version of the normal Grinder.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="3" z="6" />
