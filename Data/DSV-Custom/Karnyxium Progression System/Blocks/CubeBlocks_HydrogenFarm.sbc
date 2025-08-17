@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>Hydrogen Farm</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\SolarHydroponics.dds</Icon>
-            <Description>TBA</Description>
+            <Description>This block works like an oxygen farm, but harvests trace amounts of hydrogen instead.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="1" z="1" />
