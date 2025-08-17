@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>High Output Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This battery has increased output at the cost of capacity.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -75,7 +75,7 @@
             </Id>
             <DisplayName>High Output Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This battery has increased output at the cost of capacity.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -139,7 +139,7 @@
             </Id>
             <DisplayName>Efficient Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This battery has reduced power loss when charging at the cost of power output.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -205,7 +205,7 @@
             </Id>
             <DisplayName>Efficient Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This battery has reduced power loss when charging at the cost of power output.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -269,7 +269,7 @@
             </Id>
             <DisplayName>High Capacity Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This battery has increased capacity at the cost of greater power loss when charging.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -335,7 +335,7 @@
             </Id>
             <DisplayName>High Capacity Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This battery has increased capacity at the cost of greater power loss when charging.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -401,7 +401,7 @@
             </Id>
             <DisplayName>High Output Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded battery has a much higher power output than normal.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -470,7 +470,7 @@
             </Id>
             <DisplayName>High Output Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded battery has a much higher power output than normal.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -537,7 +537,7 @@
             </Id>
             <DisplayName>Efficient Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded battery has a much lower power loss when charging than normal.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -606,7 +606,7 @@
             </Id>
             <DisplayName>Efficient Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded battery has a much lower power loss when charging than normal.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
@@ -673,7 +673,7 @@
             </Id>
             <DisplayName>High Capacity Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded battery has a much higher power capacity than normal.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -742,7 +742,7 @@
             </Id>
             <DisplayName>High Capacity Karnyxium Battery</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded battery has a much higher power capacity than normal.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="3" y="2" z="3" />
