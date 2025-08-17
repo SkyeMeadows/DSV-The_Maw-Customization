@@ -44,7 +44,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>
             <ResourceSinkGroup>Utility</ResourceSinkGroup>
-            <MaximumRange>225</MaximumRange>
+            <MaximumRange>300</MaximumRange>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
             <EmissiveColorPreset>Default</EmissiveColorPreset>
@@ -94,7 +94,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>14</BuildTimeSeconds>
             <ResourceSinkGroup>Utility</ResourceSinkGroup>
-            <MaximumRange>75</MaximumRange>
+            <MaximumRange>100</MaximumRange>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
             <EmissiveColorPreset>Default</EmissiveColorPreset>
