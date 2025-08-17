@@ -9,7 +9,7 @@
             </Id>
             <DisplayName>Mass Production Assembler</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\assembler.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This assembler producued components in batches of 100 while offering a small resource and time discount.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -84,7 +84,7 @@
             </Id>
             <DisplayName>Overclocked Assembler</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\assembler.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This assembler is faster than a normal assembler while drawing more power.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -160,7 +160,7 @@
             </Id>
             <DisplayName>Advanced Components Assembler</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\assembler.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This assembler can manufacture special components out of Karnyxium and Cyrite ingots.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
