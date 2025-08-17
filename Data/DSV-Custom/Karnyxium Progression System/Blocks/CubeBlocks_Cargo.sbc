@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>Small Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This mysterious container has a larger inside than you might think.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -61,7 +61,7 @@
             </Id>
             <DisplayName>Medium Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_medium.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This mysterious container has a larger inside than you might think.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -115,7 +115,7 @@
             </Id>
             <DisplayName>Large Karnyxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This mysterious container has a larger inside than you might think.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -168,7 +168,7 @@
             </Id>
             <DisplayName>Small Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This mysterious container has a larger inside than you might think.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -225,7 +225,7 @@
             </Id>
             <DisplayName>Large Karynxium Cargo Container</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This mysterious container has a larger inside than you might think.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
