@@ -10,7 +10,7 @@
             </Id>
             <DisplayName>High-Torque Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Gyroscope produces more force at the cost of more power draw.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -64,7 +64,7 @@
             </Id>
             <DisplayName>Power Efficient Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Gyroscope produces less force but has less power draw.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -118,7 +118,7 @@
             </Id>
             <DisplayName>High-Torque Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Gyroscope produces more force at the cost of more power draw.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -171,7 +171,7 @@
             </Id>
             <DisplayName>Power Efficient Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This Gyroscope produces less force but has less power draw.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -226,7 +226,7 @@
             </Id>
             <DisplayName>High-Torque Karnyxium Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded gyroscope produces much more force than normal.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -282,7 +282,7 @@
             </Id>
             <DisplayName>Power Efficient Karnyxium Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded gyroscope is much more power efficient than normal.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -338,7 +338,7 @@
             </Id>
             <DisplayName>High-Torque Karnyxium Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded gyroscope produces much more force than normal.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -393,7 +393,7 @@
             </Id>
             <DisplayName>Power Efficient Karnyxium Gyroscope</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
-            <Description>This specialized block is modified from the base design and can be enhanced with Karnyxium to become more powerful.</Description>
+            <Description>This upgraded gyroscope is much more power efficient than normal.</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
