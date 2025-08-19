@@ -1753,7 +1753,7 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>DSV-LG-CyriteArmorSlopeTransitionMirrored</SubtypeId>
+        <SubtypeId>DSV-LG_CyriteArmorSlopeTransitionMirrored</SubtypeId>
       </Id>
       <DisplayName>Cyrite Armor Slope Transition Mirrored</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
@@ -1935,7 +1935,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>CyriteArmorSlopeTransitionTip</BlockPairName>
+      <BlockPairName>CyriteArmorSlopeTransitionTipMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>10</BuildTimeSeconds>
@@ -2155,7 +2155,7 @@
             </Id>
             <DisplayName>Cyrite Armor Half Block</DisplayName>
             <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSquareSlab.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Armor crafted from Cyrite, this block is much more durable than heavy armor, while weighting only a small amount more.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -2209,7 +2209,7 @@
             </Id>
             <DisplayName>Cyrite Armor Half Slope</DisplayName>
             <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSlopeSlab.dds</Icon>
-            <Description>TBA</Description>
+            <Description>Armor crafted from Cyrite, this block is much more durable than heavy armor, while weighting only a small amount more.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />

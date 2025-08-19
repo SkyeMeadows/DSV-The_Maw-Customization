@@ -65,6 +65,7 @@
             <Description>Armor crafted from Cyrite, this block is much more durable than heavy armor, while weighting only a small amount more.</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="DSV-LG_CyriteArmorSlopedCornerTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="DSV-LG_CyriteArmorHalfSlopedCornerBase" />
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="DSV-LG_CyriteArmorRaisedSlopedCorner" />
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="DSV-LG_CyriteArmorSquareSlopedCornerTip" />
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="DSV-LG_CyriteArmorSquareSlopedCornerBase" />
