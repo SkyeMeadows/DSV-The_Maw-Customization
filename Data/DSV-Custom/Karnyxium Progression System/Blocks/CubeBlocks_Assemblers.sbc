@@ -130,7 +130,14 @@
             <StandbyPowerConsumption>0.001</StandbyPowerConsumption>
             <OperationalPowerConsumption>4.5</OperationalPowerConsumption>
             <BlueprintClasses>
+                <Class>LargeBlocks</Class>
+                <Class>SmallBlocks</Class>
                 <Class>Components</Class>
+                <Class>EliteEquipment</Class>
+                <Class>EliteTools</Class>
+				<Class>EliteWeapons</Class>
+				<Class>EliteConsumables</Class>				
+                <Class>BuildPlanner</Class>
             </BlueprintClasses>
             <IgnoredBlueprintClassesIcons>
                 <IgnoredClassIcon>BuildPlanner</IgnoredClassIcon>
