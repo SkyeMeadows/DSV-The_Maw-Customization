@@ -29,6 +29,34 @@
             <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
             <OutputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</OutputConstraintIcon>
         </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>CompactedIntermediateMetals</SubtypeId>
+            </Id>
+            <DisplayName>Compacted Intermediate Metals</DisplayName>
+            <Description>Compacted Intermediate Metals</Description>
+            <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\ore_rock.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\ore_rock.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
+            <OutputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</OutputConstraintIcon>
+        </Class>
+
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>CompactedAdvancedMetals</SubtypeId>
+            </Id>
+            <DisplayName>Compacted Intermediate Metals</DisplayName>
+            <Description>Compacted Intermediate Metals</Description>
+            <Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\ore_rock.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\ore_rock.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
+            <OutputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</OutputConstraintIcon>
+        </Class>
         
     </BlueprintClasses>
 
@@ -55,6 +83,14 @@
         <Entry Class="CompactedCommonMetals" BlueprintSubtypeId="CompactedCobaltOreToIngot" />
         <Entry Class="CompactedCommonMetals" BlueprintSubtypeId="CompactedMagnesiumOreToIngot" />
         <Entry Class="CompactedCommonMetals" BlueprintSubtypeId="CompactedSiliconOreToIngot" />
+
+        <Entry Class="CompactedIntermediateMetals" BlueprintSubtypeId="CompactedCobaltOreToIngot" />
+        <Entry Class="CompactedIntermediateMetals" BlueprintSubtypeId="CompactedMagnesiumOreToIngot" />
+        <Entry Class="CompactedIntermediateMetals" BlueprintSubtypeId="CompactedSilverOreToIngot" />
+
+        <Entry Class="CompactedAdvancedMetals" BlueprintSubtypeId="CompactedGoldOreToIngot" />
+        <Entry Class="CompactedAdvancedMetals" BlueprintSubtypeId="CompactedUraniumOreToIngot" />
+        <Entry Class="CompactedAdvancedMetals" BlueprintSubtypeId="CompactedPlatinumOreToIngot" />
 
         <Entry Class="Ingots" BlueprintSubtypeId="CompactedStoneOreToIngot" />
         <Entry Class="Ingots" BlueprintSubtypeId="CompactedIronOreToIngot" />
