@@ -43,7 +43,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>40</BuildTimeSeconds>
+            <BuildTimeSeconds>20</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>0.75</MaxPowerOutput>
@@ -233,7 +233,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>40</BuildTimeSeconds>
+            <BuildTimeSeconds>20</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>1.5</MaxPowerOutput>
@@ -424,7 +424,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>100</BuildTimeSeconds>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>20</MaxPowerOutput>
             <InventorySize>
@@ -613,7 +613,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>100</BuildTimeSeconds>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>40</MaxPowerOutput>
             <InventorySize>
@@ -1002,7 +1002,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>40</BuildTimeSeconds>
+            <BuildTimeSeconds>20</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>3</MaxPowerOutput>
@@ -1199,7 +1199,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>100</BuildTimeSeconds>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>65</MaxPowerOutput>
             <InventorySize>
@@ -1394,7 +1394,7 @@
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
-            <BuildTimeSeconds>100</BuildTimeSeconds>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
             <MaxPowerOutput>100</MaxPowerOutput>
             <InventorySize>

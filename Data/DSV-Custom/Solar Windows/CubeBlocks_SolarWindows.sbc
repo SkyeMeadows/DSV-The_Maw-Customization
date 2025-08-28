@@ -118,7 +118,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>   
@@ -253,7 +253,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>
@@ -376,7 +376,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>
@@ -512,7 +512,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>
@@ -636,7 +636,7 @@
           <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
           <DestroySound>PoofExplosionCat3</DestroySound>
           <PCU>55</PCU>
-          <IsAirTight>false</IsAirTight>
+          <IsAirTight>true</IsAirTight>
           <TargetingGroups>
               <string>PowerSystems</string>
           </TargetingGroups>
@@ -761,7 +761,7 @@
           <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
           <DestroySound>PoofExplosionCat3</DestroySound>
           <PCU>55</PCU>
-          <IsAirTight>false</IsAirTight>
+          <IsAirTight>true</IsAirTight>
           <TargetingGroups>
               <string>PowerSystems</string>
           </TargetingGroups>   
@@ -896,7 +896,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>      
@@ -1019,7 +1019,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>      
@@ -1142,7 +1142,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>     
@@ -1277,7 +1277,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>         
@@ -1403,7 +1403,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>       
@@ -1529,7 +1529,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>       
@@ -1656,7 +1656,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>      
@@ -1783,7 +1783,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>       
@@ -1915,7 +1915,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>      
@@ -2038,7 +2038,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>
@@ -2202,7 +2202,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>  
@@ -2324,7 +2324,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>        
@@ -2455,7 +2455,7 @@
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
             <PCU>55</PCU>
-            <IsAirTight>false</IsAirTight>
+            <IsAirTight>true</IsAirTight>
             <TargetingGroups>
                 <string>PowerSystems</string>
             </TargetingGroups>  
