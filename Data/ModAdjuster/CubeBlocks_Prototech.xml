@@ -178,14 +178,15 @@
                 <TypeId>HydrogenEngine</TypeId>
                 <SubtypeId>LargePrototechReactor</SubtypeId>
             </Id>
-            <MaxPowerOutput>2400</MaxPowerOutput>
-            <FuelCapacity>3000000</FuelCapacity>
+            <MaxPowerOutput>10000</MaxPowerOutput>
+            <FuelCapacity>6000000</FuelCapacity>
             <FuelInfos>
                 <FuelInfo>
                     <Id>
                         <TypeId>GasProperties</TypeId>
                         <SubtypeId>Hydrogen</SubtypeId>
                     </Id>
+                    <Ratio>0.25<Ratio>
                 </FuelInfo>
             </FuelInfos>
             <FuelProductionToCapacityMultiplier>0.4</FuelProductionToCapacityMultiplier>
