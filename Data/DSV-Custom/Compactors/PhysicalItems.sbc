@@ -17,6 +17,7 @@
       <Volume>0.135</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Stone</PhysicalMaterial>
+      <IconSymbol>Stone</IconSymbol>
     </PhysicalItem>
     <PhysicalItem>
       <Id>
@@ -196,6 +197,7 @@
       <Volume>0.135</Volume>
       <Model>Models\Components\Sphere.mwm</Model>
       <PhysicalMaterial>Ice</PhysicalMaterial>
+      <IconSymbol>Ice</IconSymbol>
     </PhysicalItem>
   </PhysicalItems>
 </Definitions>
