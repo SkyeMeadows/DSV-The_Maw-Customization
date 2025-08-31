@@ -43,7 +43,7 @@
                 <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\OxygenGeneratorConstruction_2.mwm" />
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\OxygenGeneratorConstruction_3.mwm" />
             </BuildProgressModels>
-            <BlockPairName>OxygenGenerator</BlockPairName>
+            <BlockPairName>KarnyxiumOxygenGenerator</BlockPairName>
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
