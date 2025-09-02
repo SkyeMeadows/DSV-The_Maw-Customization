@@ -8509,7 +8509,7 @@
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
             </Components>
-            <CriticalComponent Subtype="LargeTube" Index="0" />
+            <CriticalComponent Subtype="DSV-EchoSeal" Index="0" />
             <Center x="1" y="1" z="2" />
             <MountPoints>
                 <MountPoint Side="Back" StartX="0" StartY="1" EndX="3" EndY="2" Default="true"/>
@@ -8616,7 +8616,7 @@
                 <Component Subtype="Construction" Count="30" />
                 <Component Subtype="SteelPlate" Count="50" />
             </Components>
-            <CriticalComponent Subtype="LargeTube" Index="0" />
+            <CriticalComponent Subtype="DSV-EchoSeal" Index="0" />
             <Center x="1" y="1" z="2" />
             <MountPoints>
                 <MountPoint Side="Back" StartX="0" StartY="1" EndX="3" EndY="2" Default="true"/>
@@ -8724,7 +8724,7 @@
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="SteelPlate" Count="10" />
             </Components>
-            <CriticalComponent Subtype="LargeTube" Index="0" />
+            <CriticalComponent Subtype="DSV-EchoSeal" Index="0" />
             <MountPoints>
                 <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" Default="true" />
                 <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
@@ -9148,7 +9148,7 @@
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="SteelPlate" Count="5" />
             </Components>
-            <CriticalComponent Subtype="LargeTube" Index="0" />
+            <CriticalComponent Subtype="DSV-EchoSeal" Index="0" />
             <MountPoints>
                 <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" Default="true"/>
                 <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
@@ -9254,7 +9254,7 @@
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="SteelPlate" Count="5" />
             </Components>
-            <CriticalComponent Subtype="LargeTube" Index="0" />
+            <CriticalComponent Subtype="DSV-EchoSeal" Index="0" />
             <MountPoints>
                 <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" Default="true"/>
                 <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
