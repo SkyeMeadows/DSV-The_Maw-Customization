@@ -46,7 +46,7 @@
             <BuildTimeSeconds>20</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>0.375</MaxPowerOutput>
+            <MaxPowerOutput>0.75</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -75,7 +75,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
 
@@ -141,7 +141,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>11</MaxPowerOutput>
+            <MaxPowerOutput>20</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -170,7 +170,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
 
@@ -236,7 +236,7 @@
             <BuildTimeSeconds>20</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>0.625</MaxPowerOutput>
+            <MaxPowerOutput>1.5</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -333,7 +333,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>40</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -426,7 +426,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>11.25</MaxPowerOutput>
+            <MaxPowerOutput>20</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -454,7 +454,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
@@ -522,7 +522,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>225</MaxPowerOutput>
+            <MaxPowerOutput>450</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -550,7 +550,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
@@ -615,7 +615,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>40</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -711,7 +711,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>400</MaxPowerOutput>
+            <MaxPowerOutput>800</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -809,7 +809,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>0.625</MaxPowerOutput>
+            <MaxPowerOutput>2</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -838,7 +838,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
 
@@ -907,7 +907,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>65</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -936,7 +936,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
 
@@ -1005,7 +1005,7 @@
             <BuildTimeSeconds>20</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>1</MaxPowerOutput>
+            <MaxPowerOutput>3</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -1105,7 +1105,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>30</MaxPowerOutput>
+            <MaxPowerOutput>100</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -1201,7 +1201,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>65</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -1229,7 +1229,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
@@ -1300,7 +1300,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>400</MaxPowerOutput>
+            <MaxPowerOutput>1300</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -1328,7 +1328,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
@@ -1396,7 +1396,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>30</MaxPowerOutput>
+            <MaxPowerOutput>100</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -1495,7 +1495,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>600</MaxPowerOutput>
+            <MaxPowerOutput>2000</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -1595,7 +1595,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
 
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>60</MaxPowerOutput>
+            <MaxPowerOutput>200</MaxPowerOutput>
 
             <InventorySize>
                 <X>1</X>
@@ -1624,7 +1624,7 @@
                         <TypeId>Ore</TypeId>
                         <SubtypeId>Karnyxium</SubtypeId>
                     </Id>
-                    <Ratio>50</Ratio>
+                    <Ratio>40</Ratio>
                 </FuelInfo>
             </FuelInfos>
 
@@ -1697,7 +1697,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>1200</MaxPowerOutput>
+            <MaxPowerOutput>4000</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -1725,7 +1725,7 @@
                         <TypeId>Ore</TypeId>
                         <SubtypeId>Karnyxium</SubtypeId>
                     </Id>
-                    <Ratio>50</Ratio>
+                    <Ratio>40</Ratio>
                 </FuelInfo>
             </FuelInfos>
             
@@ -1791,7 +1791,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>11.25</MaxPowerOutput>
+            <MaxPowerOutput>20</MaxPowerOutput>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -1817,7 +1817,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearSm</PrimarySound>
@@ -1976,7 +1976,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>225</MaxPowerOutput>
+            <MaxPowerOutput>450</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -2002,7 +2002,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
@@ -2029,7 +2029,7 @@
                 <TypeId>Reactor</TypeId>
                 <SubtypeId>DSV-LG_LargeReactor_Variant_Accelerated_Warfare</SubtypeId>
             </Id>
-            <DisplayName>Accelerated Warfare Large Reactor</DisplayName>
+            <DisplayName>Accelerated Large Warfare Reactor</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\ReactorReskinLarge.dds</Icon>
             <Description>This reactor produces extra power at the cost of a largely increased fuel burn rate.</Description>
             <CubeSize>Large</CubeSize>
@@ -2071,7 +2071,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>400</MaxPowerOutput>
+            <MaxPowerOutput>800</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -2166,7 +2166,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>20</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>0.375</MaxPowerOutput>
+            <MaxPowerOutput>0.75</MaxPowerOutput>
             <InventorySize>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -2192,7 +2192,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipSmNuclearSm</PrimarySound>
@@ -2262,7 +2262,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <EdgeType>Light</EdgeType>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>11</MaxPowerOutput>
+            <MaxPowerOutput>20</MaxPowerOutput>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -2288,7 +2288,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.75</Ratio>
+                    <Ratio>0.4</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipSmNuclearLrg</PrimarySound>
@@ -2356,7 +2356,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>20</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>0.625</MaxPowerOutput>
+            <MaxPowerOutput>1.5</MaxPowerOutput>
             <InventorySize>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -2452,7 +2452,7 @@
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <EdgeType>Light</EdgeType>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>40</MaxPowerOutput>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -2548,7 +2548,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>65</MaxPowerOutput>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -2574,7 +2574,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearSm</PrimarySound>
@@ -2646,7 +2646,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>400</MaxPowerOutput>
+            <MaxPowerOutput>1300</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -2672,7 +2672,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
@@ -2837,7 +2837,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>600</MaxPowerOutput>
+            <MaxPowerOutput>2000</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -2935,7 +2935,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>20</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>0.625</MaxPowerOutput>
+            <MaxPowerOutput>2</MaxPowerOutput>
             <InventorySize>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -2961,7 +2961,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipSmNuclearSm</PrimarySound>
@@ -3034,7 +3034,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <EdgeType>Light</EdgeType>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>20</MaxPowerOutput>
+            <MaxPowerOutput>65</MaxPowerOutput>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -3060,7 +3060,7 @@
                         <TypeId>Ingot</TypeId>
                         <SubtypeId>Uranium</SubtypeId>
                     </Id>
-                    <Ratio>0.5</Ratio>
+                    <Ratio>0.2</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipSmNuclearLrg</PrimarySound>
@@ -3326,7 +3326,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>60</MaxPowerOutput>
+            <MaxPowerOutput>200</MaxPowerOutput>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -3352,7 +3352,7 @@
                         <TypeId>Ore</TypeId>
                         <SubtypeId>Karnyxium</SubtypeId>
                     </Id>
-                    <Ratio>50</Ratio>
+                    <Ratio>40</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearSm</PrimarySound>
@@ -3425,7 +3425,7 @@
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>100</BuildTimeSeconds>
             <ResourceSourceGroup>Reactors</ResourceSourceGroup>
-            <MaxPowerOutput>1200</MaxPowerOutput>
+            <MaxPowerOutput>4000</MaxPowerOutput>
             <InventorySize>
                 <X>2</X>
                 <Y>2</Y>
@@ -3451,7 +3451,7 @@
                         <TypeId>Ore</TypeId>
                         <SubtypeId>Karnyxium</SubtypeId>
                     </Id>
-                    <Ratio>50</Ratio>
+                    <Ratio>40</Ratio>
                 </FuelInfo>
             </FuelInfos>
             <PrimarySound>ShipLrgNuclearLrg</PrimarySound>
