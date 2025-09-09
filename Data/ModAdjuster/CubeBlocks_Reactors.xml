@@ -7,6 +7,14 @@
                 <SubtypeId>SmallBlockSmallGenerator</SubtypeId>
             </Id>
             <MaxPowerOutput>1</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
             <Id>
@@ -14,6 +22,14 @@
                 <SubtypeId>SmallBlockLargeGenerator</SubtypeId>
             </Id>
             <MaxPowerOutput>30</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
             <Id>
@@ -21,6 +37,14 @@
                 <SubtypeId>LargeBlockSmallGenerator</SubtypeId>
             </Id>
             <MaxPowerOutput>30</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
             <Id>
@@ -28,6 +52,74 @@
                 <SubtypeId>LargeBlockLargeGenerator</SubtypeId>
             </Id>
             <MaxPowerOutput>600</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
+            <Id>
+                <TypeId>Reactor</TypeId>
+                <SubtypeId>SmallBlockSmallGeneratorWarfare2</SubtypeId>
+            </Id>
+            <MaxPowerOutput>1</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
+            <Id>
+                <TypeId>Reactor</TypeId>
+                <SubtypeId>SmallBlockLargeGeneratorWarfare2</SubtypeId>
+            </Id>
+            <MaxPowerOutput>30</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
+            <Id>
+                <TypeId>Reactor</TypeId>
+                <SubtypeId>LargeBlockSmallGeneratorWarfare2</SubtypeId>
+            </Id>
+            <MaxPowerOutput>30</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ReactorDefinition">
+            <Id>
+                <TypeId>Reactor</TypeId>
+                <SubtypeId>LargeBlockLargeGeneratorWarfare2</SubtypeId>
+            </Id>
+            <MaxPowerOutput>600</MaxPowerOutput>
+            <FuelInfos>
+                <FuelInfo>
+                    <Id>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Uranium</SubtypeId>
+                    </Id>
+                </FuelInfo>
+            </FuelInfos>
         </Definition>
     </CubeBlocks>
 </Definitions>
