@@ -33,7 +33,7 @@
                 <Item Amount="1.5" TypeId="Ingot" SubtypeId="Cobalt" />
                 <Item Amount="0.5" TypeId="Ingot" SubtypeId="Gold" />
             </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="DSV-Small KarnyxiumCore" />
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-SmallKarnyxiumCore" />
             <BaseProductionTimeInSeconds>5</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
