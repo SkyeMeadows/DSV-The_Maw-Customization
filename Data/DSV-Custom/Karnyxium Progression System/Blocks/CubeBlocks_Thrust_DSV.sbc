@@ -7661,7 +7661,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -7766,7 +7766,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -7870,7 +7870,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
                 <Component Subtype="DSV-RecursiveHeater" Count="3" />
@@ -7974,7 +7974,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
                 <Component Subtype="DSV-RecursiveHeater" Count="3" />
@@ -8926,7 +8926,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="20" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
                 <Component Subtype="LargeTube" Count="10" />
@@ -9032,7 +9032,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="20" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
                 <Component Subtype="LargeTube" Count="10" />
@@ -9139,7 +9139,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="2" />
@@ -9245,7 +9245,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="LargeTube" Count="2" />
@@ -9802,7 +9802,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="10" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
@@ -9916,7 +9916,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="10" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
@@ -10031,7 +10031,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -10146,7 +10146,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -11200,7 +11200,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="4" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
@@ -11318,7 +11318,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="4" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
@@ -11436,7 +11436,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="4" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
@@ -11554,7 +11554,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="4" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="2" />
                 <Component Subtype="MetalGrid" Count="3" />
@@ -11673,7 +11673,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -11792,7 +11792,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -11911,7 +11911,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -12030,7 +12030,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -12149,7 +12149,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -12249,7 +12249,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -12348,7 +12348,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
                 <Component Subtype="DSV-RecursiveHeater" Count="2" />
@@ -12447,7 +12447,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
                 <Component Subtype="DSV-RecursiveHeater" Count="2" />
@@ -13380,7 +13380,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="10" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
@@ -13488,7 +13488,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="10" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="4" />
                 <Component Subtype="MetalGrid" Count="8" />
@@ -13597,7 +13597,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -13707,7 +13707,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="MetalGrid" Count="1" />
@@ -13817,7 +13817,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -13917,7 +13917,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -14016,7 +14016,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
                 <Component Subtype="DSV-RecursiveHeater" Count="3" />
@@ -14119,7 +14119,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="1" />
                 <Component Subtype="LargeTube" Count="5" />
                 <Component Subtype="DSV-RecursiveHeater" Count="3" />
@@ -15046,7 +15046,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="20" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
                 <Component Subtype="DSV-RecursiveHeater" Count="5" />
@@ -15150,7 +15150,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="20" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="20" />
                 <Component Subtype="MetalGrid" Count="22" />
                 <Component Subtype="DSV-RecursiveHeater" Count="5" />
@@ -15255,7 +15255,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />
@@ -15357,7 +15357,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="DSV-RecursiveHeater" Count="1" />

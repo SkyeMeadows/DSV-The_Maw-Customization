@@ -777,7 +777,7 @@
             <Model>Models\Cubes\Small\GeneratorSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="LargeTube" Count="1" />
@@ -875,7 +875,7 @@
             <Model>Models\Cubes\Small\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="9" />
                 <Component Subtype="MetalGrid" Count="9" />
                 <Component Subtype="LargeTube" Count="3" />
@@ -973,7 +973,7 @@
             <Model>Models\Cubes\Small\GeneratorSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="LargeTube" Count="1" />
@@ -1072,7 +1072,7 @@
             <Model>Models\Cubes\Small\GeneratorLarge.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="9" />
                 <Component Subtype="MetalGrid" Count="9" />
                 <Component Subtype="LargeTube" Count="3" />
@@ -2901,7 +2901,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="LargeTube" Count="1" />
@@ -3000,7 +3000,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="9" />
                 <Component Subtype="MetalGrid" Count="9" />
                 <Component Subtype="LargeTube" Count="3" />
@@ -3097,7 +3097,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="10" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="LargeTube" Count="1" />
@@ -3196,7 +3196,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="40" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="9" />
                 <Component Subtype="MetalGrid" Count="9" />
                 <Component Subtype="LargeTube" Count="3" />

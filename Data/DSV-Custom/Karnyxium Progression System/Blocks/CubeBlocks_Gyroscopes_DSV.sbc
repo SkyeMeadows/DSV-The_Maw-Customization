@@ -347,7 +347,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="15" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-EntropyMatrix" Count="1" />
@@ -402,7 +402,7 @@
             <SilenceableByShipSoundSystem>true</SilenceableByShipSoundSystem>
             <Components>
                 <Component Subtype="SteelPlate" Count="15" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="5" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="DSV-EntropyMatrix" Count="1" />

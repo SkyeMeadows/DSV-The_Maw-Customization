@@ -16,7 +16,7 @@
             <Model>Models\Cubes\Small\OxygenStorage.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="10" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="LargeTube" Count="8" />
                 <Component Subtype="SmallTube" Count="10" />
                 <Component Subtype="Computer" Count="8" />
@@ -99,7 +99,7 @@
             <Model>Models\Cubes\Small\SmallOxygenTank.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="SmallTube" Count="1" />
                 <Component Subtype="Computer" Count="4" />
@@ -429,7 +429,7 @@
             <Model>Models\Cubes\Small\HydrogenTank.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="30" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="LargeTube" Count="20" />
                 <Component Subtype="SmallTube" Count="30" />
                 <Component Subtype="Computer" Count="4" />
@@ -525,7 +525,7 @@
             <Model>Models\Cubes\Small\HydrogenTankSmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="2" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="LargeTube" Count="1" />
                 <Component Subtype="SmallTube" Count="2" />
                 <Component Subtype="Computer" Count="4" />

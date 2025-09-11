@@ -478,7 +478,7 @@
             <Model>Models\Cubes\Small\BatterySmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="5" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="PowerCell" Count="20">
                     <DeconstructId>
@@ -614,7 +614,7 @@
             <Model>Models\Cubes\Small\BatterySmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="5" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="PowerCell" Count="20">
                     <DeconstructId>
@@ -750,7 +750,7 @@
             <Model>Models\Cubes\Small\BatterySmall.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="5" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="PowerCell" Count="20">
                     <DeconstructId>
@@ -1420,7 +1420,7 @@
             <Model>Models\Cubes\Small\BatteryReskin.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="5" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="PowerCell" Count="20">
                     <DeconstructId>
@@ -1492,7 +1492,7 @@
             <Model>Models\Cubes\Small\BatteryReskin.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="5" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="PowerCell" Count="20">
                     <DeconstructId>
@@ -1564,7 +1564,7 @@
             <Model>Models\Cubes\Small\BatteryReskin.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="5" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="PowerCell" Count="20">
                     <DeconstructId>

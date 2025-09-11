@@ -68,7 +68,7 @@
             <Model>Models\Cubes\Small\OreDetector.mwm</Model>
             <Components>
                 <Component Subtype="SteelPlate" Count="1" />
-                <Component Subtype="DSV-KarnyxiumCore" Count="1" />
+                <Component Subtype="DSV-SmallKarnyxiumCore" Count="1" />
                 <Component Subtype="Construction" Count="2" />
                 <Component Subtype="Motor" Count="1" />
                 <Component Subtype="Computer" Count="1" />

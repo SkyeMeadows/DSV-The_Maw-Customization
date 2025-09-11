@@ -19,6 +19,24 @@
             <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
+        
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DSV-SmallKarnyxiumCore</SubtypeId>
+            </Id>
+            <DisplayName>Small Karynxium Core</DisplayName>
+            <Icon>Textures\GUI\Icons\component\Jump_Catalyst.dds</Icon>
+            <Prerequisites>
+                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Karnyxium" />
+                <Item Amount="10" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="1.5" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Gold" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="DSV-Small KarnyxiumCore" />
+            <BaseProductionTimeInSeconds>5</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
 
         <Blueprint>
             <Id>
