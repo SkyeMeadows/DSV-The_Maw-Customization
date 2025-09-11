@@ -42,78 +42,12 @@
             <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.08</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -177,78 +111,12 @@
             <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.08</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -300,78 +168,11 @@
             <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.08</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -436,78 +237,12 @@
             <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.08</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -560,78 +295,11 @@
           <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
           <MaxPowerOutput>0.08</MaxPowerOutput>
           <PanelOrientation>
-              <X>0</X>
+              <X>-1</X>
               <Y>0</Y>
-              <Z>-1</Z>
+              <Z>0</Z>
           </PanelOrientation>
           <TwoSidedPanel>true</TwoSidedPanel>
-          <Pivots>
-              <Vector3>
-                <X>0</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>0</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>0</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>0</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>-1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>-1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>-1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>-1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-          </Pivots>
           <EmissiveColorPreset>Default</EmissiveColorPreset>
           <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
           <DestroySound>PoofExplosionCat3</DestroySound>
@@ -685,78 +353,11 @@
           <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
           <MaxPowerOutput>0.08</MaxPowerOutput>
           <PanelOrientation>
-              <X>0</X>
+              <X>-1</X>
               <Y>0</Y>
-              <Z>-1</Z>
+              <Z>0</Z>
           </PanelOrientation>
           <TwoSidedPanel>true</TwoSidedPanel>
-          <Pivots>
-              <Vector3>
-                <X>0</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>0</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>0</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>0</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>-1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>-1.33</X>
-                <Y>0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              
-              <Vector3>
-                <X>-1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-              <Vector3>
-                <X>-1.33</X>
-                <Y>-0.5</Y>
-                <Z>0.45</Z>
-              </Vector3>
-          </Pivots>
           <EmissiveColorPreset>Default</EmissiveColorPreset>
           <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
           <DestroySound>PoofExplosionCat3</DestroySound>
@@ -820,78 +421,12 @@
           <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -943,78 +478,12 @@
         <PhysicalMaterial>Glass</PhysicalMaterial>
         <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1066,78 +535,12 @@
       <PhysicalMaterial>Glass</PhysicalMaterial>
       <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1201,78 +604,12 @@
         <PhysicalMaterial>Glass</PhysicalMaterial>
         <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1327,78 +664,12 @@
         <PhysicalMaterial>Glass</PhysicalMaterial>
         <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1453,78 +724,12 @@
         <PhysicalMaterial>Glass</PhysicalMaterial>
         <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1580,78 +785,12 @@
         <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1707,78 +846,12 @@
         <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1839,78 +912,12 @@
         <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.16</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -1962,78 +969,12 @@
         <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.24</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -2086,78 +1027,12 @@
         <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.24</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -2209,78 +1084,11 @@
       <PhysicalMaterial>Glass</PhysicalMaterial>
       <MaxPowerOutput>0.32</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -2331,78 +1139,12 @@
         <PhysicalMaterial>Glass</PhysicalMaterial>
         <MaxPowerOutput>0.32</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
@@ -2462,78 +1204,12 @@
         <ResourceSourceGroup>SolarPanels</ResourceSourceGroup>
             <MaxPowerOutput>0.08</MaxPowerOutput>
             <PanelOrientation>
-                <X>0</X>
+                <X>-1</X>
                 <Y>0</Y>
-                <Z>-1</Z>
+                <Z>0</Z>
             </PanelOrientation>
             <TwoSidedPanel>true</TwoSidedPanel>
-            <Pivots>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>0</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-                <Vector3>
-                  <X>-1.33</X>
-                  <Y>-0.5</Y>
-                  <Z>0.45</Z>
-                </Vector3>
-            </Pivots>
+            
             <EmissiveColorPreset>Default</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyed_Large3X</DestroyEffect>
             <DestroySound>PoofExplosionCat3</DestroySound>
